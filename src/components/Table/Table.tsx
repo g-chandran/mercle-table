@@ -1,5 +1,6 @@
 import styles from "./Table.module.css";
-import type { Mockdata } from "../../assets/mockData";
+import { Mockdata, STATUS_BACKGROUND_MAPPING } from "../../assets/mockData";
+import { SoloText } from "../tableComponents/SoloText/SoloText";
 
 export function Table({ data }: { data: Mockdata[] }) {
   return (
@@ -28,9 +29,18 @@ export function Table({ data }: { data: Mockdata[] }) {
             <td>{row.id}</td>
             <td>{row.nftName}</td>
             <td>{row.description}</td>
-            <td>{row.attributes}</td>
-            <td>{row.status}</td>
-            <td>{row.dateClaimed.toDateString()}</td>
+            <td>
+              {row.attributes.map((attribute) => (
+                <SoloText text={attribute} style="" />
+              ))}
+            </td>
+            <td>
+              <SoloText
+                text={row.status}
+                style={STATUS_BACKGROUND_MAPPING[row.status]}
+              />
+            </td>
+            <td>{new Date(row.dateClaimed).toLocaleString()}</td>
           </tr>
         ))}
         <tr>
