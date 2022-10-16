@@ -10,12 +10,14 @@ export const STATUS_BACKGROUND_MAPPING = {
   [Status.Claimed]: "green",
 };
 
+export type Attributes = Array<"Silver" | "Medal" | "Bronze">;
+
 export interface Mockdata {
   id: string;
   nftName: string;
   nftAvatar: string;
   description: string;
-  attributes: Array<"Silver" | "Medal" | "Bronze">;
+  attributes: Attributes;
   status: Status;
   dateClaimed: EpochTimeStamp;
 }

@@ -46,3 +46,7 @@ tbody tr > td {
   color: var(--text-primary);
   text-align: left;
 }
+
+.dateClaimedRow {
+  text-align: right;
+}

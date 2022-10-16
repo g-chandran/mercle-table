@@ -1,5 +1,9 @@
 import styles from "./Table.module.css";
-import { Mockdata, STATUS_BACKGROUND_MAPPING } from "../../assets/mockData";
+import {
+  Attributes,
+  Mockdata,
+  STATUS_BACKGROUND_MAPPING,
+} from "../../assets/mockData";
 import { SoloText } from "../tableComponents/SoloText/SoloText";
 import { NftTitle } from "../tableComponents/NftTitle/NftTitle";
 
@@ -10,6 +14,13 @@ export function Table({ data }: { data: Mockdata[] }) {
       day: "numeric",
       year: "numeric",
     });
+
+  const splitAttributes = (attributes: Attributes) => {
+    if (attributes.length > 2) {
+      return [...attributes.slice(0, 2), `+${attributes.length - 2}`];
+    }
+    return attributes;
+  };
 
   return (
     <table className={styles.table}>
@@ -26,7 +37,9 @@ export function Table({ data }: { data: Mockdata[] }) {
             Attributes
           </th>
           <th className={`${styles.theadTitle} ${styles.status}`}>Status</th>
-          <th className={`${styles.theadTitle} ${styles.dateClaimed}`}>
+          <th
+            className={`${styles.theadTitle} ${styles.dateClaimed} ${styles.dateClaimedRow}`}
+          >
             Date Claimed
           </th>
         </tr>
@@ -40,7 +53,7 @@ export function Table({ data }: { data: Mockdata[] }) {
             </td>
             <td>{row.description}</td>
             <td>
-              {row.attributes.map((attribute) => (
+              {splitAttributes(row.attributes).map((attribute) => (
                 <SoloText key={attribute} text={attribute} />
               ))}
             </td>
@@ -50,7 +63,9 @@ export function Table({ data }: { data: Mockdata[] }) {
                 style={STATUS_BACKGROUND_MAPPING[row.status]}
               />
             </td>
-            <td>{getFormattedClaimedDate(row.dateClaimed)}</td>
+            <td className={styles.dateClaimedRow}>
+              {getFormattedClaimedDate(row.dateClaimed)}
+            </td>
           </tr>
         ))}
       </tbody>
