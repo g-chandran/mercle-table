@@ -1,0 +1,46 @@
+.table {
+  width: max(calc(100% - 2rem), 80rem);
+  margin: 0 1rem;
+  background-color: var(--primary-color);
+  border-radius: 0.5rem 0.5rem 0 0;
+}
+
+.table td,
+.table th {
+  padding: 1rem;
+}
+
+.id {
+  width: 20%;
+}
+
+.nftName {
+  width: 10%;
+}
+
+.description {
+  width: 30%;
+}
+
+.attributes {
+  width: 20%;
+}
+
+.status {
+  width: 10%;
+}
+
+.dateClaimed {
+  width: 10%;
+}
+
+tbody tr>td {
+  color: var(--text-primary);
+}
+
+.theadTitle {
+  font-weight: normal;
+  font-size: calc(1rem - 2px);
+  color: var(--text-primary);
+  text-align: left;
+}
