@@ -1,6 +1,7 @@
 import styles from "./Table.module.css";
 import { Mockdata, STATUS_BACKGROUND_MAPPING } from "../../assets/mockData";
 import { SoloText } from "../tableComponents/SoloText/SoloText";
+import { NftTitle } from "../tableComponents/NftTitle/NftTitle";
 
 export function Table({ data }: { data: Mockdata[] }) {
   return (
@@ -27,7 +28,9 @@ export function Table({ data }: { data: Mockdata[] }) {
         {data.map((row, index) => (
           <tr key={`${row.id}_${index}`}>
             <td>{row.id}</td>
-            <td>{row.nftName}</td>
+            <td>
+              <NftTitle title={row.nftName} imgUrl={row.nftAvatar} />
+            </td>
             <td>{row.description}</td>
             <td>
               {row.attributes.map((attribute) => (

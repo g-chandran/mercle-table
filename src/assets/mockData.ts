@@ -23,7 +23,7 @@ export interface Mockdata {
 export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar: "https://robohash.org/esseutinventore.png?size=40x40&set=set1",
-    nftName: "Horizontal",
+    nftName: "Orange Crab-face",
     description: "Closed [endoscopic] biopsy of pancreatic duct",
     dateClaimed: 1635505620,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -32,7 +32,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiaoditsequi.png?size=40x40&set=set1",
-    nftName: "full-range",
+    nftName: "Orange Crab-face",
     description: "Unspecified operation on bone injury, humerus",
     dateClaimed: 1636983632,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -42,7 +42,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/omnisdolorescumque.png?size=40x40&set=set1",
-    nftName: "Enterprise-wide",
+    nftName: "Orange Crab-face",
     description: "Other vacuum extraction",
     dateClaimed: 1643479234,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -51,7 +51,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/enimveniamet.png?size=40x40&set=set1",
-    nftName: "upward-trending",
+    nftName: "Orange Crab-face",
     description: "Open reduction of dislocation of hand and finger",
     dateClaimed: 1645555967,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -60,7 +60,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autemquieos.png?size=40x40&set=set1",
-    nftName: "Cross-group",
+    nftName: "Orange Crab-face",
     description: "Repair of sympathetic nerve or ganglion",
     dateClaimed: 1662156807,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -69,7 +69,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quosnonmaxime.png?size=40x40&set=set1",
-    nftName: "disintermediate",
+    nftName: "Orange Crab-face",
     description: "Closure of other fistula of ureter",
     dateClaimed: 1661940514,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -78,7 +78,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiexplicabooptio.png?size=40x40&set=set1",
-    nftName: "Diverse",
+    nftName: "Orange Crab-face",
     description: "Cerebral thermography",
     dateClaimed: 1641114068,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -88,7 +88,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/expeditaaliquamdeserunt.png?size=40x40&set=set1",
-    nftName: "Reduced",
+    nftName: "Orange Crab-face",
     description: "Insertion or replacement of interspinous process device(s)",
     dateClaimed: 1641163545,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -97,7 +97,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/omnisautsunt.png?size=40x40&set=set1",
-    nftName: "national",
+    nftName: "Orange Crab-face",
     description: "Removal of other device from thorax",
     dateClaimed: 1653698758,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -106,7 +106,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autemutamet.png?size=40x40&set=set1",
-    nftName: "Organized",
+    nftName: "Orange Crab-face",
     description: "Open reduction of alveolar fracture",
     dateClaimed: 1654704657,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -116,7 +116,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/suscipitisteconsequuntur.png?size=40x40&set=set1",
-    nftName: "tangible",
+    nftName: "Orange Crab-face",
     description: "Excision of lesion of orbit",
     dateClaimed: 1661803175,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -126,7 +126,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/illumvoluptatibusassumenda.png?size=40x40&set=set1",
-    nftName: "architecture",
+    nftName: "Orange Crab-face",
     description: "Insertion of percutaneous external heart assist device",
     dateClaimed: 1646177294,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -135,7 +135,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utillummagni.png?size=40x40&set=set1",
-    nftName: "encompassing",
+    nftName: "Orange Crab-face",
     description: "Fetal EKG (scalp)",
     dateClaimed: 1646760698,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -145,7 +145,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/asperioresomnisaccusamus.png?size=40x40&set=set1",
-    nftName: "real-time",
+    nftName: "Orange Crab-face",
     description: "Enlargement of existing atrial septal defect",
     dateClaimed: 1645091758,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -155,7 +155,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quamconsequaturquo.png?size=40x40&set=set1",
-    nftName: "systemic",
+    nftName: "Orange Crab-face",
     description: "Closed osteoplasty [osteotomy] of mandibular ramus",
     dateClaimed: 1644848840,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -164,7 +164,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/beataeessenemo.png?size=40x40&set=set1",
-    nftName: "Centralized",
+    nftName: "Orange Crab-face",
     description: "Incision of periprostatic tissue",
     dateClaimed: 1647337248,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -174,7 +174,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/magnidignissimosrem.png?size=40x40&set=set1",
-    nftName: "protocol",
+    nftName: "Orange Crab-face",
     description: "Other vaccination and inoculation",
     dateClaimed: 1636629810,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -183,7 +183,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etmaximeipsa.png?size=40x40&set=set1",
-    nftName: "fault-tolerant",
+    nftName: "Orange Crab-face",
     description: "Other revision of stoma of large intestine",
     dateClaimed: 1635578576,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -193,7 +193,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quaeratvoluptatumdolores.png?size=40x40&set=set1",
-    nftName: "radical",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from ear, nose, throat, and larynx, culture",
     dateClaimed: 1636761966,
@@ -203,7 +203,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/atdoloresmagnam.png?size=40x40&set=set1",
-    nftName: "Distributed",
+    nftName: "Orange Crab-face",
     description: "Decompression chamber",
     dateClaimed: 1662921713,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -213,7 +213,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/laudantiumdelectusqui.png?size=40x40&set=set1",
-    nftName: "matrix",
+    nftName: "Orange Crab-face",
     description: "Replantation of penis",
     dateClaimed: 1663107692,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -222,7 +222,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/liberoquiamodi.png?size=40x40&set=set1",
-    nftName: "4th generation",
+    nftName: "Orange Crab-face",
     description: "Excision of branchial cleft cyst or vestige",
     dateClaimed: 1640557351,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -232,7 +232,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/sitnisiperferendis.png?size=40x40&set=set1",
-    nftName: "pricing structure",
+    nftName: "Orange Crab-face",
     description: "Play psychotherapy",
     dateClaimed: 1655610023,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -242,7 +242,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/perspiciatisexpeditatempora.png?size=40x40&set=set1",
-    nftName: "even-keeled",
+    nftName: "Orange Crab-face",
     description: "Other high forceps operation",
     dateClaimed: 1641038148,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -252,7 +252,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/deseruntteneturrerum.png?size=40x40&set=set1",
-    nftName: "impactful",
+    nftName: "Orange Crab-face",
     description: "Reduction of intussusception of alimentary tract",
     dateClaimed: 1637699345,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -261,7 +261,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nesciuntetquia.png?size=40x40&set=set1",
-    nftName: "Profound",
+    nftName: "Orange Crab-face",
     description: "Insertion of bone growth stimulator, carpals and metacarpals",
     dateClaimed: 1662938361,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -270,7 +270,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/fugitdoloremnihil.png?size=40x40&set=set1",
-    nftName: "client-driven",
+    nftName: "Orange Crab-face",
     description: "Lysis of posterior synechiae",
     dateClaimed: 1660802751,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -279,7 +279,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/fugiatquiaet.png?size=40x40&set=set1",
-    nftName: "attitude",
+    nftName: "Orange Crab-face",
     description: "Reconstruction of eyelid with tarsoconjunctival flap",
     dateClaimed: 1637576724,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -289,7 +289,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/abbeataevoluptatem.png?size=40x40&set=set1",
-    nftName: "Total",
+    nftName: "Orange Crab-face",
     description: "Unspecified operation on bone injury, phalanges of hand",
     dateClaimed: 1637996885,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -298,7 +298,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiquisaepe.png?size=40x40&set=set1",
-    nftName: "zero tolerance",
+    nftName: "Orange Crab-face",
     description: "Other diagnostic procedures on cervix",
     dateClaimed: 1635553726,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -307,7 +307,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/suscipitundeanimi.png?size=40x40&set=set1",
-    nftName: "Devolved",
+    nftName: "Orange Crab-face",
     description:
       "Sequestrectomy, scapula, clavicle, and thorax [ribs and sternum]",
     dateClaimed: 1648888866,
@@ -318,7 +318,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/adipiscideseruntexpedita.png?size=40x40&set=set1",
-    nftName: "time-frame",
+    nftName: "Orange Crab-face",
     description: "Complete laryngectomy",
     dateClaimed: 1659462143,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -327,7 +327,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etullamassumenda.png?size=40x40&set=set1",
-    nftName: "middleware",
+    nftName: "Orange Crab-face",
     description:
       "Excision of other lesion or tissue of spermatic cord and epididymis",
     dateClaimed: 1642578105,
@@ -338,7 +338,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatemvoluptasquod.png?size=40x40&set=set1",
-    nftName: "Open-source",
+    nftName: "Orange Crab-face",
     description: "Intermittent positive pressure breathing [IPPB]",
     dateClaimed: 1662292182,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -347,7 +347,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quisvoluptatemea.png?size=40x40&set=set1",
-    nftName: "moderator",
+    nftName: "Orange Crab-face",
     description: "Bilateral reduction mammoplasty",
     dateClaimed: 1644298511,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -356,7 +356,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiadistinctiout.png?size=40x40&set=set1",
-    nftName: "access",
+    nftName: "Orange Crab-face",
     description: "Exploratory verbal psychotherapy",
     dateClaimed: 1648340679,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -366,7 +366,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/adipiscicorruptiut.png?size=40x40&set=set1",
-    nftName: "clear-thinking",
+    nftName: "Orange Crab-face",
     description: "Polysomnogram",
     dateClaimed: 1635129156,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -376,7 +376,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/exercitationemmollitiaadipisci.png?size=40x40&set=set1",
-    nftName: "Re-engineered",
+    nftName: "Orange Crab-face",
     description: "Incision of external auditory canal",
     dateClaimed: 1651764526,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -385,7 +385,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utquiadipisci.png?size=40x40&set=set1",
-    nftName: "Pre-emptive",
+    nftName: "Orange Crab-face",
     description: "Lumbar sympathectomy",
     dateClaimed: 1648480618,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -395,7 +395,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloremquecumqueminima.png?size=40x40&set=set1",
-    nftName: "empowering",
+    nftName: "Orange Crab-face",
     description:
       "Closed reduction of fracture without internal fixation, femur",
     dateClaimed: 1639967986,
@@ -405,7 +405,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/abetullam.png?size=40x40&set=set1",
-    nftName: "Innovative",
+    nftName: "Orange Crab-face",
     description:
       "Closed reduction of fracture with internal fixation, unspecified site",
     dateClaimed: 1644585234,
@@ -415,7 +415,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/beataenonnesciunt.png?size=40x40&set=set1",
-    nftName: "tertiary",
+    nftName: "Orange Crab-face",
     description:
       "Other local excision or destruction of lesion of joint, foot and toe",
     dateClaimed: 1644218759,
@@ -426,7 +426,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/illumcorporistotam.png?size=40x40&set=set1",
-    nftName: "projection",
+    nftName: "Orange Crab-face",
     description: "Ambulatory cardiac monitoring",
     dateClaimed: 1655056979,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -436,7 +436,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatesnisinobis.png?size=40x40&set=set1",
-    nftName: "Profound",
+    nftName: "Orange Crab-face",
     description:
       "Replacement of any type of pacemaker device with single-chamber device, rate responsive",
     dateClaimed: 1658837330,
@@ -447,7 +447,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/occaecatibeataesaepe.png?size=40x40&set=set1",
-    nftName: "Centralized",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from other site, parasitology",
     dateClaimed: 1643313062,
@@ -458,7 +458,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/numquamnecessitatibusvelit.png?size=40x40&set=set1",
-    nftName: "empowering",
+    nftName: "Orange Crab-face",
     description:
       "Open excision or destruction of other lesion or tissue of bladder",
     dateClaimed: 1639260060,
@@ -469,7 +469,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/nonexpeditavoluptates.png?size=40x40&set=set1",
-    nftName: "exuding",
+    nftName: "Orange Crab-face",
     description: "Incision of vessel, intracranial vessels",
     dateClaimed: 1653543144,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -479,7 +479,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloresesseoccaecati.png?size=40x40&set=set1",
-    nftName: "Profit-focused",
+    nftName: "Orange Crab-face",
     description: "Injection of therapeutic substance into bursa of hand",
     dateClaimed: 1638180344,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -489,7 +489,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/eaqueperferendisvel.png?size=40x40&set=set1",
-    nftName: "Horizontal",
+    nftName: "Orange Crab-face",
     description: "Limb shortening procedures, other bones",
     dateClaimed: 1655843652,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -499,7 +499,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/cumquevoluptatibusillum.png?size=40x40&set=set1",
-    nftName: "exuding",
+    nftName: "Orange Crab-face",
     description:
       "Local excision or destruction of lesion or tissue of bony palate",
     dateClaimed: 1642525714,
@@ -509,7 +509,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiaeumaut.png?size=40x40&set=set1",
-    nftName: "regional",
+    nftName: "Orange Crab-face",
     description: "Injection of other agent, except neurolytic",
     dateClaimed: 1649853288,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -519,7 +519,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quaeratquisasperiores.png?size=40x40&set=set1",
-    nftName: "background",
+    nftName: "Orange Crab-face",
     description: "Delayed closure of granulating abdominal wound",
     dateClaimed: 1652780058,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -528,7 +528,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/omnisestminus.png?size=40x40&set=set1",
-    nftName: "next generation",
+    nftName: "Orange Crab-face",
     description:
       "Other local excision or destruction of lesion of joint, other specified sites",
     dateClaimed: 1646969625,
@@ -538,7 +538,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eosmagnamlabore.png?size=40x40&set=set1",
-    nftName: "customer loyalty",
+    nftName: "Orange Crab-face",
     description: "Other mammoplasty",
     dateClaimed: 1662810930,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -548,7 +548,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quasiperferendisaut.png?size=40x40&set=set1",
-    nftName: "projection",
+    nftName: "Orange Crab-face",
     description:
       "Ligation and stripping of varicose veins, other thoracic vessels",
     dateClaimed: 1653115880,
@@ -559,7 +559,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/delectusprovidentqui.png?size=40x40&set=set1",
-    nftName: "challenge",
+    nftName: "Orange Crab-face",
     description: "Other excision of vessels, upper limb vessels",
     dateClaimed: 1664075524,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -568,7 +568,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/namsitvero.png?size=40x40&set=set1",
-    nftName: "encoding",
+    nftName: "Orange Crab-face",
     description: "Closure of other fistula of trachea",
     dateClaimed: 1641055307,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -578,7 +578,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/molestiasdoloribussed.png?size=40x40&set=set1",
-    nftName: "ability",
+    nftName: "Orange Crab-face",
     description: "Arthrocentesis",
     dateClaimed: 1664644311,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -587,7 +587,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sequivelsapiente.png?size=40x40&set=set1",
-    nftName: "fresh-thinking",
+    nftName: "Orange Crab-face",
     description: "Partial sialoadenectomy",
     dateClaimed: 1648361631,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -597,7 +597,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/consecteturdoloresquia.png?size=40x40&set=set1",
-    nftName: "Inverse",
+    nftName: "Orange Crab-face",
     description: "Closed endoscopic biopsy of lung",
     dateClaimed: 1654881036,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -606,7 +606,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nonculpaomnis.png?size=40x40&set=set1",
-    nftName: "functionalities",
+    nftName: "Orange Crab-face",
     description: "Urethral pressure profile [UPP]",
     dateClaimed: 1660792365,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -615,7 +615,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autquiaillum.png?size=40x40&set=set1",
-    nftName: "Open-source",
+    nftName: "Orange Crab-face",
     description: "Repair of current obstetric laceration of cervix",
     dateClaimed: 1649947813,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -624,7 +624,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utnonfacilis.png?size=40x40&set=set1",
-    nftName: "coherent",
+    nftName: "Orange Crab-face",
     description: "Laparoscopic radical vaginal hysterectomy [LRVH]",
     dateClaimed: 1648120163,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -633,7 +633,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/undeetquas.png?size=40x40&set=set1",
-    nftName: "systematic",
+    nftName: "Orange Crab-face",
     description: "Vaccination against cholera",
     dateClaimed: 1645152369,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -643,7 +643,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/excepturioditaccusantium.png?size=40x40&set=set1",
-    nftName: "background",
+    nftName: "Orange Crab-face",
     description: "Other nonoperative measurements and examinations",
     dateClaimed: 1657437709,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -652,7 +652,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/temporautet.png?size=40x40&set=set1",
-    nftName: "Polarised",
+    nftName: "Orange Crab-face",
     description:
       "Other diagnostic procedures on thyroid and parathyroid glands",
     dateClaimed: 1645025776,
@@ -663,7 +663,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quaeperferendisiusto.png?size=40x40&set=set1",
-    nftName: "support",
+    nftName: "Orange Crab-face",
     description: "Operations on thalamus",
     dateClaimed: 1646892930,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -672,7 +672,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etomnisenim.png?size=40x40&set=set1",
-    nftName: "Universal",
+    nftName: "Orange Crab-face",
     description: "Laparoscopic biopsy of ovary",
     dateClaimed: 1635978385,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -681,7 +681,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autquosab.png?size=40x40&set=set1",
-    nftName: "leverage",
+    nftName: "Orange Crab-face",
     description: "Anastomosis of gallbladder to pancreas",
     dateClaimed: 1648498957,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -691,7 +691,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/delenitiquammolestiae.png?size=40x40&set=set1",
-    nftName: "project",
+    nftName: "Orange Crab-face",
     description: "Application of external fixator device, patella",
     dateClaimed: 1646538646,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -700,7 +700,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/culpamodiamet.png?size=40x40&set=set1",
-    nftName: "strategy",
+    nftName: "Orange Crab-face",
     description: "Closed heart valvotomy, pulmonary valve",
     dateClaimed: 1649230669,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -710,7 +710,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/commodiexveritatis.png?size=40x40&set=set1",
-    nftName: "demand-driven",
+    nftName: "Orange Crab-face",
     description: "Open biopsy of pancreas",
     dateClaimed: 1658021429,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -720,7 +720,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/autessepraesentium.png?size=40x40&set=set1",
-    nftName: "solution",
+    nftName: "Orange Crab-face",
     description: "Other skin traction of limbs",
     dateClaimed: 1648831675,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -729,7 +729,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/enimlaboriosamin.png?size=40x40&set=set1",
-    nftName: "De-engineered",
+    nftName: "Orange Crab-face",
     description: "Diagnostic aspiration of orbit",
     dateClaimed: 1662639953,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -738,7 +738,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sedlaboreet.png?size=40x40&set=set1",
-    nftName: "bifurcated",
+    nftName: "Orange Crab-face",
     description: "Irrigation of vascular catheter",
     dateClaimed: 1643605375,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -747,7 +747,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utquiaillum.png?size=40x40&set=set1",
-    nftName: "global",
+    nftName: "Orange Crab-face",
     description: "Excision of lesion of middle ear",
     dateClaimed: 1663971420,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -757,7 +757,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/perspiciatisquiquidem.png?size=40x40&set=set1",
-    nftName: "Devolved",
+    nftName: "Orange Crab-face",
     description: "Other excision or destruction of lesion of uterus",
     dateClaimed: 1641647335,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -766,7 +766,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/atsedaperiam.png?size=40x40&set=set1",
-    nftName: "Vision-oriented",
+    nftName: "Orange Crab-face",
     description: "Removal of skeletal muscle stimulator",
     dateClaimed: 1639619805,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -775,7 +775,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/voluptatemutnihil.png?size=40x40&set=set1",
-    nftName: "algorithm",
+    nftName: "Orange Crab-face",
     description: "Other excision of joint, elbow",
     dateClaimed: 1662929840,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -785,7 +785,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/iurequisquamaliquid.png?size=40x40&set=set1",
-    nftName: "Innovative",
+    nftName: "Orange Crab-face",
     description: "Facial rhytidectomy",
     dateClaimed: 1661657046,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -795,7 +795,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/reiciendissedimpedit.png?size=40x40&set=set1",
-    nftName: "3rd generation",
+    nftName: "Orange Crab-face",
     description: "Complete glossectomy",
     dateClaimed: 1657014950,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -804,7 +804,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utautsaepe.png?size=40x40&set=set1",
-    nftName: "algorithm",
+    nftName: "Orange Crab-face",
     description: "Implantation of prosthetic device of leg",
     dateClaimed: 1657716509,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -814,7 +814,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/ametperferendisdoloremque.png?size=40x40&set=set1",
-    nftName: "Down-sized",
+    nftName: "Orange Crab-face",
     description: "Microscopic examination of specimen from eye, culture",
     dateClaimed: 1656942698,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -823,7 +823,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/rationenemosed.png?size=40x40&set=set1",
-    nftName: "Ergonomic",
+    nftName: "Orange Crab-face",
     description: "Breathing exercise",
     dateClaimed: 1661811143,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -833,7 +833,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/totamofficiacorrupti.png?size=40x40&set=set1",
-    nftName: "Centralized",
+    nftName: "Orange Crab-face",
     description: "Interview and evaluation, described as brief",
     dateClaimed: 1648003720,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -843,7 +843,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/corporisdistinctiorerum.png?size=40x40&set=set1",
-    nftName: "encompassing",
+    nftName: "Orange Crab-face",
     description: "Other incision of soft tissue of hand",
     dateClaimed: 1653075474,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -852,7 +852,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eaabin.png?size=40x40&set=set1",
-    nftName: "hardware",
+    nftName: "Orange Crab-face",
     description: "Other plastic repair of palate",
     dateClaimed: 1651605889,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -861,7 +861,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utinut.png?size=40x40&set=set1",
-    nftName: "hub",
+    nftName: "Orange Crab-face",
     description: "Other repair of shoulder",
     dateClaimed: 1648444209,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -870,7 +870,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/corporisaliquidat.png?size=40x40&set=set1",
-    nftName: "6th generation",
+    nftName: "Orange Crab-face",
     description: "Heterograft to skin",
     dateClaimed: 1664290820,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -879,7 +879,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sintdoloribusnon.png?size=40x40&set=set1",
-    nftName: "Public-key",
+    nftName: "Orange Crab-face",
     description: "Laparoscopic removal of remaining ovary",
     dateClaimed: 1647059855,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -888,7 +888,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/rerumfacilisomnis.png?size=40x40&set=set1",
-    nftName: "Business-focused",
+    nftName: "Orange Crab-face",
     description: "Operations on globus pallidus",
     dateClaimed: 1664102645,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -898,7 +898,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/occaecaticonsequaturquia.png?size=40x40&set=set1",
-    nftName: "neutral",
+    nftName: "Orange Crab-face",
     description: "Insufflation of fallopian tube",
     dateClaimed: 1640494210,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -908,7 +908,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatemeumexcepturi.png?size=40x40&set=set1",
-    nftName: "Managed",
+    nftName: "Orange Crab-face",
     description: "Sphenoidectomy",
     dateClaimed: 1662591059,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -917,7 +917,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eanequemagni.png?size=40x40&set=set1",
-    nftName: "Multi-channelled",
+    nftName: "Orange Crab-face",
     description: "Isolation",
     dateClaimed: 1658145797,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -927,7 +927,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/occaecaticorporisipsam.png?size=40x40&set=set1",
-    nftName: "real-time",
+    nftName: "Orange Crab-face",
     description: "Destruction of lesion of eyelid",
     dateClaimed: 1640491640,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -937,7 +937,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/estinciduntaliquam.png?size=40x40&set=set1",
-    nftName: "moratorium",
+    nftName: "Orange Crab-face",
     description: "Other arthrotomy, knee",
     dateClaimed: 1639237719,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -946,7 +946,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/estquasirerum.png?size=40x40&set=set1",
-    nftName: "Streamlined",
+    nftName: "Orange Crab-face",
     description: "Percutaneous aspiration of seminal vesicle",
     dateClaimed: 1645936693,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -955,7 +955,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/essedoloresa.png?size=40x40&set=set1",
-    nftName: "Implemented",
+    nftName: "Orange Crab-face",
     description: "Arthrodesis of elbow",
     dateClaimed: 1650887763,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -965,7 +965,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatemdeseruntvoluptas.png?size=40x40&set=set1",
-    nftName: "dynamic",
+    nftName: "Orange Crab-face",
     description: "Thoracoscopic lobectomy of lung",
     dateClaimed: 1637165187,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -975,7 +975,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/totamaliasassumenda.png?size=40x40&set=set1",
-    nftName: "disintermediate",
+    nftName: "Orange Crab-face",
     description: "Uterine artery embolization [UAE] with coils",
     dateClaimed: 1652675543,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -985,7 +985,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/perferendishiceveniet.png?size=40x40&set=set1",
-    nftName: "Open-source",
+    nftName: "Orange Crab-face",
     description: "Extraction of milk from lactating breast",
     dateClaimed: 1656819624,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -994,7 +994,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiaistevitae.png?size=40x40&set=set1",
-    nftName: "matrix",
+    nftName: "Orange Crab-face",
     description: "Electronystagmogram [ENG]",
     dateClaimed: 1665709061,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1003,7 +1003,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/cumnobisnon.png?size=40x40&set=set1",
-    nftName: "executive",
+    nftName: "Orange Crab-face",
     description: "Infundibulectomy",
     dateClaimed: 1643643126,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1012,7 +1012,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utofficiabeatae.png?size=40x40&set=set1",
-    nftName: "homogeneous",
+    nftName: "Orange Crab-face",
     description:
       "Implantation or replacement of peripheral neurostimulator lead(s)",
     dateClaimed: 1643378452,
@@ -1022,7 +1022,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/estnihilcum.png?size=40x40&set=set1",
-    nftName: "Configurable",
+    nftName: "Orange Crab-face",
     description: "Intra-operative coronary fluorescence vascular angiography",
     dateClaimed: 1654932549,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1032,7 +1032,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/odittemporanumquam.png?size=40x40&set=set1",
-    nftName: "product",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from spleen and of bone marrow, culture and sensitivity",
     dateClaimed: 1642329211,
@@ -1043,7 +1043,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/fugiatdignissimosenim.png?size=40x40&set=set1",
-    nftName: "definition",
+    nftName: "Orange Crab-face",
     description:
       "Laparoscopic bilateral repair of indirect inguinal hernia with graft or prosthesis",
     dateClaimed: 1659642151,
@@ -1053,7 +1053,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autinciduntodio.png?size=40x40&set=set1",
-    nftName: "Streamlined",
+    nftName: "Orange Crab-face",
     description: "Incision of cervix to assist delivery",
     dateClaimed: 1651434487,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1063,7 +1063,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quodoloremqueexercitationem.png?size=40x40&set=set1",
-    nftName: "didactic",
+    nftName: "Orange Crab-face",
     description: "Closed reduction of dislocation of hand and finger",
     dateClaimed: 1660638396,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1073,7 +1073,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/estbeataequibusdam.png?size=40x40&set=set1",
-    nftName: "Decentralized",
+    nftName: "Orange Crab-face",
     description: "Proctostomy",
     dateClaimed: 1652804375,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1083,7 +1083,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/maioresfugaconsequatur.png?size=40x40&set=set1",
-    nftName: "core",
+    nftName: "Orange Crab-face",
     description: "Pyelostomy",
     dateClaimed: 1641407221,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1092,7 +1092,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/liberorerumnisi.png?size=40x40&set=set1",
-    nftName: "Integrated",
+    nftName: "Orange Crab-face",
     description: "Pyelostomy",
     dateClaimed: 1664651080,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1101,7 +1101,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiaatest.png?size=40x40&set=set1",
-    nftName: "bottom-line",
+    nftName: "Orange Crab-face",
     description: "Insertion of four or more vascular stents",
     dateClaimed: 1636044770,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1110,7 +1110,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiaremdolore.png?size=40x40&set=set1",
-    nftName: "algorithm",
+    nftName: "Orange Crab-face",
     description: "Suture of capsule or ligament of upper extremity",
     dateClaimed: 1664296652,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1119,7 +1119,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/expeditaremnam.png?size=40x40&set=set1",
-    nftName: "Universal",
+    nftName: "Orange Crab-face",
     description: "Suture of laceration of vas deferens and epididymis",
     dateClaimed: 1654350898,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1128,7 +1128,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/voluptatemsedeum.png?size=40x40&set=set1",
-    nftName: "toolset",
+    nftName: "Orange Crab-face",
     description: "Open reduction of temporomandibular dislocation",
     dateClaimed: 1664150972,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1137,7 +1137,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/facilissequiquis.png?size=40x40&set=set1",
-    nftName: "superstructure",
+    nftName: "Orange Crab-face",
     description: "Suture of laceration of duodenum",
     dateClaimed: 1649573343,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1146,7 +1146,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autemevenietnulla.png?size=40x40&set=set1",
-    nftName: "strategy",
+    nftName: "Orange Crab-face",
     description:
       "Other and open bilateral repair of indirect inguinal hernia with graft or prosthesis",
     dateClaimed: 1641289961,
@@ -1156,7 +1156,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/doloretnostrum.png?size=40x40&set=set1",
-    nftName: "User-friendly",
+    nftName: "Orange Crab-face",
     description: "Transjugular liver biopsy",
     dateClaimed: 1665295455,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1166,7 +1166,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/consequaturarchitectosed.png?size=40x40&set=set1",
-    nftName: "responsive",
+    nftName: "Orange Crab-face",
     description: "Endarterectomy, other vessels of head and neck",
     dateClaimed: 1651191340,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1176,7 +1176,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/officiadeseruntmaiores.png?size=40x40&set=set1",
-    nftName: "Business-focused",
+    nftName: "Orange Crab-face",
     description: "Non-invasive placement of bone growth stimulator",
     dateClaimed: 1653956989,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1186,7 +1186,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/omnisiureveritatis.png?size=40x40&set=set1",
-    nftName: "budgetary management",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of peritoneal and retroperitoneal specimen, parasitology",
     dateClaimed: 1663535975,
@@ -1196,7 +1196,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/uteaducimus.png?size=40x40&set=set1",
-    nftName: "hybrid",
+    nftName: "Orange Crab-face",
     description: "Endarterectomy, upper limb vessels",
     dateClaimed: 1660274437,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1206,7 +1206,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/inciduntsintmollitia.png?size=40x40&set=set1",
-    nftName: "Devolved",
+    nftName: "Orange Crab-face",
     description: "Replacement of vessel-to-vessel cannula",
     dateClaimed: 1642948100,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1215,7 +1215,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/expeditaetomnis.png?size=40x40&set=set1",
-    nftName: "intranet",
+    nftName: "Orange Crab-face",
     description: "Proctotomy",
     dateClaimed: 1645990690,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1224,7 +1224,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/hicautdicta.png?size=40x40&set=set1",
-    nftName: "workforce",
+    nftName: "Orange Crab-face",
     description: "Removal of carotid sinus stimulation device, total system",
     dateClaimed: 1644387269,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1233,7 +1233,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/aliquamquoaut.png?size=40x40&set=set1",
-    nftName: "info-mediaries",
+    nftName: "Orange Crab-face",
     description: "Combined right and left heart angiocardiography",
     dateClaimed: 1659996290,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1242,7 +1242,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utquiaut.png?size=40x40&set=set1",
-    nftName: "Triple-buffered",
+    nftName: "Orange Crab-face",
     description:
       "Arthroplasty of carpocarpal or carpometacarpal joint without implant",
     dateClaimed: 1657200047,
@@ -1252,7 +1252,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/natusautaut.png?size=40x40&set=set1",
-    nftName: "directional",
+    nftName: "Orange Crab-face",
     description: "Other excision of joint, hip",
     dateClaimed: 1643860688,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1262,7 +1262,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/occaecatiquiavoluptatibus.png?size=40x40&set=set1",
-    nftName: "Object-based",
+    nftName: "Orange Crab-face",
     description: "Other cranial or peripheral ganglionectomy",
     dateClaimed: 1663404420,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1271,7 +1271,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sederroraperiam.png?size=40x40&set=set1",
-    nftName: "analyzer",
+    nftName: "Orange Crab-face",
     description: "Other repair of liver",
     dateClaimed: 1652878493,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1281,7 +1281,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/laudantiumcommodienim.png?size=40x40&set=set1",
-    nftName: "implementation",
+    nftName: "Orange Crab-face",
     description:
       "Division of joint capsule, ligament, or cartilage, foot and toe",
     dateClaimed: 1647093362,
@@ -1291,7 +1291,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/automnisest.png?size=40x40&set=set1",
-    nftName: "Reactive",
+    nftName: "Orange Crab-face",
     description: "Other diagnostic procedures on vagina and cul-de-sac",
     dateClaimed: 1661656155,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1300,7 +1300,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etipsumminus.png?size=40x40&set=set1",
-    nftName: "Integrated",
+    nftName: "Orange Crab-face",
     description: "Total excision of pineal gland",
     dateClaimed: 1658934307,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1309,7 +1309,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/ducimussedaut.png?size=40x40&set=set1",
-    nftName: "mission-critical",
+    nftName: "Orange Crab-face",
     description: "Removal of tube from small intestine",
     dateClaimed: 1637684935,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1319,7 +1319,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/etpraesentiumrerum.png?size=40x40&set=set1",
-    nftName: "attitude-oriented",
+    nftName: "Orange Crab-face",
     description: "Other operations on bronchus",
     dateClaimed: 1637881519,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1328,7 +1328,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/vitaeoptioipsa.png?size=40x40&set=set1",
-    nftName: "process improvement",
+    nftName: "Orange Crab-face",
     description: "Closed [endoscopic] biopsy of trachea",
     dateClaimed: 1658158951,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1337,7 +1337,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sintquised.png?size=40x40&set=set1",
-    nftName: "Polarised",
+    nftName: "Orange Crab-face",
     description: "Administration of psychologic test",
     dateClaimed: 1656246971,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1347,7 +1347,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/exercitationemquiaea.png?size=40x40&set=set1",
-    nftName: "static",
+    nftName: "Orange Crab-face",
     description: "Removal of skull tongs or halo traction device",
     dateClaimed: 1660759022,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1357,7 +1357,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/omnisaccusamusvelit.png?size=40x40&set=set1",
-    nftName: "framework",
+    nftName: "Orange Crab-face",
     description: "Vaginal reconstruction",
     dateClaimed: 1648852522,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1366,7 +1366,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quianequecum.png?size=40x40&set=set1",
-    nftName: "groupware",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from other site, bacterial smear",
     dateClaimed: 1636862305,
@@ -1377,7 +1377,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/delenitirepellateos.png?size=40x40&set=set1",
-    nftName: "capability",
+    nftName: "Orange Crab-face",
     description: "Dilation of rectum",
     dateClaimed: 1655458674,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1386,7 +1386,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/fugiatfuganihil.png?size=40x40&set=set1",
-    nftName: "service-desk",
+    nftName: "Orange Crab-face",
     description: "Other exploration and decompression of spinal canal",
     dateClaimed: 1642909358,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1396,7 +1396,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/aspernaturutdolore.png?size=40x40&set=set1",
-    nftName: "leverage",
+    nftName: "Orange Crab-face",
     description: "Scan of other sites",
     dateClaimed: 1658751325,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1406,7 +1406,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/debitisnullatempora.png?size=40x40&set=set1",
-    nftName: "productivity",
+    nftName: "Orange Crab-face",
     description:
       "Implantation of automatic cardioverter/defibrillator pulse generator only",
     dateClaimed: 1661373374,
@@ -1416,7 +1416,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eumtotamdebitis.png?size=40x40&set=set1",
-    nftName: "maximized",
+    nftName: "Orange Crab-face",
     description:
       "Closed reduction of fracture without internal fixation, carpals and metacarpals",
     dateClaimed: 1659604063,
@@ -1427,7 +1427,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/minimaodiopossimus.png?size=40x40&set=set1",
-    nftName: "support",
+    nftName: "Orange Crab-face",
     description:
       "Other incision of bone without division, carpals and metacarpals",
     dateClaimed: 1658029566,
@@ -1437,7 +1437,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/fugiatquissit.png?size=40x40&set=set1",
-    nftName: "homogeneous",
+    nftName: "Orange Crab-face",
     description: "Hemodialysis",
     dateClaimed: 1664164607,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1446,7 +1446,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utametdeserunt.png?size=40x40&set=set1",
-    nftName: "Streamlined",
+    nftName: "Orange Crab-face",
     description: "Sequestrectomy of facial bone",
     dateClaimed: 1644855613,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1456,7 +1456,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/estconsecteturimpedit.png?size=40x40&set=set1",
-    nftName: "methodical",
+    nftName: "Orange Crab-face",
     description:
       "Operations on two or more extraocular muscles involving temporary detachment from globe, one or both eyes",
     dateClaimed: 1639222810,
@@ -1466,7 +1466,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/atsiteius.png?size=40x40&set=set1",
-    nftName: "logistical",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of peritoneal and retroperitoneal specimen, other microscopic examination",
     dateClaimed: 1648751428,
@@ -1477,7 +1477,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/pariaturprovidentrem.png?size=40x40&set=set1",
-    nftName: "high-level",
+    nftName: "Orange Crab-face",
     description: "Biopsy of bone, tibia and fibula",
     dateClaimed: 1664621749,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1487,7 +1487,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/dolorrationerepudiandae.png?size=40x40&set=set1",
-    nftName: "content-based",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from lower gastrointestinal tract and of stool, toxicology",
     dateClaimed: 1643169430,
@@ -1497,7 +1497,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/ametestodit.png?size=40x40&set=set1",
-    nftName: "exuding",
+    nftName: "Orange Crab-face",
     description: "Insertion of therapeutic device into uterus",
     dateClaimed: 1642671720,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1507,7 +1507,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/assumendadolorumerror.png?size=40x40&set=set1",
-    nftName: "function",
+    nftName: "Orange Crab-face",
     description: "Other intracapsular extraction of lens",
     dateClaimed: 1652295386,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1516,7 +1516,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/doloresautemaut.png?size=40x40&set=set1",
-    nftName: "explicit",
+    nftName: "Orange Crab-face",
     description: "Removal of sutures from trunk, not elsewhere classified",
     dateClaimed: 1641092064,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1526,7 +1526,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/autofficiadeleniti.png?size=40x40&set=set1",
-    nftName: "infrastructure",
+    nftName: "Orange Crab-face",
     description: "Repair of retinal detachment with xenon arc photocoagulation",
     dateClaimed: 1661561227,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1535,7 +1535,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/doloreautemquia.png?size=40x40&set=set1",
-    nftName: "human-resource",
+    nftName: "Orange Crab-face",
     description: "Ambulation and gait training",
     dateClaimed: 1636301210,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1544,7 +1544,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quisestdolorem.png?size=40x40&set=set1",
-    nftName: "project",
+    nftName: "Orange Crab-face",
     description: "Other repair of pancreas",
     dateClaimed: 1655256221,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1554,7 +1554,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/nobisrepudiandaemaxime.png?size=40x40&set=set1",
-    nftName: "Graphic Interface",
+    nftName: "Orange Crab-face",
     description: "Reverse total shoulder replacement",
     dateClaimed: 1639037356,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1564,7 +1564,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/esseomnisprovident.png?size=40x40&set=set1",
-    nftName: "knowledge base",
+    nftName: "Orange Crab-face",
     description:
       "Other and open repair of diaphragmatic hernia, with thoracic approach",
     dateClaimed: 1643039186,
@@ -1574,7 +1574,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/dolorculpaa.png?size=40x40&set=set1",
-    nftName: "budgetary management",
+    nftName: "Orange Crab-face",
     description: "Renal scan and radioisotope function study",
     dateClaimed: 1638000283,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1583,7 +1583,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eosrecusandaeet.png?size=40x40&set=set1",
-    nftName: "motivating",
+    nftName: "Orange Crab-face",
     description: "Puncture of spleen",
     dateClaimed: 1634372663,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1593,7 +1593,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptasofficiisaut.png?size=40x40&set=set1",
-    nftName: "responsive",
+    nftName: "Orange Crab-face",
     description:
       "Insertion or replacement of multiple array (two or more) rechargeable neurostimulator pulse generator",
     dateClaimed: 1659404777,
@@ -1604,7 +1604,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatesetdeserunt.png?size=40x40&set=set1",
-    nftName: "optimal",
+    nftName: "Orange Crab-face",
     description: "Other esophagoscopy",
     dateClaimed: 1661384783,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1613,7 +1613,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autnobissimilique.png?size=40x40&set=set1",
-    nftName: "support",
+    nftName: "Orange Crab-face",
     description: "Hysterotomy to terminate pregnancy",
     dateClaimed: 1659762013,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1622,7 +1622,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/suntsuntet.png?size=40x40&set=set1",
-    nftName: "circuit",
+    nftName: "Orange Crab-face",
     description: "Revision or removal of pacemaker device",
     dateClaimed: 1651760034,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1631,7 +1631,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nihilhicquam.png?size=40x40&set=set1",
-    nftName: "exuding",
+    nftName: "Orange Crab-face",
     description: "Incision of rectal stricture",
     dateClaimed: 1659694308,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1640,7 +1640,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quostemporased.png?size=40x40&set=set1",
-    nftName: "solution",
+    nftName: "Orange Crab-face",
     description: "Other arthrotomy, knee",
     dateClaimed: 1641669244,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1649,7 +1649,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/delenitiutdolor.png?size=40x40&set=set1",
-    nftName: "didactic",
+    nftName: "Orange Crab-face",
     description: "Alveoloplasty",
     dateClaimed: 1646552715,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1658,7 +1658,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nonquisodio.png?size=40x40&set=set1",
-    nftName: "Open-source",
+    nftName: "Orange Crab-face",
     description: "Percutaneous chordotomy",
     dateClaimed: 1657656998,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1667,7 +1667,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utnonassumenda.png?size=40x40&set=set1",
-    nftName: "Polarised",
+    nftName: "Orange Crab-face",
     description: "Other cranial nerve decompression",
     dateClaimed: 1661382297,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1677,7 +1677,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatibusdoloremqueexpedita.png?size=40x40&set=set1",
-    nftName: "client-driven",
+    nftName: "Orange Crab-face",
     description: "Synovectomy, shoulder",
     dateClaimed: 1640552503,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1686,7 +1686,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eadeseruntet.png?size=40x40&set=set1",
-    nftName: "Synchronised",
+    nftName: "Orange Crab-face",
     description: "Closed reduction of nasal fracture",
     dateClaimed: 1652608940,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1695,7 +1695,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etsaepepossimus.png?size=40x40&set=set1",
-    nftName: "portal",
+    nftName: "Orange Crab-face",
     description: "Destruction of cranial and peripheral nerves",
     dateClaimed: 1636042823,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1705,7 +1705,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/delenitiipsampariatur.png?size=40x40&set=set1",
-    nftName: "solution",
+    nftName: "Orange Crab-face",
     description: "Suture of corneal laceration",
     dateClaimed: 1663018530,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1715,7 +1715,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/perspiciatisautoccaecati.png?size=40x40&set=set1",
-    nftName: "software",
+    nftName: "Orange Crab-face",
     description:
       "Repair of current obstetric laceration of rectum and sphincter ani",
     dateClaimed: 1642910991,
@@ -1726,7 +1726,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/omnisvoluptatemdolor.png?size=40x40&set=set1",
-    nftName: "tangible",
+    nftName: "Orange Crab-face",
     description: "Closure of salivary fistula",
     dateClaimed: 1661726892,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1735,7 +1735,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quidoloremnihil.png?size=40x40&set=set1",
-    nftName: "process improvement",
+    nftName: "Orange Crab-face",
     description: "Pharyngectomy (partial)",
     dateClaimed: 1663969159,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1744,7 +1744,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/magnamestsit.png?size=40x40&set=set1",
-    nftName: "open architecture",
+    nftName: "Orange Crab-face",
     description: "Incision of gum or alveolar bone",
     dateClaimed: 1663269524,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1753,7 +1753,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eosoditquasi.png?size=40x40&set=set1",
-    nftName: "Cross-platform",
+    nftName: "Orange Crab-face",
     description: "Cannulation of pancreatic duct",
     dateClaimed: 1636939105,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1763,7 +1763,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/autemexcepturivoluptatibus.png?size=40x40&set=set1",
-    nftName: "Robust",
+    nftName: "Orange Crab-face",
     description:
       "Unilateral repair of inguinal hernia, not otherwise specified",
     dateClaimed: 1646428890,
@@ -1773,7 +1773,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etquamet.png?size=40x40&set=set1",
-    nftName: "moderator",
+    nftName: "Orange Crab-face",
     description: "Endoscopic insertion of colonic stent(s)",
     dateClaimed: 1649180798,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1782,7 +1782,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiquiacorrupti.png?size=40x40&set=set1",
-    nftName: "parallelism",
+    nftName: "Orange Crab-face",
     description: "Other operations on thyroid glands",
     dateClaimed: 1637602104,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1792,7 +1792,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/modiquasaccusantium.png?size=40x40&set=set1",
-    nftName: "Balanced",
+    nftName: "Orange Crab-face",
     description: "Open biopsy of esophagus",
     dateClaimed: 1641751753,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1801,7 +1801,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/corruptiautemad.png?size=40x40&set=set1",
-    nftName: "motivating",
+    nftName: "Orange Crab-face",
     description: "Endarterectomy, lower limb arteries",
     dateClaimed: 1648716776,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1810,7 +1810,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/doloremautemet.png?size=40x40&set=set1",
-    nftName: "open system",
+    nftName: "Orange Crab-face",
     description: "Reattachment of tendon of hand",
     dateClaimed: 1651431658,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1819,7 +1819,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sitabanimi.png?size=40x40&set=set1",
-    nftName: "Seamless",
+    nftName: "Orange Crab-face",
     description: "Thoracoscopic robotic assisted procedure",
     dateClaimed: 1655008403,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1828,7 +1828,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/undesitea.png?size=40x40&set=set1",
-    nftName: "help-desk",
+    nftName: "Orange Crab-face",
     description: "Repair of thymus",
     dateClaimed: 1658770132,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1838,7 +1838,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/natusoccaecatireprehenderit.png?size=40x40&set=set1",
-    nftName: "hybrid",
+    nftName: "Orange Crab-face",
     description: "Other x-ray of female genital organs",
     dateClaimed: 1652742373,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1848,7 +1848,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/nihilinciduntnobis.png?size=40x40&set=set1",
-    nftName: "functionalities",
+    nftName: "Orange Crab-face",
     description:
       "Transplantation of cells of Islets of Langerhans, not otherwise specified",
     dateClaimed: 1648642981,
@@ -1859,7 +1859,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/namdelenitivoluptatem.png?size=40x40&set=set1",
-    nftName: "Phased",
+    nftName: "Orange Crab-face",
     description: "Amputation and disarticulation of thumb",
     dateClaimed: 1664037910,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1868,7 +1868,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/minusvelitodio.png?size=40x40&set=set1",
-    nftName: "asymmetric",
+    nftName: "Orange Crab-face",
     description: "Amnioinfusion",
     dateClaimed: 1652170842,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1878,7 +1878,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quiaquaeconsequatur.png?size=40x40&set=set1",
-    nftName: "Future-proofed",
+    nftName: "Orange Crab-face",
     description:
       "Partial excision of pituitary gland, transsphenoidal approach",
     dateClaimed: 1650492894,
@@ -1888,7 +1888,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quovelitnostrum.png?size=40x40&set=set1",
-    nftName: "customer loyalty",
+    nftName: "Orange Crab-face",
     description: "Stretching of foreskin",
     dateClaimed: 1635076671,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1897,7 +1897,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/doloremqueidet.png?size=40x40&set=set1",
-    nftName: "Distributed",
+    nftName: "Orange Crab-face",
     description: "Coronary arteriography using a single catheter",
     dateClaimed: 1660664428,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1906,7 +1906,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autmolestiaererum.png?size=40x40&set=set1",
-    nftName: "User-friendly",
+    nftName: "Orange Crab-face",
     description: "Arteriography of cerebral arteries",
     dateClaimed: 1663179282,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1915,7 +1915,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiutquas.png?size=40x40&set=set1",
-    nftName: "info-mediaries",
+    nftName: "Orange Crab-face",
     description: "Vaginal construction with graft or prosthesis",
     dateClaimed: 1651518431,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1924,7 +1924,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etrecusandaequod.png?size=40x40&set=set1",
-    nftName: "logistical",
+    nftName: "Orange Crab-face",
     description:
       "Diagnostic procedures on bone, not elsewhere classified, patella",
     dateClaimed: 1635934882,
@@ -1934,7 +1934,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiaestneque.png?size=40x40&set=set1",
-    nftName: "optimizing",
+    nftName: "Orange Crab-face",
     description:
       "Other local excision or destruction of lesion of joint, elbow",
     dateClaimed: 1653338810,
@@ -1944,7 +1944,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiveroasperiores.png?size=40x40&set=set1",
-    nftName: "customer loyalty",
+    nftName: "Orange Crab-face",
     description: "Right heart cardiac catheterization",
     dateClaimed: 1654212697,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1953,7 +1953,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nemovoluptatemet.png?size=40x40&set=set1",
-    nftName: "neutral",
+    nftName: "Orange Crab-face",
     description: "Periarterial sympathectomy",
     dateClaimed: 1638147393,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1962,7 +1962,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nihilaliasest.png?size=40x40&set=set1",
-    nftName: "Mandatory",
+    nftName: "Orange Crab-face",
     description: "Closed reduction of maxillary fracture",
     dateClaimed: 1665619633,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1972,7 +1972,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/hicexcepturinumquam.png?size=40x40&set=set1",
-    nftName: "data-warehouse",
+    nftName: "Orange Crab-face",
     description: "Spinal fusion, not otherwise specified",
     dateClaimed: 1638124200,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1981,7 +1981,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/aperiameaaut.png?size=40x40&set=set1",
-    nftName: "non-volatile",
+    nftName: "Orange Crab-face",
     description: "Intracardiac echocardiography",
     dateClaimed: 1660868339,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -1991,7 +1991,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/dignissimostemporibuslaborum.png?size=40x40&set=set1",
-    nftName: "asymmetric",
+    nftName: "Orange Crab-face",
     description: "Amputation, not otherwise specified",
     dateClaimed: 1655354935,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2000,7 +2000,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/similiqueautet.png?size=40x40&set=set1",
-    nftName: "Re-engineered",
+    nftName: "Orange Crab-face",
     description: "Anastomosis of gallbladder to stomach",
     dateClaimed: 1648255024,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2010,7 +2010,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/evenietquiavoluptates.png?size=40x40&set=set1",
-    nftName: "mission-critical",
+    nftName: "Orange Crab-face",
     description: "Closure of other fistula of ureter",
     dateClaimed: 1659442268,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2019,7 +2019,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quisuntvero.png?size=40x40&set=set1",
-    nftName: "superstructure",
+    nftName: "Orange Crab-face",
     description: "Endarterectomy, other thoracic vessels",
     dateClaimed: 1660975770,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2028,7 +2028,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/itaquesintea.png?size=40x40&set=set1",
-    nftName: "flexibility",
+    nftName: "Orange Crab-face",
     description: "Insertion of palatal implant",
     dateClaimed: 1655356628,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2038,7 +2038,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/optioestlaboriosam.png?size=40x40&set=set1",
-    nftName: "Digitized",
+    nftName: "Orange Crab-face",
     description: "Complete glossectomy",
     dateClaimed: 1653313351,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2048,7 +2048,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/placeatsuntaccusamus.png?size=40x40&set=set1",
-    nftName: "product",
+    nftName: "Orange Crab-face",
     description:
       "Ligation and stripping of varicose veins, other thoracic vessels",
     dateClaimed: 1652846800,
@@ -2059,7 +2059,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/solutaculpavoluptatem.png?size=40x40&set=set1",
-    nftName: "incremental",
+    nftName: "Orange Crab-face",
     description: "Partial gastrectomy with jejunal transposition",
     dateClaimed: 1642935800,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2069,7 +2069,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/totamaspernaturmolestiae.png?size=40x40&set=set1",
-    nftName: "composite",
+    nftName: "Orange Crab-face",
     description: "Other operations on spleen",
     dateClaimed: 1660025523,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2079,7 +2079,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloribustemporafuga.png?size=40x40&set=set1",
-    nftName: "toolset",
+    nftName: "Orange Crab-face",
     description:
       "Total correction of transposition of great vessels, not elsewhere classified",
     dateClaimed: 1644621352,
@@ -2089,7 +2089,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiprovidenteum.png?size=40x40&set=set1",
-    nftName: "exuding",
+    nftName: "Orange Crab-face",
     description: "Diagnostic amniocentesis",
     dateClaimed: 1644930234,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2099,7 +2099,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/similiqueerroromnis.png?size=40x40&set=set1",
-    nftName: "service-desk",
+    nftName: "Orange Crab-face",
     description: "Gasserian ganglionectomy",
     dateClaimed: 1658698894,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2108,7 +2108,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etdoloreset.png?size=40x40&set=set1",
-    nftName: "synergy",
+    nftName: "Orange Crab-face",
     description: "Anastomosis of kidney",
     dateClaimed: 1641841474,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2117,7 +2117,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/easitesse.png?size=40x40&set=set1",
-    nftName: "tangible",
+    nftName: "Orange Crab-face",
     description: "Vaccination against mumps",
     dateClaimed: 1661317787,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2127,7 +2127,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/sintnesciuntofficiis.png?size=40x40&set=set1",
-    nftName: "encryption",
+    nftName: "Orange Crab-face",
     description:
       "Other destruction of lesion of small intestine, except duodenum",
     dateClaimed: 1638721257,
@@ -2137,7 +2137,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/velessenostrum.png?size=40x40&set=set1",
-    nftName: "Open-source",
+    nftName: "Orange Crab-face",
     description: "Laparoscopic robotic assisted procedure",
     dateClaimed: 1655671841,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2146,7 +2146,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/doloremadoloribus.png?size=40x40&set=set1",
-    nftName: "Multi-tiered",
+    nftName: "Orange Crab-face",
     description: "Diagnostic ultrasound of digestive system",
     dateClaimed: 1660780691,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2155,7 +2155,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/oditestducimus.png?size=40x40&set=set1",
-    nftName: "modular",
+    nftName: "Orange Crab-face",
     description: "Repair of current obstetric laceration of corpus uteri",
     dateClaimed: 1642836578,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2164,7 +2164,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utdoloribusea.png?size=40x40&set=set1",
-    nftName: "radical",
+    nftName: "Orange Crab-face",
     description: "Radical neck dissection, not otherwise specified",
     dateClaimed: 1649441519,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2174,7 +2174,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/suntevenietofficia.png?size=40x40&set=set1",
-    nftName: "Synergistic",
+    nftName: "Orange Crab-face",
     description: "Removal of both fallopian tubes at same operative episode",
     dateClaimed: 1636381503,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2183,7 +2183,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/adinciduntut.png?size=40x40&set=set1",
-    nftName: "Vision-oriented",
+    nftName: "Orange Crab-face",
     description: "Proctoclysis",
     dateClaimed: 1656090673,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2193,7 +2193,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/eiusexcepturisoluta.png?size=40x40&set=set1",
-    nftName: "superstructure",
+    nftName: "Orange Crab-face",
     description: "Other surgical induction of labor",
     dateClaimed: 1657393626,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2202,7 +2202,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utvoluptasplaceat.png?size=40x40&set=set1",
-    nftName: "Decentralized",
+    nftName: "Orange Crab-face",
     description: "Other myectomy",
     dateClaimed: 1636075684,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2212,7 +2212,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quospraesentiumdolorem.png?size=40x40&set=set1",
-    nftName: "encompassing",
+    nftName: "Orange Crab-face",
     description: "Open biopsy of stomach",
     dateClaimed: 1662898618,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2221,7 +2221,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quisitdolores.png?size=40x40&set=set1",
-    nftName: "contextually-based",
+    nftName: "Orange Crab-face",
     description: "Closed [endoscopic] biopsy of rectum",
     dateClaimed: 1639747948,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2230,7 +2230,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/totamporrorem.png?size=40x40&set=set1",
-    nftName: "forecast",
+    nftName: "Orange Crab-face",
     description: "Circumcision",
     dateClaimed: 1663629683,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2240,7 +2240,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/sedeligendialiquam.png?size=40x40&set=set1",
-    nftName: "knowledge user",
+    nftName: "Orange Crab-face",
     description: "Refusion of atlas-axis spine",
     dateClaimed: 1662527405,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2249,7 +2249,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/laboriosametipsum.png?size=40x40&set=set1",
-    nftName: "object-oriented",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of peritoneal and retroperitoneal specimen, toxicology",
     dateClaimed: 1659884035,
@@ -2260,7 +2260,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/perspiciatisitaquecorrupti.png?size=40x40&set=set1",
-    nftName: "Managed",
+    nftName: "Orange Crab-face",
     description: "Other and unspecified robotic assisted procedure",
     dateClaimed: 1641868268,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2270,7 +2270,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/omnisperspiciatisasperiores.png?size=40x40&set=set1",
-    nftName: "Pre-emptive",
+    nftName: "Orange Crab-face",
     description: "Reopening of recent laparotomy site",
     dateClaimed: 1647694139,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2280,7 +2280,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/insapienteconsequatur.png?size=40x40&set=set1",
-    nftName: "groupware",
+    nftName: "Orange Crab-face",
     description: "Other total reconstruction of breast",
     dateClaimed: 1657606779,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2289,7 +2289,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/evenietearummagni.png?size=40x40&set=set1",
-    nftName: "array",
+    nftName: "Orange Crab-face",
     description: "Subtalar joint arthroereisis",
     dateClaimed: 1659361775,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2298,7 +2298,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/consequaturauteos.png?size=40x40&set=set1",
-    nftName: "Automated",
+    nftName: "Orange Crab-face",
     description: "Excision of dental lesion of jaw",
     dateClaimed: 1647291464,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2307,7 +2307,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/iuredoloromnis.png?size=40x40&set=set1",
-    nftName: "local area network",
+    nftName: "Orange Crab-face",
     description:
       "Removal of intraluminal foreign body from vagina without incision",
     dateClaimed: 1665597792,
@@ -2317,7 +2317,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/oditettempora.png?size=40x40&set=set1",
-    nftName: "attitude",
+    nftName: "Orange Crab-face",
     description: "Suture of peritoneum",
     dateClaimed: 1646250962,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2327,7 +2327,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/nesciuntpraesentiumcorporis.png?size=40x40&set=set1",
-    nftName: "knowledge base",
+    nftName: "Orange Crab-face",
     description: "Iridotomy with transfixion",
     dateClaimed: 1644665895,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2337,7 +2337,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/dolorevitaedeleniti.png?size=40x40&set=set1",
-    nftName: "array",
+    nftName: "Orange Crab-face",
     description: "Thoracoscopic pleural biopsy",
     dateClaimed: 1648873805,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2346,7 +2346,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/ipsumsitet.png?size=40x40&set=set1",
-    nftName: "intermediate",
+    nftName: "Orange Crab-face",
     description: "Arthroscopy, hip",
     dateClaimed: 1638709553,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2355,7 +2355,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/magniutquisquam.png?size=40x40&set=set1",
-    nftName: "directional",
+    nftName: "Orange Crab-face",
     description: "Removal of spinal neurostimulator lead(s)",
     dateClaimed: 1659703869,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2364,7 +2364,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/estvitaelabore.png?size=40x40&set=set1",
-    nftName: "circuit",
+    nftName: "Orange Crab-face",
     description: "Other diagnostic procedures on bladder",
     dateClaimed: 1648672917,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2373,7 +2373,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/dignissimosabest.png?size=40x40&set=set1",
-    nftName: "client-server",
+    nftName: "Orange Crab-face",
     description: "Osteoclasis, other bones",
     dateClaimed: 1658543577,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2382,7 +2382,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quasienimamet.png?size=40x40&set=set1",
-    nftName: "initiative",
+    nftName: "Orange Crab-face",
     description: "Other orthodontic operation",
     dateClaimed: 1645206243,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2392,7 +2392,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/facilisducimusmolestiae.png?size=40x40&set=set1",
-    nftName: "Open-source",
+    nftName: "Orange Crab-face",
     description: "Arteriography of femoral and other lower extremity arteries",
     dateClaimed: 1658231300,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2401,7 +2401,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eaquoset.png?size=40x40&set=set1",
-    nftName: "Diverse",
+    nftName: "Orange Crab-face",
     description: "Excision of lesion of ciliary body",
     dateClaimed: 1656826728,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2410,7 +2410,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/animieligendisint.png?size=40x40&set=set1",
-    nftName: "Synergized",
+    nftName: "Orange Crab-face",
     description: "Lower eyelid rhytidectomy",
     dateClaimed: 1664821127,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2420,7 +2420,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/commodifugaducimus.png?size=40x40&set=set1",
-    nftName: "Horizontal",
+    nftName: "Orange Crab-face",
     description: "Ligation of adrenal vessels",
     dateClaimed: 1664404811,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2429,7 +2429,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quioditut.png?size=40x40&set=set1",
-    nftName: "bifurcated",
+    nftName: "Orange Crab-face",
     description: "Other repair of the cruciate ligaments",
     dateClaimed: 1663575001,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2439,7 +2439,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/etexplicaboeligendi.png?size=40x40&set=set1",
-    nftName: "clear-thinking",
+    nftName: "Orange Crab-face",
     description: "Dark adaptation study",
     dateClaimed: 1639698905,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2448,7 +2448,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/oditverodicta.png?size=40x40&set=set1",
-    nftName: "paradigm",
+    nftName: "Orange Crab-face",
     description: "Closed reduction of dislocation of ankle",
     dateClaimed: 1656628550,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2457,7 +2457,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/undequonumquam.png?size=40x40&set=set1",
-    nftName: "contextually-based",
+    nftName: "Orange Crab-face",
     description: "Total ostectomy, carpals and metacarpals",
     dateClaimed: 1644320636,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2467,7 +2467,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/enimomnisconsectetur.png?size=40x40&set=set1",
-    nftName: "Monitored",
+    nftName: "Orange Crab-face",
     description: "Interruption of the vena cava",
     dateClaimed: 1657495043,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2477,7 +2477,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/dolorecumquesuscipit.png?size=40x40&set=set1",
-    nftName: "budgetary management",
+    nftName: "Orange Crab-face",
     description: "Marsupialization of lesion of liver",
     dateClaimed: 1662428688,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2486,7 +2486,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/oditautemquis.png?size=40x40&set=set1",
-    nftName: "solution-oriented",
+    nftName: "Orange Crab-face",
     description: "Bilateral lung transplantation",
     dateClaimed: 1637711530,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2495,7 +2495,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiavelitnihil.png?size=40x40&set=set1",
-    nftName: "multi-tasking",
+    nftName: "Orange Crab-face",
     description: "Other removal of remaining ovary and tube",
     dateClaimed: 1665297149,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2505,7 +2505,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/consequaturvelreiciendis.png?size=40x40&set=set1",
-    nftName: "Assimilated",
+    nftName: "Orange Crab-face",
     description: "Insertion of other vaginal pessary",
     dateClaimed: 1661963818,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2514,7 +2514,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autsuntodit.png?size=40x40&set=set1",
-    nftName: "Total",
+    nftName: "Orange Crab-face",
     description: "Other destruction of lesion or tissue of esophagus",
     dateClaimed: 1655508793,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2524,7 +2524,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/maioresmolestiaeeos.png?size=40x40&set=set1",
-    nftName: "Visionary",
+    nftName: "Orange Crab-face",
     description:
       "Replacement of other device for musculoskeletal immobilization",
     dateClaimed: 1661567355,
@@ -2535,7 +2535,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloremconsequaturfacere.png?size=40x40&set=set1",
-    nftName: "knowledge base",
+    nftName: "Orange Crab-face",
     description: "Other partial ostectomy, radius and ulna",
     dateClaimed: 1658565904,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2545,7 +2545,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/suscipitdoloremquia.png?size=40x40&set=set1",
-    nftName: "hardware",
+    nftName: "Orange Crab-face",
     description: "Thymectomy, not otherwise specified",
     dateClaimed: 1638977003,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2555,7 +2555,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/accusantiumsimiliquesit.png?size=40x40&set=set1",
-    nftName: "approach",
+    nftName: "Orange Crab-face",
     description: "Other injection of therapeutic substance into kidney",
     dateClaimed: 1647704304,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2564,7 +2564,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autemautducimus.png?size=40x40&set=set1",
-    nftName: "matrices",
+    nftName: "Orange Crab-face",
     description: "Closure of stoma of large intestine",
     dateClaimed: 1657922019,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2574,7 +2574,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloremaperiamquidem.png?size=40x40&set=set1",
-    nftName: "Programmable",
+    nftName: "Orange Crab-face",
     description: "Open reduction of alveolar fracture",
     dateClaimed: 1662298995,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2584,7 +2584,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloremadipiscisoluta.png?size=40x40&set=set1",
-    nftName: "Streamlined",
+    nftName: "Orange Crab-face",
     description: "Other diagnostic procedures on penis",
     dateClaimed: 1658868157,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2593,7 +2593,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiaquoset.png?size=40x40&set=set1",
-    nftName: "Re-contextualized",
+    nftName: "Orange Crab-face",
     description: "Advancement of one extraocular muscle",
     dateClaimed: 1645008192,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2603,7 +2603,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatemipsumdebitis.png?size=40x40&set=set1",
-    nftName: "infrastructure",
+    nftName: "Orange Crab-face",
     description: "Salpingectomy with removal of tubal pregnancy",
     dateClaimed: 1634844620,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2612,7 +2612,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/doloratquemaiores.png?size=40x40&set=set1",
-    nftName: "attitude-oriented",
+    nftName: "Orange Crab-face",
     description: "Suture of laceration of small intestine, except duodenum",
     dateClaimed: 1653569755,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2622,7 +2622,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/dictarerumdoloribus.png?size=40x40&set=set1",
-    nftName: "encoding",
+    nftName: "Orange Crab-face",
     description: "Thoracoscopic lung biopsy",
     dateClaimed: 1663577840,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2631,7 +2631,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/vitaequiipsam.png?size=40x40&set=set1",
-    nftName: "Function-based",
+    nftName: "Orange Crab-face",
     description: "Other operations on pineal gland",
     dateClaimed: 1638507204,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2641,7 +2641,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/temporequisquamvel.png?size=40x40&set=set1",
-    nftName: "real-time",
+    nftName: "Orange Crab-face",
     description: "Plastic operation on hand with graft of muscle or fascia",
     dateClaimed: 1637962999,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2650,7 +2650,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/doloremfugased.png?size=40x40&set=set1",
-    nftName: "Operative",
+    nftName: "Orange Crab-face",
     description: "Other nonoperative neurologic function tests",
     dateClaimed: 1664427484,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2659,7 +2659,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/dictaetesse.png?size=40x40&set=set1",
-    nftName: "global",
+    nftName: "Orange Crab-face",
     description: "Open biopsy of small intestine",
     dateClaimed: 1636959583,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2669,7 +2669,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/deseruntautcommodi.png?size=40x40&set=set1",
-    nftName: "framework",
+    nftName: "Orange Crab-face",
     description: "Cystometrogram",
     dateClaimed: 1636124464,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2678,7 +2678,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/suntundevel.png?size=40x40&set=set1",
-    nftName: "Seamless",
+    nftName: "Orange Crab-face",
     description: "Reattachment of muscle of hand",
     dateClaimed: 1643991339,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2688,7 +2688,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/temporibusconsequaturipsa.png?size=40x40&set=set1",
-    nftName: "access",
+    nftName: "Orange Crab-face",
     description: "Excision of cystic duct remnant",
     dateClaimed: 1642512466,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2698,7 +2698,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/omnisdolorumnecessitatibus.png?size=40x40&set=set1",
-    nftName: "Networked",
+    nftName: "Orange Crab-face",
     description: "Resection of exteriorized segment of large intestine",
     dateClaimed: 1659195738,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2708,7 +2708,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/ipsumnonconsectetur.png?size=40x40&set=set1",
-    nftName: "web-enabled",
+    nftName: "Orange Crab-face",
     description: "Color vision study",
     dateClaimed: 1651375609,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2717,7 +2717,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/oditutvel.png?size=40x40&set=set1",
-    nftName: "matrix",
+    nftName: "Orange Crab-face",
     description: "Temporomandibular contrast arthrogram",
     dateClaimed: 1645583490,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2726,7 +2726,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/teneturetea.png?size=40x40&set=set1",
-    nftName: "analyzer",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from kidney, ureter, perirenal and periureteral tissue, parasitology",
     dateClaimed: 1638625368,
@@ -2736,7 +2736,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/remrerumplaceat.png?size=40x40&set=set1",
-    nftName: "demand-driven",
+    nftName: "Orange Crab-face",
     description:
       "Internal fixation of bone without fracture reduction, radius and ulna",
     dateClaimed: 1658106814,
@@ -2747,7 +2747,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/expeditadoloresaut.png?size=40x40&set=set1",
-    nftName: "24 hour",
+    nftName: "Orange Crab-face",
     description: "Insertion of total spinal disc prosthesis, cervical",
     dateClaimed: 1662344345,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2756,7 +2756,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/aliquidutnesciunt.png?size=40x40&set=set1",
-    nftName: "Fully-configurable",
+    nftName: "Orange Crab-face",
     description: "Excision of lesion or tissue of spleen",
     dateClaimed: 1654122511,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2766,7 +2766,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/atqueinciduntomnis.png?size=40x40&set=set1",
-    nftName: "incremental",
+    nftName: "Orange Crab-face",
     description: "Other x-ray of the urinary system",
     dateClaimed: 1636235908,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2775,7 +2775,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sedeoset.png?size=40x40&set=set1",
-    nftName: "Diverse",
+    nftName: "Orange Crab-face",
     description: "Salpingo-salpingostomy",
     dateClaimed: 1641377429,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2785,7 +2785,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quosaepedistinctio.png?size=40x40&set=set1",
-    nftName: "Inverse",
+    nftName: "Orange Crab-face",
     description: "Repair of prostate",
     dateClaimed: 1636725658,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2795,7 +2795,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloreasperioresillum.png?size=40x40&set=set1",
-    nftName: "strategy",
+    nftName: "Orange Crab-face",
     description: "Control of (postoperative) hemorrhage of prostate",
     dateClaimed: 1637510718,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2804,7 +2804,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/estodionon.png?size=40x40&set=set1",
-    nftName: "explicit",
+    nftName: "Orange Crab-face",
     description: "Revision of anastomosis of small intestine",
     dateClaimed: 1656390725,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2814,7 +2814,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/suntvoluptatesquod.png?size=40x40&set=set1",
-    nftName: "task-force",
+    nftName: "Orange Crab-face",
     description: "Conjunctivocystorhinostomy",
     dateClaimed: 1649855106,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2824,7 +2824,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/ducimusofficiaquis.png?size=40x40&set=set1",
-    nftName: "mobile",
+    nftName: "Orange Crab-face",
     description: "Radical excision of periaortic lymph nodes",
     dateClaimed: 1656893038,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2833,7 +2833,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/inrepellateveniet.png?size=40x40&set=set1",
-    nftName: "Horizontal",
+    nftName: "Orange Crab-face",
     description: "Mid forceps operation with episiotomy",
     dateClaimed: 1634877503,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2842,7 +2842,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/facerequibusdamet.png?size=40x40&set=set1",
-    nftName: "Exclusive",
+    nftName: "Orange Crab-face",
     description: "Dilation of urethra",
     dateClaimed: 1636255906,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2851,7 +2851,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/remquiaomnis.png?size=40x40&set=set1",
-    nftName: "intermediate",
+    nftName: "Orange Crab-face",
     description: "Transabdominal cerclage of cervix",
     dateClaimed: 1644483466,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2860,7 +2860,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sitquiasint.png?size=40x40&set=set1",
-    nftName: "open architecture",
+    nftName: "Orange Crab-face",
     description: "Operations for sex transformation, not elsewhere classified",
     dateClaimed: 1653579907,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2870,7 +2870,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/rationequisquamprovident.png?size=40x40&set=set1",
-    nftName: "Cross-platform",
+    nftName: "Orange Crab-face",
     description: "Other reconstruction of mandible",
     dateClaimed: 1646622680,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2880,7 +2880,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/reprehenderitsintculpa.png?size=40x40&set=set1",
-    nftName: "Customer-focused",
+    nftName: "Orange Crab-face",
     description: "Cholecystectomy",
     dateClaimed: 1643334697,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2889,7 +2889,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utevenietmagni.png?size=40x40&set=set1",
-    nftName: "time-frame",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from spleen and of bone marrow, culture",
     dateClaimed: 1656224068,
@@ -2900,7 +2900,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/placeataccusantiumcupiditate.png?size=40x40&set=set1",
-    nftName: "Self-enabling",
+    nftName: "Orange Crab-face",
     description: "Other operations on cervix and uterus",
     dateClaimed: 1665608267,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2910,7 +2910,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/ipsamreiciendiscum.png?size=40x40&set=set1",
-    nftName: "Distributed",
+    nftName: "Orange Crab-face",
     description:
       "Laser interstitial thermal therapy [LITT] of lesion or tissue of liver under guidance",
     dateClaimed: 1641249605,
@@ -2921,7 +2921,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/dolorumperspiciatisreprehenderit.png?size=40x40&set=set1",
-    nftName: "infrastructure",
+    nftName: "Orange Crab-face",
     description: "Other destruction of lesion or tissue of stomach",
     dateClaimed: 1643462825,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2931,7 +2931,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/repudiandaeautrerum.png?size=40x40&set=set1",
-    nftName: "24/7",
+    nftName: "Orange Crab-face",
     description: "Mastotomy",
     dateClaimed: 1636653103,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2941,7 +2941,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/laboriosaminventoresit.png?size=40x40&set=set1",
-    nftName: "client-server",
+    nftName: "Orange Crab-face",
     description: "Transurethral balloon dilation of the prostatic urethra",
     dateClaimed: 1637481415,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2951,7 +2951,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/pariaturquiaexpedita.png?size=40x40&set=set1",
-    nftName: "Diverse",
+    nftName: "Orange Crab-face",
     description: "Implantation of other internal limb lengthening device",
     dateClaimed: 1660873137,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2960,7 +2960,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/abutmagni.png?size=40x40&set=set1",
-    nftName: "zero administration",
+    nftName: "Orange Crab-face",
     description: "Other unilateral oophorectomy",
     dateClaimed: 1646424474,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2970,7 +2970,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/excepturiiurebeatae.png?size=40x40&set=set1",
-    nftName: "neural-net",
+    nftName: "Orange Crab-face",
     description: "Other incision of bone without division, radius and ulna",
     dateClaimed: 1653897838,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2979,7 +2979,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/expeditaautrem.png?size=40x40&set=set1",
-    nftName: "info-mediaries",
+    nftName: "Orange Crab-face",
     description: "Reattachment of amputated ear",
     dateClaimed: 1644034230,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -2989,7 +2989,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/veritatisquodelectus.png?size=40x40&set=set1",
-    nftName: "exuding",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of peritoneal and retroperitoneal specimen, cell block and Papanicolaou smear",
     dateClaimed: 1660665011,
@@ -2999,7 +2999,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quodquimollitia.png?size=40x40&set=set1",
-    nftName: "approach",
+    nftName: "Orange Crab-face",
     description: "Subconvulsive electroshock therapy",
     dateClaimed: 1647787669,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3008,7 +3008,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/rerumdebitisipsa.png?size=40x40&set=set1",
-    nftName: "context-sensitive",
+    nftName: "Orange Crab-face",
     description: "Repair of laceration of conjunctiva",
     dateClaimed: 1661729408,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3017,7 +3017,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quaererumautem.png?size=40x40&set=set1",
-    nftName: "Seamless",
+    nftName: "Orange Crab-face",
     description: "Other tomography of head",
     dateClaimed: 1637132274,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3026,7 +3026,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/natusdeseruntquod.png?size=40x40&set=set1",
-    nftName: "Multi-tiered",
+    nftName: "Orange Crab-face",
     description: "Total ostectomy, patella",
     dateClaimed: 1658695545,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3035,7 +3035,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/estfugaveritatis.png?size=40x40&set=set1",
-    nftName: "impactful",
+    nftName: "Orange Crab-face",
     description: "Manual reduction of enterostomy prolapse",
     dateClaimed: 1660531182,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3044,7 +3044,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/dolordoloresquis.png?size=40x40&set=set1",
-    nftName: "Pre-emptive",
+    nftName: "Orange Crab-face",
     description: "(Aorto)coronary bypass of three coronary arteries",
     dateClaimed: 1638483212,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3053,7 +3053,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/errorquiaea.png?size=40x40&set=set1",
-    nftName: "Organic",
+    nftName: "Orange Crab-face",
     description: "Other repair of omentum",
     dateClaimed: 1636959273,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3062,7 +3062,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/velittemporeipsa.png?size=40x40&set=set1",
-    nftName: "encryption",
+    nftName: "Orange Crab-face",
     description: "Cardiac retraining",
     dateClaimed: 1653413829,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3071,7 +3071,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/temporaipsaquo.png?size=40x40&set=set1",
-    nftName: "encoding",
+    nftName: "Orange Crab-face",
     description: "Excision of perirectal tissue",
     dateClaimed: 1664079997,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3080,7 +3080,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/oditinconsequatur.png?size=40x40&set=set1",
-    nftName: "web-enabled",
+    nftName: "Orange Crab-face",
     description: "Other soft tissue x-ray of chest wall",
     dateClaimed: 1640675637,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3090,7 +3090,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/possimusvoluptatumet.png?size=40x40&set=set1",
-    nftName: "bi-directional",
+    nftName: "Orange Crab-face",
     description: "Open reduction of dislocation of shoulder",
     dateClaimed: 1652175561,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3099,7 +3099,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/vitaeeiusvel.png?size=40x40&set=set1",
-    nftName: "Customer-focused",
+    nftName: "Orange Crab-face",
     description: "Other division of bone, femur",
     dateClaimed: 1641062810,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3109,7 +3109,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/sintducimusmolestiae.png?size=40x40&set=set1",
-    nftName: "Distributed",
+    nftName: "Orange Crab-face",
     description: "Local excision or destruction of lesion of penis",
     dateClaimed: 1657345928,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3119,7 +3119,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/nonvoluptasdoloremque.png?size=40x40&set=set1",
-    nftName: "demand-driven",
+    nftName: "Orange Crab-face",
     description: "Replacement of nephrostomy tube",
     dateClaimed: 1655051343,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3128,7 +3128,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/oditsuscipitrerum.png?size=40x40&set=set1",
-    nftName: "application",
+    nftName: "Orange Crab-face",
     description: "Other intraoperative magnetic resonance imaging",
     dateClaimed: 1656368816,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3137,7 +3137,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiautemdelectus.png?size=40x40&set=set1",
-    nftName: "Intuitive",
+    nftName: "Orange Crab-face",
     description: "Neuroleptic therapy",
     dateClaimed: 1658467697,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3146,7 +3146,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quisuteum.png?size=40x40&set=set1",
-    nftName: "demand-driven",
+    nftName: "Orange Crab-face",
     description:
       "Refusion of lumbar and lumbosacral spine, anterior column, posterior technique",
     dateClaimed: 1639867534,
@@ -3157,7 +3157,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/etofficiareiciendis.png?size=40x40&set=set1",
-    nftName: "strategy",
+    nftName: "Orange Crab-face",
     description: "Removal of intrauterine contraceptive device",
     dateClaimed: 1660950540,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3166,7 +3166,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sedquiaaliquid.png?size=40x40&set=set1",
-    nftName: "next generation",
+    nftName: "Orange Crab-face",
     description: "Biopsy of joint structure, ankle",
     dateClaimed: 1658131261,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3175,7 +3175,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiaquiapariatur.png?size=40x40&set=set1",
-    nftName: "Implemented",
+    nftName: "Orange Crab-face",
     description: "Other repair or plastic operations on bone, other bones",
     dateClaimed: 1653938844,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3185,7 +3185,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/recusandaenonadipisci.png?size=40x40&set=set1",
-    nftName: "utilisation",
+    nftName: "Orange Crab-face",
     description: "Ligation of meningeal vessel",
     dateClaimed: 1653027182,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3194,7 +3194,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nonquisqui.png?size=40x40&set=set1",
-    nftName: "discrete",
+    nftName: "Orange Crab-face",
     description: "Arthroscopy, knee",
     dateClaimed: 1665074920,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3204,7 +3204,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/facilisnullavoluptas.png?size=40x40&set=set1",
-    nftName: "Team-oriented",
+    nftName: "Orange Crab-face",
     description: "Revision or closure of vesicostomy",
     dateClaimed: 1638561376,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3213,7 +3213,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/laborumipsaet.png?size=40x40&set=set1",
-    nftName: "Switchable",
+    nftName: "Orange Crab-face",
     description: "Wedge osteotomy, femur",
     dateClaimed: 1635072216,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3223,7 +3223,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatemomnisvoluptate.png?size=40x40&set=set1",
-    nftName: "system-worthy",
+    nftName: "Orange Crab-face",
     description: "Abdominal-coronary artery bypass",
     dateClaimed: 1636476585,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3232,7 +3232,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/doloremineveniet.png?size=40x40&set=set1",
-    nftName: "empowering",
+    nftName: "Orange Crab-face",
     description: "Suture of laceration of stomach",
     dateClaimed: 1653554626,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3241,7 +3241,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/estofficiisaut.png?size=40x40&set=set1",
-    nftName: "national",
+    nftName: "Orange Crab-face",
     description: "Removal of tube from small intestine",
     dateClaimed: 1657746519,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3251,7 +3251,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/blanditiisculpaeius.png?size=40x40&set=set1",
-    nftName: "function",
+    nftName: "Orange Crab-face",
     description: "Open and other partial gastrectomy",
     dateClaimed: 1664653114,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3260,7 +3260,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/atquevelquae.png?size=40x40&set=set1",
-    nftName: "frame",
+    nftName: "Orange Crab-face",
     description: "Open reduction of fracture without internal fixation, femur",
     dateClaimed: 1655761034,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3269,7 +3269,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quaedelenitiquia.png?size=40x40&set=set1",
-    nftName: "encryption",
+    nftName: "Orange Crab-face",
     description: "Removal of foreign body from foot without incision",
     dateClaimed: 1643290341,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3278,7 +3278,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/perspiciatissedet.png?size=40x40&set=set1",
-    nftName: "Diverse",
+    nftName: "Orange Crab-face",
     description: "Isolation of segment of large intestine",
     dateClaimed: 1654793427,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3287,7 +3287,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/veletodit.png?size=40x40&set=set1",
-    nftName: "Front-line",
+    nftName: "Orange Crab-face",
     description: "Biopsy of bone, unspecified site",
     dateClaimed: 1662692598,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3297,7 +3297,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/rerumquisquamporro.png?size=40x40&set=set1",
-    nftName: "zero defect",
+    nftName: "Orange Crab-face",
     description: "Magnetic removal of embedded foreign body from cornea",
     dateClaimed: 1638302347,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3307,7 +3307,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/dignissimosquivoluptas.png?size=40x40&set=set1",
-    nftName: "Profit-focused",
+    nftName: "Orange Crab-face",
     description:
       "Closed reduction of fracture with internal fixation, carpals and metacarpals",
     dateClaimed: 1664584848,
@@ -3317,7 +3317,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/abquasimaxime.png?size=40x40&set=set1",
-    nftName: "Multi-channelled",
+    nftName: "Orange Crab-face",
     description: "Revision of knee replacement, total (all components)",
     dateClaimed: 1660169631,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3327,7 +3327,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/magniadipiscipariatur.png?size=40x40&set=set1",
-    nftName: "client-driven",
+    nftName: "Orange Crab-face",
     description: "Repair of current obstetric laceration of cervix",
     dateClaimed: 1652192452,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3337,7 +3337,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/reprehenderitreiciendisvoluptas.png?size=40x40&set=set1",
-    nftName: "3rd generation",
+    nftName: "Orange Crab-face",
     description: "Lobotomy and tractotomy",
     dateClaimed: 1643480568,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3346,7 +3346,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nostrummaioresut.png?size=40x40&set=set1",
-    nftName: "capability",
+    nftName: "Orange Crab-face",
     description: "Bone graft to skull",
     dateClaimed: 1661601840,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3355,7 +3355,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eaetvoluptas.png?size=40x40&set=set1",
-    nftName: "even-keeled",
+    nftName: "Orange Crab-face",
     description: "Other partial ostectomy, radius and ulna",
     dateClaimed: 1649991211,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3364,7 +3364,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autnonhic.png?size=40x40&set=set1",
-    nftName: "time-frame",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from lymph node and of lymph, culture and sensitivity",
     dateClaimed: 1637982816,
@@ -3374,7 +3374,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/remnemoeum.png?size=40x40&set=set1",
-    nftName: "challenge",
+    nftName: "Orange Crab-face",
     description: "Open biopsy of seminal vesicles",
     dateClaimed: 1649001504,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3383,7 +3383,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utilloaut.png?size=40x40&set=set1",
-    nftName: "Visionary",
+    nftName: "Orange Crab-face",
     description: "Bone graft to facial bone",
     dateClaimed: 1662285955,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3392,7 +3392,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/rerumaliasoptio.png?size=40x40&set=set1",
-    nftName: "interactive",
+    nftName: "Orange Crab-face",
     description: "Surgical correction of prominent ear",
     dateClaimed: 1661533010,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3402,7 +3402,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatemquiaconsectetur.png?size=40x40&set=set1",
-    nftName: "system engine",
+    nftName: "Orange Crab-face",
     description: "Elevation of skull fracture fragments",
     dateClaimed: 1664970657,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3412,7 +3412,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/iurelaborepossimus.png?size=40x40&set=set1",
-    nftName: "Right-sized",
+    nftName: "Orange Crab-face",
     description: "Closed [percutaneous] [needle] biopsy of kidney",
     dateClaimed: 1647608703,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3422,7 +3422,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/perspiciatisundedelectus.png?size=40x40&set=set1",
-    nftName: "Advanced",
+    nftName: "Orange Crab-face",
     description: "Dilation of urethra",
     dateClaimed: 1651986424,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3432,7 +3432,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/porronostrumvoluptate.png?size=40x40&set=set1",
-    nftName: "encoding",
+    nftName: "Orange Crab-face",
     description: "Other repair or plastic operations on bone, humerus",
     dateClaimed: 1649760563,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3442,7 +3442,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/blanditiisautullam.png?size=40x40&set=set1",
-    nftName: "multi-tasking",
+    nftName: "Orange Crab-face",
     description: "Removal of valve from vas deferens",
     dateClaimed: 1653408679,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3452,7 +3452,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/fugiatvoluptasquia.png?size=40x40&set=set1",
-    nftName: "24/7",
+    nftName: "Orange Crab-face",
     description: "Other and unspecified segmental resection of lung",
     dateClaimed: 1655918393,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3462,7 +3462,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/aliasdeseruntaliquid.png?size=40x40&set=set1",
-    nftName: "migration",
+    nftName: "Orange Crab-face",
     description:
       "Phlebography of other specified sites using contrast material",
     dateClaimed: 1651158758,
@@ -3472,7 +3472,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/asperioresipsaest.png?size=40x40&set=set1",
-    nftName: "content-based",
+    nftName: "Orange Crab-face",
     description:
       "Mechanical fragmentation of secondary membrane [after cataract]",
     dateClaimed: 1645970986,
@@ -3483,7 +3483,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quidemnamaccusamus.png?size=40x40&set=set1",
-    nftName: "next generation",
+    nftName: "Orange Crab-face",
     description: "Re-entry operation (aorta)",
     dateClaimed: 1657549985,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3492,7 +3492,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/rerumsitin.png?size=40x40&set=set1",
-    nftName: "value-added",
+    nftName: "Orange Crab-face",
     description: "Other soft tissue x-ray of abdominal wall",
     dateClaimed: 1661952055,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3501,7 +3501,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nullavitaererum.png?size=40x40&set=set1",
-    nftName: "structure",
+    nftName: "Orange Crab-face",
     description: "Fusion or refusion of 9 or more vertebrae",
     dateClaimed: 1637831526,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3510,7 +3510,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quinonnam.png?size=40x40&set=set1",
-    nftName: "methodology",
+    nftName: "Orange Crab-face",
     description:
       "Arthrotomy for removal of prosthesis without replacement, knee",
     dateClaimed: 1637222897,
@@ -3520,7 +3520,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/estofficiaaut.png?size=40x40&set=set1",
-    nftName: "solution",
+    nftName: "Orange Crab-face",
     description: "Autologous bone marrow transplant without purging",
     dateClaimed: 1656578873,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3529,7 +3529,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eumrecusandaeea.png?size=40x40&set=set1",
-    nftName: "portal",
+    nftName: "Orange Crab-face",
     description:
       "Closed reduction of fracture without internal fixation, radius and ulna",
     dateClaimed: 1646378473,
@@ -3539,7 +3539,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/ipsamnobisquam.png?size=40x40&set=set1",
-    nftName: "24/7",
+    nftName: "Orange Crab-face",
     description: "Radical vulvectomy",
     dateClaimed: 1643792670,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3549,7 +3549,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/nostrumquosvoluptatem.png?size=40x40&set=set1",
-    nftName: "Persevering",
+    nftName: "Orange Crab-face",
     description: "Open abdominoperineal resection of the rectum",
     dateClaimed: 1642711727,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3559,7 +3559,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/ducimusminimaearum.png?size=40x40&set=set1",
-    nftName: "Advanced",
+    nftName: "Orange Crab-face",
     description:
       "Implantation or replacement of carotid sinus stimulation device, total system",
     dateClaimed: 1648114511,
@@ -3570,7 +3570,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/delenitiautemvitae.png?size=40x40&set=set1",
-    nftName: "collaboration",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of peritoneal and retroperitoneal specimen, bacterial smear",
     dateClaimed: 1647824321,
@@ -3581,7 +3581,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/expeditaautvoluptatem.png?size=40x40&set=set1",
-    nftName: "firmware",
+    nftName: "Orange Crab-face",
     description: "Other repair of urinary stress incontinence",
     dateClaimed: 1664881911,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3590,7 +3590,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etullamporro.png?size=40x40&set=set1",
-    nftName: "background",
+    nftName: "Orange Crab-face",
     description: "Percutaneous extraction of common duct stones",
     dateClaimed: 1637352673,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3599,7 +3599,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/iddolorumodio.png?size=40x40&set=set1",
-    nftName: "3rd generation",
+    nftName: "Orange Crab-face",
     description: "Interphalangeal fusion",
     dateClaimed: 1665176901,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3608,7 +3608,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/doloraaut.png?size=40x40&set=set1",
-    nftName: "Virtual",
+    nftName: "Orange Crab-face",
     description: "Percutaneous insertion of intracranial vascular stent(s)",
     dateClaimed: 1654780278,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3618,7 +3618,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/ipsalaboreofficiis.png?size=40x40&set=set1",
-    nftName: "5th generation",
+    nftName: "Orange Crab-face",
     description: "Particulate radiosurgery",
     dateClaimed: 1655458442,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3628,7 +3628,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/autasperioreslaboriosam.png?size=40x40&set=set1",
-    nftName: "Open-source",
+    nftName: "Orange Crab-face",
     description: "Osteopathic manipulative treatment for general mobilization",
     dateClaimed: 1651584962,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3638,7 +3638,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/assumendasimiliquererum.png?size=40x40&set=set1",
-    nftName: "Upgradable",
+    nftName: "Orange Crab-face",
     description: "Other closed reduction of facial fracture",
     dateClaimed: 1644002052,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3648,7 +3648,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/autemconsequaturomnis.png?size=40x40&set=set1",
-    nftName: "pricing structure",
+    nftName: "Orange Crab-face",
     description: "Transurethral clearance of bladder",
     dateClaimed: 1660568449,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3657,7 +3657,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autquisint.png?size=40x40&set=set1",
-    nftName: "bottom-line",
+    nftName: "Orange Crab-face",
     description: "Removal of intrauterine contraceptive device",
     dateClaimed: 1651627611,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3666,7 +3666,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/delectusquasiiste.png?size=40x40&set=set1",
-    nftName: "Cross-group",
+    nftName: "Orange Crab-face",
     description: "Other penetrating keratoplasty",
     dateClaimed: 1665172902,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3676,7 +3676,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/omnisnumquamaliquid.png?size=40x40&set=set1",
-    nftName: "Self-enabling",
+    nftName: "Orange Crab-face",
     description: "Other plastic repair of mouth",
     dateClaimed: 1664641146,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3685,7 +3685,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/officiaadpariatur.png?size=40x40&set=set1",
-    nftName: "capability",
+    nftName: "Orange Crab-face",
     description:
       "Laparoscopic repair of umbilical hernia with graft or prosthesis",
     dateClaimed: 1647806966,
@@ -3696,7 +3696,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quodnecessitatibusut.png?size=40x40&set=set1",
-    nftName: "asymmetric",
+    nftName: "Orange Crab-face",
     description: "Anorectal myectomy",
     dateClaimed: 1643559074,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3705,7 +3705,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nemonesciuntminus.png?size=40x40&set=set1",
-    nftName: "Profit-focused",
+    nftName: "Orange Crab-face",
     description: "Biopsy of perianal tissue",
     dateClaimed: 1648615905,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3715,7 +3715,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/eosexercitationemfuga.png?size=40x40&set=set1",
-    nftName: "transitional",
+    nftName: "Orange Crab-face",
     description: "Injection or infusion of nesiritide",
     dateClaimed: 1660325024,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3724,7 +3724,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eanullaeveniet.png?size=40x40&set=set1",
-    nftName: "User-centric",
+    nftName: "Orange Crab-face",
     description: "Removal of gastric bubble (balloon)",
     dateClaimed: 1654379659,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3733,7 +3733,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/harumoptiolaborum.png?size=40x40&set=set1",
-    nftName: "incremental",
+    nftName: "Orange Crab-face",
     description: "Other pull-through resection of rectum",
     dateClaimed: 1645647117,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3743,7 +3743,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/necessitatibusvoluptatesrerum.png?size=40x40&set=set1",
-    nftName: "context-sensitive",
+    nftName: "Orange Crab-face",
     description: "Other incision of soft tissue of hand",
     dateClaimed: 1653484333,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3753,7 +3753,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/illummaioresreprehenderit.png?size=40x40&set=set1",
-    nftName: "task-force",
+    nftName: "Orange Crab-face",
     description: "Other x-ray of skull",
     dateClaimed: 1654209027,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3762,7 +3762,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/voluptatemetet.png?size=40x40&set=set1",
-    nftName: "Fundamental",
+    nftName: "Orange Crab-face",
     description: "Endarterectomy, aorta",
     dateClaimed: 1644856812,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3771,7 +3771,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/rationeetnulla.png?size=40x40&set=set1",
-    nftName: "service-desk",
+    nftName: "Orange Crab-face",
     description: "Therapeutic plasmapheresis",
     dateClaimed: 1634973484,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3780,7 +3780,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etconsequatursint.png?size=40x40&set=set1",
-    nftName: "Multi-channelled",
+    nftName: "Orange Crab-face",
     description: "Pancreatic sphincterotomy",
     dateClaimed: 1647723612,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3790,7 +3790,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/modimagnamrepudiandae.png?size=40x40&set=set1",
-    nftName: "discrete",
+    nftName: "Orange Crab-face",
     description: "Dilation of fallopian tube",
     dateClaimed: 1639256146,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3799,7 +3799,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/cumqueipsamiure.png?size=40x40&set=set1",
-    nftName: "logistical",
+    nftName: "Orange Crab-face",
     description: "Other vaginal dilation",
     dateClaimed: 1634911904,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3808,7 +3808,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/aliasdolornisi.png?size=40x40&set=set1",
-    nftName: "multimedia",
+    nftName: "Orange Crab-face",
     description: "Arthrodesis of elbow",
     dateClaimed: 1657043806,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3817,7 +3817,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiaametet.png?size=40x40&set=set1",
-    nftName: "multi-state",
+    nftName: "Orange Crab-face",
     description: "Other repair of vagina",
     dateClaimed: 1637559602,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3827,7 +3827,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/magniillovoluptate.png?size=40x40&set=set1",
-    nftName: "access",
+    nftName: "Orange Crab-face",
     description: "Rotator cuff repair",
     dateClaimed: 1647263369,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3836,7 +3836,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/idremsint.png?size=40x40&set=set1",
-    nftName: "infrastructure",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from upper gastrointestinal tract and of vomitus, cell block and Papanicolaou smear",
     dateClaimed: 1638751541,
@@ -3847,7 +3847,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatestemporibuset.png?size=40x40&set=set1",
-    nftName: "Re-contextualized",
+    nftName: "Orange Crab-face",
     description: "Suture of laceration of large intestine",
     dateClaimed: 1637976054,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3856,7 +3856,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/fugaestest.png?size=40x40&set=set1",
-    nftName: "intangible",
+    nftName: "Orange Crab-face",
     description: "Drug rehabilitation and detoxification",
     dateClaimed: 1635960267,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3865,7 +3865,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/atsitquos.png?size=40x40&set=set1",
-    nftName: "initiative",
+    nftName: "Orange Crab-face",
     description: "Vaccination against cholera",
     dateClaimed: 1652125262,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3875,7 +3875,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloresearumconsectetur.png?size=40x40&set=set1",
-    nftName: "architecture",
+    nftName: "Orange Crab-face",
     description: "Incision of perianal abscess",
     dateClaimed: 1657521860,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3884,7 +3884,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eumcorruptioptio.png?size=40x40&set=set1",
-    nftName: "executive",
+    nftName: "Orange Crab-face",
     description: "Other operations assisting delivery",
     dateClaimed: 1660421021,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3894,7 +3894,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/aperiamfugiatrepellendus.png?size=40x40&set=set1",
-    nftName: "moderator",
+    nftName: "Orange Crab-face",
     description: "Removal of carotid sinus stimulation pulse generator only",
     dateClaimed: 1637339095,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3903,7 +3903,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/repellatnullaet.png?size=40x40&set=set1",
-    nftName: "holistic",
+    nftName: "Orange Crab-face",
     description: "Other operations on urethra and periurethral tissue",
     dateClaimed: 1652570367,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3913,7 +3913,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/consequaturquiaillum.png?size=40x40&set=set1",
-    nftName: "secured line",
+    nftName: "Orange Crab-face",
     description:
       "Implantation of total internal biventricular heart replacement system",
     dateClaimed: 1637070981,
@@ -3924,7 +3924,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/similiqueundedolorem.png?size=40x40&set=set1",
-    nftName: "extranet",
+    nftName: "Orange Crab-face",
     description: "Implantation of artificial urinary sphincter [AUS]",
     dateClaimed: 1653549682,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3933,7 +3933,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/officiissitquasi.png?size=40x40&set=set1",
-    nftName: "Persistent",
+    nftName: "Orange Crab-face",
     description: "Other x-ray of epididymis and vas deferens",
     dateClaimed: 1635070421,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3942,7 +3942,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/aliquamautin.png?size=40x40&set=set1",
-    nftName: "data-warehouse",
+    nftName: "Orange Crab-face",
     description: "Removal of eye prosthesis",
     dateClaimed: 1664397879,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3951,7 +3951,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sintsitnatus.png?size=40x40&set=set1",
-    nftName: "neural-net",
+    nftName: "Orange Crab-face",
     description: "Other digestive tract x-ray",
     dateClaimed: 1642049383,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3960,7 +3960,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/voluptatemautquam.png?size=40x40&set=set1",
-    nftName: "impactful",
+    nftName: "Orange Crab-face",
     description: "Other local excision of lesion of duodenum",
     dateClaimed: 1642019353,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3970,7 +3970,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/necessitatibusidsunt.png?size=40x40&set=set1",
-    nftName: "24/7",
+    nftName: "Orange Crab-face",
     description:
       "Excision or destruction of lesion or tissue of abdominal wall or umbilicus",
     dateClaimed: 1653130164,
@@ -3980,7 +3980,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quoquaeet.png?size=40x40&set=set1",
-    nftName: "optimizing",
+    nftName: "Orange Crab-face",
     description: "Suture of laceration of duodenum",
     dateClaimed: 1646505751,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3989,7 +3989,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quisquiased.png?size=40x40&set=set1",
-    nftName: "adapter",
+    nftName: "Orange Crab-face",
     description: "Other unilateral femoral herniorrhaphy",
     dateClaimed: 1636649439,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -3998,7 +3998,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autmolestiaetotam.png?size=40x40&set=set1",
-    nftName: "Triple-buffered",
+    nftName: "Orange Crab-face",
     description: "Pedicle or flap graft, not otherwise specified",
     dateClaimed: 1661095674,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4008,7 +4008,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/velvoluptasquibusdam.png?size=40x40&set=set1",
-    nftName: "open system",
+    nftName: "Orange Crab-face",
     description:
       "Other and open repair of diaphragmatic hernia, with thoracic approach",
     dateClaimed: 1643889535,
@@ -4019,7 +4019,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/asperioresfacerenesciunt.png?size=40x40&set=set1",
-    nftName: "directional",
+    nftName: "Orange Crab-face",
     description: "Radical mastoidectomy",
     dateClaimed: 1653253955,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4029,7 +4029,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quienimconsectetur.png?size=40x40&set=set1",
-    nftName: "directional",
+    nftName: "Orange Crab-face",
     description: "Relaxation of scar or web contracture of skin",
     dateClaimed: 1660004842,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4039,7 +4039,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/velitcumqueincidunt.png?size=40x40&set=set1",
-    nftName: "holistic",
+    nftName: "Orange Crab-face",
     description: "Coronary arteriography using a single catheter",
     dateClaimed: 1656692840,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4049,7 +4049,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/recusandaenihilvel.png?size=40x40&set=set1",
-    nftName: "Decentralized",
+    nftName: "Orange Crab-face",
     description: "Thoracoplasty",
     dateClaimed: 1644867276,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4059,7 +4059,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quilaudantiumconsequatur.png?size=40x40&set=set1",
-    nftName: "Versatile",
+    nftName: "Orange Crab-face",
     description: "Repair of retinal tear by diathermy",
     dateClaimed: 1648079106,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4068,7 +4068,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quospossimusrerum.png?size=40x40&set=set1",
-    nftName: "human-resource",
+    nftName: "Orange Crab-face",
     description: "Symphysiotomy for horseshoe kidney",
     dateClaimed: 1634620496,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4077,7 +4077,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/estbeataeut.png?size=40x40&set=set1",
-    nftName: "bottom-line",
+    nftName: "Orange Crab-face",
     description: "Dilation of pylorus by incision",
     dateClaimed: 1639847666,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4086,7 +4086,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/dolornullaquo.png?size=40x40&set=set1",
-    nftName: "Networked",
+    nftName: "Orange Crab-face",
     description: "Repair of brain",
     dateClaimed: 1657465559,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4096,7 +4096,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/velitvoluptatemnisi.png?size=40x40&set=set1",
-    nftName: "Quality-focused",
+    nftName: "Orange Crab-face",
     description: "Excision or destruction of intervertebral disc, unspecified",
     dateClaimed: 1640285901,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4106,7 +4106,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/consecteturdoloribuscumque.png?size=40x40&set=set1",
-    nftName: "encryption",
+    nftName: "Orange Crab-face",
     description: "Incision of vessel, lower limb arteries",
     dateClaimed: 1648454561,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4116,7 +4116,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/facilisdoloresmolestiae.png?size=40x40&set=set1",
-    nftName: "standardization",
+    nftName: "Orange Crab-face",
     description: "Reduction of torsion of testis or spermatic cord",
     dateClaimed: 1662176585,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4125,7 +4125,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eteaest.png?size=40x40&set=set1",
-    nftName: "Robust",
+    nftName: "Orange Crab-face",
     description: "Suture of laceration of bronchus",
     dateClaimed: 1661429971,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4135,7 +4135,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/repudiandaeadipiscidolorem.png?size=40x40&set=set1",
-    nftName: "process improvement",
+    nftName: "Orange Crab-face",
     description:
       "Implantation of rechargeable cardiac contractility modulation [CCM], total system",
     dateClaimed: 1652915518,
@@ -4145,7 +4145,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nonina.png?size=40x40&set=set1",
-    nftName: "De-engineered",
+    nftName: "Orange Crab-face",
     description: "Endovascular implantation of graft in thoracic aorta",
     dateClaimed: 1648961944,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4154,7 +4154,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/inventoreeumsunt.png?size=40x40&set=set1",
-    nftName: "contextually-based",
+    nftName: "Orange Crab-face",
     description: "Resection of vessel with anastomosis, intracranial vessels",
     dateClaimed: 1649238175,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4164,7 +4164,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/rerumlaborumveniam.png?size=40x40&set=set1",
-    nftName: "motivating",
+    nftName: "Orange Crab-face",
     description: "Other diagnostic procedures on teeth, gums, and alveoli",
     dateClaimed: 1639032025,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4174,7 +4174,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/aliquamsintinventore.png?size=40x40&set=set1",
-    nftName: "Optional",
+    nftName: "Orange Crab-face",
     description: "Other craniotomy",
     dateClaimed: 1659961714,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4184,7 +4184,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/oditnatusconsectetur.png?size=40x40&set=set1",
-    nftName: "incremental",
+    nftName: "Orange Crab-face",
     description: "Central venous catheter placement with guidance",
     dateClaimed: 1652796657,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4193,7 +4193,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etassumendaillo.png?size=40x40&set=set1",
-    nftName: "hub",
+    nftName: "Orange Crab-face",
     description: "Intra-abdominal manipulation of small intestine",
     dateClaimed: 1640595761,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4203,7 +4203,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/magnampraesentiumblanditiis.png?size=40x40&set=set1",
-    nftName: "local area network",
+    nftName: "Orange Crab-face",
     description:
       "Local excision of lesion or tissue of bone, carpals and metacarpals",
     dateClaimed: 1662202222,
@@ -4213,7 +4213,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiquiadistinctio.png?size=40x40&set=set1",
-    nftName: "web-enabled",
+    nftName: "Orange Crab-face",
     description: "Closed reduction of dislocation of elbow",
     dateClaimed: 1648711363,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4222,7 +4222,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/officiaetsint.png?size=40x40&set=set1",
-    nftName: "modular",
+    nftName: "Orange Crab-face",
     description: "Parenteral infusion of concentrated nutritional substances",
     dateClaimed: 1653224531,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4231,7 +4231,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quamnostrumporro.png?size=40x40&set=set1",
-    nftName: "high-level",
+    nftName: "Orange Crab-face",
     description: "Disarticulation of shoulder",
     dateClaimed: 1662767886,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4240,7 +4240,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/rerumeumeum.png?size=40x40&set=set1",
-    nftName: "scalable",
+    nftName: "Orange Crab-face",
     description: "Other excision of soft tissue",
     dateClaimed: 1651910458,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4250,7 +4250,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quidemplaceatharum.png?size=40x40&set=set1",
-    nftName: "productivity",
+    nftName: "Orange Crab-face",
     description: "Percutaneous ablation of lung lesion or tissue",
     dateClaimed: 1662667769,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4259,7 +4259,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/dolorearepellat.png?size=40x40&set=set1",
-    nftName: "tertiary",
+    nftName: "Orange Crab-face",
     description: "Other repair or plastic operations on bone, other bones",
     dateClaimed: 1639853668,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4269,7 +4269,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/fugaeiusvoluptatem.png?size=40x40&set=set1",
-    nftName: "conglomeration",
+    nftName: "Orange Crab-face",
     description: "Other excision of perianal tissue",
     dateClaimed: 1661423071,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4278,7 +4278,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/enimitaquedolores.png?size=40x40&set=set1",
-    nftName: "client-server",
+    nftName: "Orange Crab-face",
     description: "Repair of arteriovenous fistula",
     dateClaimed: 1649147784,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4287,7 +4287,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etitaquecumque.png?size=40x40&set=set1",
-    nftName: "modular",
+    nftName: "Orange Crab-face",
     description: "Lumbar sympathectomy",
     dateClaimed: 1636203827,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4297,7 +4297,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/nihilmagniveritatis.png?size=40x40&set=set1",
-    nftName: "focus group",
+    nftName: "Orange Crab-face",
     description: "Common duct exploration for removal of calculus",
     dateClaimed: 1647280088,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4306,7 +4306,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nequeauttenetur.png?size=40x40&set=set1",
-    nftName: "asynchronous",
+    nftName: "Orange Crab-face",
     description: "Total ankle replacement",
     dateClaimed: 1658826271,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4316,7 +4316,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/explicaboetoccaecati.png?size=40x40&set=set1",
-    nftName: "Sharable",
+    nftName: "Orange Crab-face",
     description: "Incision of cervix to assist delivery",
     dateClaimed: 1661164847,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4326,7 +4326,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/sitvoluptatemdolorum.png?size=40x40&set=set1",
-    nftName: "executive",
+    nftName: "Orange Crab-face",
     description: "Other excision of vessels, lower limb veins",
     dateClaimed: 1651999562,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4335,7 +4335,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/mollitiaestet.png?size=40x40&set=set1",
-    nftName: "4th generation",
+    nftName: "Orange Crab-face",
     description: "Epididymotomy",
     dateClaimed: 1645096527,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4345,7 +4345,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/ducimusametadipisci.png?size=40x40&set=set1",
-    nftName: "access",
+    nftName: "Orange Crab-face",
     description: "Other revision of vascular procedure",
     dateClaimed: 1660832412,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4354,7 +4354,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eosautnostrum.png?size=40x40&set=set1",
-    nftName: "intermediate",
+    nftName: "Orange Crab-face",
     description: "Implantation or replacement of mechanical kidney",
     dateClaimed: 1645739890,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4363,7 +4363,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/ipsamatquam.png?size=40x40&set=set1",
-    nftName: "attitude",
+    nftName: "Orange Crab-face",
     description: "Nephrectomy of remaining kidney",
     dateClaimed: 1664457248,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4373,7 +4373,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/commodinostrumconsequuntur.png?size=40x40&set=set1",
-    nftName: "reciprocal",
+    nftName: "Orange Crab-face",
     description: "Laparoscopic total abdominal hysterectomy",
     dateClaimed: 1648270630,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4383,7 +4383,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/perspiciatisquodsit.png?size=40x40&set=set1",
-    nftName: "zero administration",
+    nftName: "Orange Crab-face",
     description: "Resection of vessel with replacement, intracranial vessels",
     dateClaimed: 1659750590,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4393,7 +4393,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quamliberodeserunt.png?size=40x40&set=set1",
-    nftName: "Visionary",
+    nftName: "Orange Crab-face",
     description: "Other operations on urethra and periurethral tissue",
     dateClaimed: 1650690599,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4402,7 +4402,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/iurevelittotam.png?size=40x40&set=set1",
-    nftName: "Monitored",
+    nftName: "Orange Crab-face",
     description: "Pyeloscopy",
     dateClaimed: 1649889898,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4412,7 +4412,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/verovoluptateofficia.png?size=40x40&set=set1",
-    nftName: "monitoring",
+    nftName: "Orange Crab-face",
     description: "Repair of atrial septal defect with tissue graft",
     dateClaimed: 1640658814,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4422,7 +4422,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/consecteturipsambeatae.png?size=40x40&set=set1",
-    nftName: "tertiary",
+    nftName: "Orange Crab-face",
     description: "Procedure on two vessels",
     dateClaimed: 1656547443,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4431,7 +4431,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/beataenihildolor.png?size=40x40&set=set1",
-    nftName: "core",
+    nftName: "Orange Crab-face",
     description: "Implantation or replacement of prosthesis of fallopian tube",
     dateClaimed: 1645912021,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4440,7 +4440,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quaequoincidunt.png?size=40x40&set=set1",
-    nftName: "core",
+    nftName: "Orange Crab-face",
     description:
       "Other and open repair of diaphragmatic hernia, with thoracic approach",
     dateClaimed: 1653310168,
@@ -4451,7 +4451,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/architectomaximequi.png?size=40x40&set=set1",
-    nftName: "grid-enabled",
+    nftName: "Orange Crab-face",
     description: "Closed reduction of separated epiphysis, femur",
     dateClaimed: 1649132326,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4460,7 +4460,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/iustonullaqui.png?size=40x40&set=set1",
-    nftName: "Optional",
+    nftName: "Orange Crab-face",
     description:
       "Other procedures for creation of esophagogastric sphincteric competence",
     dateClaimed: 1651150444,
@@ -4471,7 +4471,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptasquoscumque.png?size=40x40&set=set1",
-    nftName: "Cross-group",
+    nftName: "Orange Crab-face",
     description: "Freeing of vessel",
     dateClaimed: 1641758024,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4480,7 +4480,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etvelitnumquam.png?size=40x40&set=set1",
-    nftName: "systemic",
+    nftName: "Orange Crab-face",
     description: "Injection of Rh immune globulin",
     dateClaimed: 1645545915,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4489,7 +4489,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/voluptatemestnon.png?size=40x40&set=set1",
-    nftName: "Multi-tiered",
+    nftName: "Orange Crab-face",
     description: "Resection of vessel with replacement, lower limb veins",
     dateClaimed: 1653888205,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4498,7 +4498,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/adauterror.png?size=40x40&set=set1",
-    nftName: "Reduced",
+    nftName: "Orange Crab-face",
     description: "Other and unspecified operations on thymus",
     dateClaimed: 1656567805,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4507,7 +4507,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/oditutin.png?size=40x40&set=set1",
-    nftName: "solution",
+    nftName: "Orange Crab-face",
     description: "Debridement of open fracture site, carpals and metacarpals",
     dateClaimed: 1647257962,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4516,7 +4516,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/rerumetearum.png?size=40x40&set=set1",
-    nftName: "regional",
+    nftName: "Orange Crab-face",
     description: "Achillotenotomy",
     dateClaimed: 1639364184,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4525,7 +4525,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/harumsuntdebitis.png?size=40x40&set=set1",
-    nftName: "Balanced",
+    nftName: "Orange Crab-face",
     description: "Other retroperitoneal x-ray",
     dateClaimed: 1643283769,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4534,7 +4534,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/commodiutdolores.png?size=40x40&set=set1",
-    nftName: "Re-engineered",
+    nftName: "Orange Crab-face",
     description: "Piercing of ear lobe",
     dateClaimed: 1636510498,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4543,7 +4543,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/hicimpeditfugiat.png?size=40x40&set=set1",
-    nftName: "Ameliorated",
+    nftName: "Orange Crab-face",
     description: "Left heart cardiac catheterization",
     dateClaimed: 1649158841,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4552,7 +4552,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/ducimusvelitvitae.png?size=40x40&set=set1",
-    nftName: "open architecture",
+    nftName: "Orange Crab-face",
     description: "Other incision of bone without division, tibia and fibula",
     dateClaimed: 1655798758,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4562,7 +4562,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/debitisidconsequuntur.png?size=40x40&set=set1",
-    nftName: "even-keeled",
+    nftName: "Orange Crab-face",
     description: "Insertion of biological graft",
     dateClaimed: 1639908369,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4571,7 +4571,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/isteetillo.png?size=40x40&set=set1",
-    nftName: "Innovative",
+    nftName: "Orange Crab-face",
     description: "Insertion of partial spinal disc prosthesis, lumbosacral",
     dateClaimed: 1649428158,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4580,7 +4580,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quamomnisvelit.png?size=40x40&set=set1",
-    nftName: "fresh-thinking",
+    nftName: "Orange Crab-face",
     description: "Arteriography using contrast material, unspecified site",
     dateClaimed: 1658658233,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4590,7 +4590,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quaerataddoloremque.png?size=40x40&set=set1",
-    nftName: "analyzer",
+    nftName: "Orange Crab-face",
     description:
       "Implant of single ventricular (extracorporeal) external heart assist system",
     dateClaimed: 1651966982,
@@ -4601,7 +4601,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/suntdolorumdolores.png?size=40x40&set=set1",
-    nftName: "grid-enabled",
+    nftName: "Orange Crab-face",
     description: "Other esophagoscopy",
     dateClaimed: 1664578920,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4610,7 +4610,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/maioresveroab.png?size=40x40&set=set1",
-    nftName: "policy",
+    nftName: "Orange Crab-face",
     description: "Delayed opening of other enterostomy",
     dateClaimed: 1647678889,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4620,7 +4620,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/impeditnonvoluptates.png?size=40x40&set=set1",
-    nftName: "function",
+    nftName: "Orange Crab-face",
     description: "Debridement of open fracture site, radius and ulna",
     dateClaimed: 1638599108,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4630,7 +4630,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/placeatexplicabovero.png?size=40x40&set=set1",
-    nftName: "grid-enabled",
+    nftName: "Orange Crab-face",
     description: "Excisional debridement of wound, infection, or burn",
     dateClaimed: 1637131500,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4640,7 +4640,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/temporibusquoveniam.png?size=40x40&set=set1",
-    nftName: "Function-based",
+    nftName: "Orange Crab-face",
     description: "Intermittent skeletal traction",
     dateClaimed: 1653020840,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4650,7 +4650,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/dolorerationevoluptates.png?size=40x40&set=set1",
-    nftName: "contextually-based",
+    nftName: "Orange Crab-face",
     description: "Lysis of pharyngeal adhesions",
     dateClaimed: 1656718325,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4659,7 +4659,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/doloreomnissit.png?size=40x40&set=set1",
-    nftName: "real-time",
+    nftName: "Orange Crab-face",
     description: "Other reconstruction of urethra",
     dateClaimed: 1653446316,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4668,7 +4668,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nullaeuma.png?size=40x40&set=set1",
-    nftName: "explicit",
+    nftName: "Orange Crab-face",
     description:
       "Other local excision or destruction of lesion of joint, hand and finger",
     dateClaimed: 1654762356,
@@ -4679,7 +4679,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptasconsequunturullam.png?size=40x40&set=set1",
-    nftName: "well-modulated",
+    nftName: "Orange Crab-face",
     description: "Other operations on perirenal or perivesical tissue",
     dateClaimed: 1651845651,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4689,7 +4689,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/fugitnostrummaxime.png?size=40x40&set=set1",
-    nftName: "hub",
+    nftName: "Orange Crab-face",
     description: "Repair of cystocele with graft or prosthesis",
     dateClaimed: 1634866583,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4698,7 +4698,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/facerequoaut.png?size=40x40&set=set1",
-    nftName: "Object-based",
+    nftName: "Orange Crab-face",
     description:
       "Open reduction of fracture without internal fixation, humerus",
     dateClaimed: 1659399973,
@@ -4708,7 +4708,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/velveniamillum.png?size=40x40&set=set1",
-    nftName: "Multi-channelled",
+    nftName: "Orange Crab-face",
     description: "Gastric gavage",
     dateClaimed: 1649563522,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4718,7 +4718,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/necessitatibusremqui.png?size=40x40&set=set1",
-    nftName: "Function-based",
+    nftName: "Orange Crab-face",
     description: "Total pancreatectomy",
     dateClaimed: 1657160389,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4728,7 +4728,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/aperiamculpasoluta.png?size=40x40&set=set1",
-    nftName: "paradigm",
+    nftName: "Orange Crab-face",
     description: "Other excision of joint, knee",
     dateClaimed: 1662242596,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4738,7 +4738,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/praesentiumsaepearchitecto.png?size=40x40&set=set1",
-    nftName: "projection",
+    nftName: "Orange Crab-face",
     description: "Removal of implanted devices from bone, unspecified site",
     dateClaimed: 1639713139,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4747,7 +4747,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quidemautpossimus.png?size=40x40&set=set1",
-    nftName: "intangible",
+    nftName: "Orange Crab-face",
     description:
       "Local excision of lesion or tissue of bone, scapula, clavicle, and thorax [ribs and sternum]",
     dateClaimed: 1649097104,
@@ -4757,7 +4757,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/idseddolorum.png?size=40x40&set=set1",
-    nftName: "even-keeled",
+    nftName: "Orange Crab-face",
     description: "Correction of syndactyly",
     dateClaimed: 1645540917,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4766,7 +4766,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nonfugitmaiores.png?size=40x40&set=set1",
-    nftName: "dedicated",
+    nftName: "Orange Crab-face",
     description: "Adductor tenotomy of hip",
     dateClaimed: 1653971651,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4776,7 +4776,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/providentcorporisperspiciatis.png?size=40x40&set=set1",
-    nftName: "knowledge user",
+    nftName: "Orange Crab-face",
     description: "Endoscopic retrograde cholangiopancreatography [ERCP]",
     dateClaimed: 1643848435,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4785,7 +4785,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/culpalaborein.png?size=40x40&set=set1",
-    nftName: "3rd generation",
+    nftName: "Orange Crab-face",
     description: "Closure of stoma of large intestine",
     dateClaimed: 1655532867,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4795,7 +4795,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/errormolestiaeconsequatur.png?size=40x40&set=set1",
-    nftName: "Triple-buffered",
+    nftName: "Orange Crab-face",
     description: "Removal of lesion of eyelid, not otherwise specified",
     dateClaimed: 1660779651,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4804,7 +4804,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/reiciendisnonquia.png?size=40x40&set=set1",
-    nftName: "capacity",
+    nftName: "Orange Crab-face",
     description: "Injection of antidote",
     dateClaimed: 1653618809,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4814,7 +4814,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloribuscommodiexcepturi.png?size=40x40&set=set1",
-    nftName: "Extended",
+    nftName: "Orange Crab-face",
     description: "Closure of appendiceal fistula",
     dateClaimed: 1636058240,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4823,7 +4823,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/dolorquisquamodit.png?size=40x40&set=set1",
-    nftName: "Horizontal",
+    nftName: "Orange Crab-face",
     description: "Delayed closure of granulating abdominal wound",
     dateClaimed: 1659181893,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4832,7 +4832,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/culpadoloremvero.png?size=40x40&set=set1",
-    nftName: "exuding",
+    nftName: "Orange Crab-face",
     description: "Contrast radiogram of sinus",
     dateClaimed: 1638781250,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4841,7 +4841,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quibusdameumqui.png?size=40x40&set=set1",
-    nftName: "encoding",
+    nftName: "Orange Crab-face",
     description: "Contrast radiogram of sinus",
     dateClaimed: 1636605942,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4851,7 +4851,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptasvoluptatemaut.png?size=40x40&set=set1",
-    nftName: "Proactive",
+    nftName: "Orange Crab-face",
     description: "Cerebral scan",
     dateClaimed: 1657692484,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4861,7 +4861,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/omnisfacilisincidunt.png?size=40x40&set=set1",
-    nftName: "Decentralized",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from musculoskeletal system and of joint fluid, parasitology",
     dateClaimed: 1638621183,
@@ -4871,7 +4871,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/noniureiste.png?size=40x40&set=set1",
-    nftName: "methodology",
+    nftName: "Orange Crab-face",
     description: "Chemosurgery of skin",
     dateClaimed: 1662510328,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4881,7 +4881,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/laudantiumvoluptassunt.png?size=40x40&set=set1",
-    nftName: "human-resource",
+    nftName: "Orange Crab-face",
     description: "Suture of laceration of lip",
     dateClaimed: 1657500923,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4890,7 +4890,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/facilisquisquamet.png?size=40x40&set=set1",
-    nftName: "heuristic",
+    nftName: "Orange Crab-face",
     description: "Open biopsy of pancreas",
     dateClaimed: 1646446857,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4900,7 +4900,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloreseiuscorporis.png?size=40x40&set=set1",
-    nftName: "Horizontal",
+    nftName: "Orange Crab-face",
     description: "Other repair of kidney",
     dateClaimed: 1644730249,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4909,7 +4909,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quosdictapariatur.png?size=40x40&set=set1",
-    nftName: "local area network",
+    nftName: "Orange Crab-face",
     description: "Laparoscopic lysis of perivesical adhesions",
     dateClaimed: 1645794735,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4918,7 +4918,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/fugasitporro.png?size=40x40&set=set1",
-    nftName: "open system",
+    nftName: "Orange Crab-face",
     description: "Mastotomy",
     dateClaimed: 1654414630,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4927,7 +4927,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/enimauteum.png?size=40x40&set=set1",
-    nftName: "challenge",
+    nftName: "Orange Crab-face",
     description: "Biopsy of perirectal tissue",
     dateClaimed: 1654302166,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4936,7 +4936,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etquisex.png?size=40x40&set=set1",
-    nftName: "fault-tolerant",
+    nftName: "Orange Crab-face",
     description: "Other operations on diaphragm",
     dateClaimed: 1652605025,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4946,7 +4946,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/involuptatesplaceat.png?size=40x40&set=set1",
-    nftName: "Switchable",
+    nftName: "Orange Crab-face",
     description: "Debridement of nail, nail bed, or nail fold",
     dateClaimed: 1660653925,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4955,7 +4955,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/namnisinumquam.png?size=40x40&set=set1",
-    nftName: "client-driven",
+    nftName: "Orange Crab-face",
     description: "Application of neck support",
     dateClaimed: 1654271977,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4965,7 +4965,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/omnisquidoloremque.png?size=40x40&set=set1",
-    nftName: "concept",
+    nftName: "Orange Crab-face",
     description: "Other x-ray of the urinary system",
     dateClaimed: 1649238689,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4974,7 +4974,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/seddoloremdolorem.png?size=40x40&set=set1",
-    nftName: "Adaptive",
+    nftName: "Orange Crab-face",
     description: "Nephrotomy",
     dateClaimed: 1641101725,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4984,7 +4984,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/inventorepraesentiumlabore.png?size=40x40&set=set1",
-    nftName: "disintermediate",
+    nftName: "Orange Crab-face",
     description: "Hip bearing surface, ceramic-on-polyethylene",
     dateClaimed: 1661367578,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -4994,7 +4994,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/assumendadignissimosiste.png?size=40x40&set=set1",
-    nftName: "Ameliorated",
+    nftName: "Orange Crab-face",
     description: "Other excision of joint, other specified sites",
     dateClaimed: 1654372902,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5004,7 +5004,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloremqueetvoluptatem.png?size=40x40&set=set1",
-    nftName: "synergy",
+    nftName: "Orange Crab-face",
     description: "Anastomosis to anus",
     dateClaimed: 1636500104,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5014,7 +5014,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/aspernaturnullamagnam.png?size=40x40&set=set1",
-    nftName: "Enhanced",
+    nftName: "Orange Crab-face",
     description: "Subtalar joint arthroereisis",
     dateClaimed: 1650385281,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5024,7 +5024,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/utconsequaturquibusdam.png?size=40x40&set=set1",
-    nftName: "instruction set",
+    nftName: "Orange Crab-face",
     description: "Radical glossectomy",
     dateClaimed: 1662308252,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5034,7 +5034,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quiavoluptatibusculpa.png?size=40x40&set=set1",
-    nftName: "intermediate",
+    nftName: "Orange Crab-face",
     description: "Excision of uvula",
     dateClaimed: 1637366669,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5044,7 +5044,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/natusquiapraesentium.png?size=40x40&set=set1",
-    nftName: "3rd generation",
+    nftName: "Orange Crab-face",
     description: "Tarsometatarsal fusion",
     dateClaimed: 1639894477,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5054,7 +5054,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/etvelitexercitationem.png?size=40x40&set=set1",
-    nftName: "Seamless",
+    nftName: "Orange Crab-face",
     description: "Other repair of cerebral meninges",
     dateClaimed: 1657751542,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5064,7 +5064,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/repellendusrerumvelit.png?size=40x40&set=set1",
-    nftName: "needs-based",
+    nftName: "Orange Crab-face",
     description: "Hypoglossal-facial anastomosis",
     dateClaimed: 1654638499,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5074,7 +5074,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/commodidignissimosquos.png?size=40x40&set=set1",
-    nftName: "Extended",
+    nftName: "Orange Crab-face",
     description:
       "Insertion or replacement of other neurostimulator pulse generator",
     dateClaimed: 1642388472,
@@ -5084,7 +5084,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/animinobiscommodi.png?size=40x40&set=set1",
-    nftName: "workforce",
+    nftName: "Orange Crab-face",
     description: "Delayed suture of flexor tendon of hand",
     dateClaimed: 1639908287,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5093,7 +5093,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/adautrerum.png?size=40x40&set=set1",
-    nftName: "interactive",
+    nftName: "Orange Crab-face",
     description: "Closed [percutaneous] [needle] biopsy of brain",
     dateClaimed: 1653372285,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5103,7 +5103,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/aspernaturdistinctiofacere.png?size=40x40&set=set1",
-    nftName: "circuit",
+    nftName: "Orange Crab-face",
     description: "Replacement of electronic bladder stimulator",
     dateClaimed: 1662905430,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5112,7 +5112,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/veletanimi.png?size=40x40&set=set1",
-    nftName: "radical",
+    nftName: "Orange Crab-face",
     description: "Sphenopalatine ganglionectomy",
     dateClaimed: 1653480025,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5122,7 +5122,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/laudantiummolestiaseligendi.png?size=40x40&set=set1",
-    nftName: "Realigned",
+    nftName: "Orange Crab-face",
     description: "Repair of recurrent dislocation of shoulder",
     dateClaimed: 1662031880,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5131,7 +5131,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utnequeoccaecati.png?size=40x40&set=set1",
-    nftName: "Future-proofed",
+    nftName: "Orange Crab-face",
     description: "Contrast radiogram of orbit",
     dateClaimed: 1651916099,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5140,7 +5140,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/saepedictaiure.png?size=40x40&set=set1",
-    nftName: "Streamlined",
+    nftName: "Orange Crab-face",
     description: "Revision of knee replacement, patellar component",
     dateClaimed: 1646524328,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5149,7 +5149,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/ipsaadquia.png?size=40x40&set=set1",
-    nftName: "De-engineered",
+    nftName: "Orange Crab-face",
     description: "Arteriovenostomy for renal dialysis",
     dateClaimed: 1634461991,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5158,7 +5158,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sedautplaceat.png?size=40x40&set=set1",
-    nftName: "Customer-focused",
+    nftName: "Orange Crab-face",
     description: "Implantation or replacement of mechanical kidney",
     dateClaimed: 1656530730,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5168,7 +5168,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/liberoassumendaaut.png?size=40x40&set=set1",
-    nftName: "reciprocal",
+    nftName: "Orange Crab-face",
     description: "Removal of ligature from vas deferens",
     dateClaimed: 1646599789,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5177,7 +5177,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etutvoluptatem.png?size=40x40&set=set1",
-    nftName: "Compatible",
+    nftName: "Orange Crab-face",
     description: "Excision of cystic duct remnant",
     dateClaimed: 1657811977,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5187,7 +5187,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/adipiscidelenitireiciendis.png?size=40x40&set=set1",
-    nftName: "mission-critical",
+    nftName: "Orange Crab-face",
     description: "Autologous hematopoietic stem cell transplant with purging",
     dateClaimed: 1653418617,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5197,7 +5197,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/sedoccaecatilabore.png?size=40x40&set=set1",
-    nftName: "ability",
+    nftName: "Orange Crab-face",
     description: "Other surgical occlusion of vessels, upper limb vessels",
     dateClaimed: 1643198397,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5207,7 +5207,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/eligendiasperioreslaboriosam.png?size=40x40&set=set1",
-    nftName: "access",
+    nftName: "Orange Crab-face",
     description: "Laparoscopic multiple segmental resection of large intestine",
     dateClaimed: 1662572643,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5217,7 +5217,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/consequunturisteet.png?size=40x40&set=set1",
-    nftName: "Face to face",
+    nftName: "Orange Crab-face",
     description: "Teleradiotherapy using photons",
     dateClaimed: 1654152218,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5227,7 +5227,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/architectoquiincidunt.png?size=40x40&set=set1",
-    nftName: "contextually-based",
+    nftName: "Orange Crab-face",
     description: "Percutaneous aspiration of kidney (pelvis)",
     dateClaimed: 1636456643,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5236,7 +5236,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/oditrepellenduset.png?size=40x40&set=set1",
-    nftName: "Extended",
+    nftName: "Orange Crab-face",
     description: "Other excision of mouth",
     dateClaimed: 1643401453,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5245,7 +5245,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiasperioreseos.png?size=40x40&set=set1",
-    nftName: "migration",
+    nftName: "Orange Crab-face",
     description: "Advancement of tendon",
     dateClaimed: 1647882896,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5255,7 +5255,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/accusamusminusvelit.png?size=40x40&set=set1",
-    nftName: "De-engineered",
+    nftName: "Orange Crab-face",
     description: "Prophylactic vaccination against the common cold",
     dateClaimed: 1655426100,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5264,7 +5264,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/modicumsint.png?size=40x40&set=set1",
-    nftName: "contextually-based",
+    nftName: "Orange Crab-face",
     description: "Other incision of esophagus",
     dateClaimed: 1650184617,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5274,7 +5274,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/temporibusquisfacilis.png?size=40x40&set=set1",
-    nftName: "Optional",
+    nftName: "Orange Crab-face",
     description:
       "Other peripheral nerve or ganglion decompression or lysis of adhesions",
     dateClaimed: 1641332867,
@@ -5284,7 +5284,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etsitid.png?size=40x40&set=set1",
-    nftName: "Mandatory",
+    nftName: "Orange Crab-face",
     description: "Radical subtotal pancreatectomy",
     dateClaimed: 1655785273,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5293,7 +5293,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiautnesciunt.png?size=40x40&set=set1",
-    nftName: "heuristic",
+    nftName: "Orange Crab-face",
     description: "X-ray study of eye",
     dateClaimed: 1646985909,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5303,7 +5303,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/exercitationemquiafuga.png?size=40x40&set=set1",
-    nftName: "actuating",
+    nftName: "Orange Crab-face",
     description: "Closed endoscopic biopsy of lung",
     dateClaimed: 1645080977,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5312,7 +5312,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nonomnisadipisci.png?size=40x40&set=set1",
-    nftName: "tertiary",
+    nftName: "Orange Crab-face",
     description: "Levator muscle operation for urethrovesical suspension",
     dateClaimed: 1655000305,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5322,7 +5322,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/rationequinesciunt.png?size=40x40&set=set1",
-    nftName: "Front-line",
+    nftName: "Orange Crab-face",
     description: "Nephrostomy",
     dateClaimed: 1655356018,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5332,7 +5332,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quiadebitisvoluptatibus.png?size=40x40&set=set1",
-    nftName: "Devolved",
+    nftName: "Orange Crab-face",
     description: "Annuloplasty",
     dateClaimed: 1652269660,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5342,7 +5342,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/molestiaemolestiaenihil.png?size=40x40&set=set1",
-    nftName: "Advanced",
+    nftName: "Orange Crab-face",
     description: "Other excision of joint, ankle",
     dateClaimed: 1640968404,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5352,7 +5352,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/molestiasdelenitivel.png?size=40x40&set=set1",
-    nftName: "Cross-group",
+    nftName: "Orange Crab-face",
     description: "Anoscopy",
     dateClaimed: 1647528032,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5361,7 +5361,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/distinctioquosit.png?size=40x40&set=set1",
-    nftName: "heuristic",
+    nftName: "Orange Crab-face",
     description: "Rectorectostomy",
     dateClaimed: 1658658061,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5371,7 +5371,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/laborumrepudiandaeeligendi.png?size=40x40&set=set1",
-    nftName: "Stand-alone",
+    nftName: "Orange Crab-face",
     description: "Insertion of pseudophakos, not otherwise specified",
     dateClaimed: 1661234067,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5380,7 +5380,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/estesttenetur.png?size=40x40&set=set1",
-    nftName: "installation",
+    nftName: "Orange Crab-face",
     description: "Biopsy of joint structure, hand and finger",
     dateClaimed: 1654452698,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5389,7 +5389,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/expeditanonaut.png?size=40x40&set=set1",
-    nftName: "capability",
+    nftName: "Orange Crab-face",
     description: "Other adjustment of lid position",
     dateClaimed: 1659625556,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5399,7 +5399,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/teneturquodcorrupti.png?size=40x40&set=set1",
-    nftName: "dynamic",
+    nftName: "Orange Crab-face",
     description: "Salpingo-oophorostomy",
     dateClaimed: 1638843721,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5409,7 +5409,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/remofficiisvoluptatem.png?size=40x40&set=set1",
-    nftName: "matrix",
+    nftName: "Orange Crab-face",
     description: "Other incision of skin and subcutaneous tissue",
     dateClaimed: 1656363808,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5419,7 +5419,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/enimpossimusnesciunt.png?size=40x40&set=set1",
-    nftName: "functionalities",
+    nftName: "Orange Crab-face",
     description: "Injection of insulin",
     dateClaimed: 1644866635,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5428,7 +5428,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quosetest.png?size=40x40&set=set1",
-    nftName: "Reverse-engineered",
+    nftName: "Orange Crab-face",
     description: "Administration of poliomyelitis vaccine",
     dateClaimed: 1642328878,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5437,7 +5437,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quasimollitiaqui.png?size=40x40&set=set1",
-    nftName: "secondary",
+    nftName: "Orange Crab-face",
     description: "Other and open bilateral repair of direct inguinal hernia",
     dateClaimed: 1661570111,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5446,7 +5446,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utquisnisi.png?size=40x40&set=set1",
-    nftName: "Universal",
+    nftName: "Orange Crab-face",
     description: "Repair of other vaginoenteric fistula",
     dateClaimed: 1648136602,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5456,7 +5456,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/aspernaturlaboriosamatque.png?size=40x40&set=set1",
-    nftName: "Reduced",
+    nftName: "Orange Crab-face",
     description: "Amputation above knee",
     dateClaimed: 1639844194,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5465,7 +5465,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eosexpeditaiusto.png?size=40x40&set=set1",
-    nftName: "Synergistic",
+    nftName: "Orange Crab-face",
     description: "Control of (postoperative) hemorrhage of prostate",
     dateClaimed: 1638040090,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5474,7 +5474,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/illodistinctionam.png?size=40x40&set=set1",
-    nftName: "Multi-lateral",
+    nftName: "Orange Crab-face",
     description: "Accessory-facial anastomosis",
     dateClaimed: 1662803615,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5483,7 +5483,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/magninonlibero.png?size=40x40&set=set1",
-    nftName: "User-centric",
+    nftName: "Orange Crab-face",
     description: "Destruction of lesion of iris, nonexcisional",
     dateClaimed: 1662259436,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5493,7 +5493,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/earumdistinctiosed.png?size=40x40&set=set1",
-    nftName: "global",
+    nftName: "Orange Crab-face",
     description: "Other evisceration of eyeball",
     dateClaimed: 1655505984,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5503,7 +5503,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/nihilsequiblanditiis.png?size=40x40&set=set1",
-    nftName: "methodical",
+    nftName: "Orange Crab-face",
     description: "Ankle fusion",
     dateClaimed: 1642192236,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5513,7 +5513,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/commodiblanditiisincidunt.png?size=40x40&set=set1",
-    nftName: "Business-focused",
+    nftName: "Orange Crab-face",
     description: "Other percutaneous procedures on biliary tract",
     dateClaimed: 1641777424,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5522,7 +5522,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/deseruntveniamut.png?size=40x40&set=set1",
-    nftName: "Multi-lateral",
+    nftName: "Orange Crab-face",
     description: "Other operations on urethra and periurethral tissue",
     dateClaimed: 1660404588,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5532,7 +5532,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/numquamconsequaturperferendis.png?size=40x40&set=set1",
-    nftName: "Profound",
+    nftName: "Orange Crab-face",
     description: "Cyclocryotherapy",
     dateClaimed: 1643150948,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5542,7 +5542,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quiblanditiisnostrum.png?size=40x40&set=set1",
-    nftName: "Assimilated",
+    nftName: "Orange Crab-face",
     description: "Implantation of tooth",
     dateClaimed: 1652393483,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5551,7 +5551,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/modisolutaimpedit.png?size=40x40&set=set1",
-    nftName: "Managed",
+    nftName: "Orange Crab-face",
     description: "Lower GI series",
     dateClaimed: 1657761743,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5560,7 +5560,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/commodietquis.png?size=40x40&set=set1",
-    nftName: "Organic",
+    nftName: "Orange Crab-face",
     description: "Closed reduction of separated epiphysis, humerus",
     dateClaimed: 1660166125,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5570,7 +5570,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/solutaplaceatanimi.png?size=40x40&set=set1",
-    nftName: "Public-key",
+    nftName: "Orange Crab-face",
     description:
       "Other local excision or destruction of lesion of joint, other specified sites",
     dateClaimed: 1648134573,
@@ -5580,7 +5580,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/aliasquiaad.png?size=40x40&set=set1",
-    nftName: "intangible",
+    nftName: "Orange Crab-face",
     description: "Insertion of indwelling urinary catheter",
     dateClaimed: 1641590046,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5590,7 +5590,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/consequunturvelitvoluptas.png?size=40x40&set=set1",
-    nftName: "local",
+    nftName: "Orange Crab-face",
     description: "Incision of salivary gland or duct",
     dateClaimed: 1650605456,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5599,7 +5599,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quaseosqui.png?size=40x40&set=set1",
-    nftName: "knowledge user",
+    nftName: "Orange Crab-face",
     description: "Rehabilitation, not elsewhere classified",
     dateClaimed: 1657009273,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5609,7 +5609,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/sequiprovidentdoloribus.png?size=40x40&set=set1",
-    nftName: "interface",
+    nftName: "Orange Crab-face",
     description: "Implantation of diaphragmatic pacemaker",
     dateClaimed: 1657969218,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5618,7 +5618,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quasierrorut.png?size=40x40&set=set1",
-    nftName: "human-resource",
+    nftName: "Orange Crab-face",
     description: "Open robotic assisted procedure",
     dateClaimed: 1636401093,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5627,7 +5627,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/ipsamisteeum.png?size=40x40&set=set1",
-    nftName: "Fully-configurable",
+    nftName: "Orange Crab-face",
     description: "Artificial insemination",
     dateClaimed: 1657369578,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5636,7 +5636,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etautemvel.png?size=40x40&set=set1",
-    nftName: "Versatile",
+    nftName: "Orange Crab-face",
     description: "Excision of other bile duct",
     dateClaimed: 1662165119,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5645,7 +5645,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quirepudiandaenon.png?size=40x40&set=set1",
-    nftName: "extranet",
+    nftName: "Orange Crab-face",
     description: "Retropubic prostatectomy",
     dateClaimed: 1655772661,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5655,7 +5655,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/pariaturidsapiente.png?size=40x40&set=set1",
-    nftName: "De-engineered",
+    nftName: "Orange Crab-face",
     description: "Other mid forceps operation",
     dateClaimed: 1650343768,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5665,7 +5665,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/adipiscimolestiaeomnis.png?size=40x40&set=set1",
-    nftName: "Universal",
+    nftName: "Orange Crab-face",
     description:
       "Closed reduction of fracture without internal fixation, tarsals and metatarsals",
     dateClaimed: 1662733312,
@@ -5675,7 +5675,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etquiet.png?size=40x40&set=set1",
-    nftName: "Team-oriented",
+    nftName: "Orange Crab-face",
     description: "Other repair of fallopian tube",
     dateClaimed: 1661961776,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5684,7 +5684,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/officiaaliasomnis.png?size=40x40&set=set1",
-    nftName: "internet solution",
+    nftName: "Orange Crab-face",
     description: "X-ray study of eye",
     dateClaimed: 1658428282,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5693,7 +5693,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/illosolutaiusto.png?size=40x40&set=set1",
-    nftName: "Self-enabling",
+    nftName: "Orange Crab-face",
     description: "Laryngoscopy and other tracheoscopy",
     dateClaimed: 1655758906,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5703,7 +5703,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/evenietquisquamvoluptatem.png?size=40x40&set=set1",
-    nftName: "zero defect",
+    nftName: "Orange Crab-face",
     description: "Injection of destructive agent into spinal canal",
     dateClaimed: 1657502646,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5713,7 +5713,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quisquameumvoluptas.png?size=40x40&set=set1",
-    nftName: "Mandatory",
+    nftName: "Orange Crab-face",
     description: "Retropubic prostatectomy",
     dateClaimed: 1657295002,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5723,7 +5723,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/laboriosamrepellatsit.png?size=40x40&set=set1",
-    nftName: "Team-oriented",
+    nftName: "Orange Crab-face",
     description:
       "Removal of foreign body from posterior segment of eye, not otherwise specified",
     dateClaimed: 1660470679,
@@ -5733,7 +5733,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/aperiamnobissed.png?size=40x40&set=set1",
-    nftName: "upward-trending",
+    nftName: "Orange Crab-face",
     description: "Dilation of cervical canal",
     dateClaimed: 1655626888,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5743,7 +5743,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/maioresdoloremquaerat.png?size=40x40&set=set1",
-    nftName: "protocol",
+    nftName: "Orange Crab-face",
     description: "Replacement of joint of foot and toe",
     dateClaimed: 1661310186,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5753,7 +5753,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/etomnisdignissimos.png?size=40x40&set=set1",
-    nftName: "encompassing",
+    nftName: "Orange Crab-face",
     description: "Internal fixation of bone without fracture reduction, femur",
     dateClaimed: 1662993116,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5763,7 +5763,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/placeatvoluptatibusqui.png?size=40x40&set=set1",
-    nftName: "4th generation",
+    nftName: "Orange Crab-face",
     description: "Revision of enucleation socket with graft",
     dateClaimed: 1654466004,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5772,7 +5772,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/minuseosullam.png?size=40x40&set=set1",
-    nftName: "explicit",
+    nftName: "Orange Crab-face",
     description: "Intracranial oxygen monitoring",
     dateClaimed: 1652467375,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5781,7 +5781,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiexdicta.png?size=40x40&set=set1",
-    nftName: "Multi-layered",
+    nftName: "Orange Crab-face",
     description: "Removal of dental prosthesis",
     dateClaimed: 1662507614,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5790,7 +5790,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/idmoditempora.png?size=40x40&set=set1",
-    nftName: "Organic",
+    nftName: "Orange Crab-face",
     description: "Impedance phlebography",
     dateClaimed: 1660307591,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5800,7 +5800,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloribuslaboremaxime.png?size=40x40&set=set1",
-    nftName: "hardware",
+    nftName: "Orange Crab-face",
     description: "Closure of nasal sinus fistula",
     dateClaimed: 1648629946,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5810,7 +5810,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloremestnesciunt.png?size=40x40&set=set1",
-    nftName: "Reverse-engineered",
+    nftName: "Orange Crab-face",
     description: "Other diagnostic procedures on eyelid",
     dateClaimed: 1662813365,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5819,7 +5819,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utsitincidunt.png?size=40x40&set=set1",
-    nftName: "user-facing",
+    nftName: "Orange Crab-face",
     description: "Local perfusion of kidney",
     dateClaimed: 1651539109,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5828,7 +5828,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eumrecusandaecum.png?size=40x40&set=set1",
-    nftName: "dynamic",
+    nftName: "Orange Crab-face",
     description: "Interposition operation",
     dateClaimed: 1659951694,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5838,7 +5838,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/utdelectusincidunt.png?size=40x40&set=set1",
-    nftName: "moderator",
+    nftName: "Orange Crab-face",
     description: "Resection of vessel with replacement, thoracic vessels",
     dateClaimed: 1645089988,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5847,7 +5847,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/fugaaliassuscipit.png?size=40x40&set=set1",
-    nftName: "Monitored",
+    nftName: "Orange Crab-face",
     description: "Enlargement of existing atrial septal defect",
     dateClaimed: 1639357224,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5857,7 +5857,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/rationebeataeconsequatur.png?size=40x40&set=set1",
-    nftName: "contextually-based",
+    nftName: "Orange Crab-face",
     description: "Insertion of aqueous drainage device",
     dateClaimed: 1650741623,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5866,7 +5866,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/consequuntureteum.png?size=40x40&set=set1",
-    nftName: "Managed",
+    nftName: "Orange Crab-face",
     description:
       "Laparoscopic repair of indirect inguinal hernia with graft or prosthesis",
     dateClaimed: 1661723490,
@@ -5876,7 +5876,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eaetenim.png?size=40x40&set=set1",
-    nftName: "Up-sized",
+    nftName: "Orange Crab-face",
     description: "Creation of septal defect in heart",
     dateClaimed: 1665055702,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5886,7 +5886,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/sitnequeasperiores.png?size=40x40&set=set1",
-    nftName: "user-facing",
+    nftName: "Orange Crab-face",
     description: "Other repair or plastic operations on bone, femur",
     dateClaimed: 1640782473,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5896,7 +5896,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/ullamrerumvoluptates.png?size=40x40&set=set1",
-    nftName: "application",
+    nftName: "Orange Crab-face",
     description: "Arthroscopy, ankle",
     dateClaimed: 1662989622,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5905,7 +5905,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/explicaboquianemo.png?size=40x40&set=set1",
-    nftName: "systemic",
+    nftName: "Orange Crab-face",
     description: "Application of external fixator device, radius and ulna",
     dateClaimed: 1641011881,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5915,7 +5915,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/haruminventorecommodi.png?size=40x40&set=set1",
-    nftName: "value-added",
+    nftName: "Orange Crab-face",
     description: "Wedge osteotomy, tarsals and metatarsals",
     dateClaimed: 1662436741,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5924,7 +5924,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nullasunteos.png?size=40x40&set=set1",
-    nftName: "context-sensitive",
+    nftName: "Orange Crab-face",
     description:
       "Closed reduction of fracture without internal fixation, femur",
     dateClaimed: 1644711550,
@@ -5935,7 +5935,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/sapienteconsequaturdeleniti.png?size=40x40&set=set1",
-    nftName: "hierarchy",
+    nftName: "Orange Crab-face",
     description: "Excision or destruction of lesion of vagina",
     dateClaimed: 1661964956,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5944,7 +5944,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/inventoreipsaquia.png?size=40x40&set=set1",
-    nftName: "24/7",
+    nftName: "Orange Crab-face",
     description: "Other high forceps operation",
     dateClaimed: 1651166631,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5953,7 +5953,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/molestiaeetomnis.png?size=40x40&set=set1",
-    nftName: "Operative",
+    nftName: "Orange Crab-face",
     description: "Other operations on Bartholin's gland",
     dateClaimed: 1648318981,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5962,7 +5962,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/iurearchitectohic.png?size=40x40&set=set1",
-    nftName: "frame",
+    nftName: "Orange Crab-face",
     description: "Closed [percutaneous] [needle] biopsy of brain",
     dateClaimed: 1645426543,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5971,7 +5971,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/laborumvitaesaepe.png?size=40x40&set=set1",
-    nftName: "methodology",
+    nftName: "Orange Crab-face",
     description: "Exploratory thoracotomy",
     dateClaimed: 1638782363,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5981,7 +5981,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/nisirepudiandaeitaque.png?size=40x40&set=set1",
-    nftName: "upward-trending",
+    nftName: "Orange Crab-face",
     description: "Rectal massage (for levator spasm)",
     dateClaimed: 1654363527,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -5991,7 +5991,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/eligendisimiliquedolor.png?size=40x40&set=set1",
-    nftName: "focus group",
+    nftName: "Orange Crab-face",
     description: "Percutaneous angioplasty of extracranial vessel(s)",
     dateClaimed: 1643923345,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6001,7 +6001,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/aspernaturautalias.png?size=40x40&set=set1",
-    nftName: "migration",
+    nftName: "Orange Crab-face",
     description: "Ligation of adrenal vessels",
     dateClaimed: 1653737063,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6011,7 +6011,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/repellatfacilisrerum.png?size=40x40&set=set1",
-    nftName: "emulation",
+    nftName: "Orange Crab-face",
     description: "Salpingotomy",
     dateClaimed: 1646212886,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6020,7 +6020,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/maioresestdolor.png?size=40x40&set=set1",
-    nftName: "Progressive",
+    nftName: "Orange Crab-face",
     description: "Biopsy of external ear",
     dateClaimed: 1661665287,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6029,7 +6029,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eiusnonillum.png?size=40x40&set=set1",
-    nftName: "service-desk",
+    nftName: "Orange Crab-face",
     description: "Decompression of trigeminal nerve root",
     dateClaimed: 1634595875,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6039,7 +6039,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloremnostrumaccusantium.png?size=40x40&set=set1",
-    nftName: "synergy",
+    nftName: "Orange Crab-face",
     description: "Endarterectomy, other thoracic vessels",
     dateClaimed: 1662417565,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6048,7 +6048,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eumfugiteum.png?size=40x40&set=set1",
-    nftName: "portal",
+    nftName: "Orange Crab-face",
     description: "Resurfacing hip, partial, acetabulum",
     dateClaimed: 1643231602,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6058,7 +6058,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/aarchitectoreiciendis.png?size=40x40&set=set1",
-    nftName: "task-force",
+    nftName: "Orange Crab-face",
     description: "Open reduction of alveolar fracture",
     dateClaimed: 1646147781,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6068,7 +6068,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/cumquedignissimosvoluptates.png?size=40x40&set=set1",
-    nftName: "24 hour",
+    nftName: "Orange Crab-face",
     description: "Incision and drainage of tonsil and peritonsillar structures",
     dateClaimed: 1651331368,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6077,7 +6077,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quopariaturipsum.png?size=40x40&set=set1",
-    nftName: "dynamic",
+    nftName: "Orange Crab-face",
     description: "Wedge osteotomy, carpals and metacarpals",
     dateClaimed: 1651969642,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6086,7 +6086,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/aspernaturnamet.png?size=40x40&set=set1",
-    nftName: "project",
+    nftName: "Orange Crab-face",
     description: "Open reduction of dislocation of knee",
     dateClaimed: 1637653638,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6095,7 +6095,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quosequinatus.png?size=40x40&set=set1",
-    nftName: "Function-based",
+    nftName: "Orange Crab-face",
     description: "Closure of fistula of large intestine",
     dateClaimed: 1653119016,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6105,7 +6105,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/reiciendisvoluptatibusesse.png?size=40x40&set=set1",
-    nftName: "foreground",
+    nftName: "Orange Crab-face",
     description: "Other diagnostic procedures on facial bones and joints",
     dateClaimed: 1634793540,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6114,7 +6114,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/temporasuntsed.png?size=40x40&set=set1",
-    nftName: "needs-based",
+    nftName: "Orange Crab-face",
     description: "Bone graft, other bones",
     dateClaimed: 1663033375,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6123,7 +6123,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/adipiscisedea.png?size=40x40&set=set1",
-    nftName: "ability",
+    nftName: "Orange Crab-face",
     description: "Other craniotomy",
     dateClaimed: 1653313367,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6132,7 +6132,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sintnumquamfugit.png?size=40x40&set=set1",
-    nftName: "alliance",
+    nftName: "Orange Crab-face",
     description: "Retroperitoneal fistulogram",
     dateClaimed: 1663230489,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6141,7 +6141,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/harumaperiamvero.png?size=40x40&set=set1",
-    nftName: "Operative",
+    nftName: "Orange Crab-face",
     description: "Excision of lesion of thyroid",
     dateClaimed: 1635403768,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6151,7 +6151,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/officiavoluptatumqui.png?size=40x40&set=set1",
-    nftName: "attitude-oriented",
+    nftName: "Orange Crab-face",
     description: "Biopsy of lymphatic structure",
     dateClaimed: 1648536007,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6160,7 +6160,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/dolorabut.png?size=40x40&set=set1",
-    nftName: "synergy",
+    nftName: "Orange Crab-face",
     description: "Administration of neuroprotective agent",
     dateClaimed: 1654137092,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6170,7 +6170,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quiaquisquamsoluta.png?size=40x40&set=set1",
-    nftName: "hardware",
+    nftName: "Orange Crab-face",
     description: "Other dilation and curettage",
     dateClaimed: 1635299061,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6179,7 +6179,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eiusomnisqui.png?size=40x40&set=set1",
-    nftName: "content-based",
+    nftName: "Orange Crab-face",
     description: "Total ostectomy, femur",
     dateClaimed: 1637969367,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6188,7 +6188,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/numquamoptiovelit.png?size=40x40&set=set1",
-    nftName: "matrix",
+    nftName: "Orange Crab-face",
     description: "Lower eyelid rhytidectomy",
     dateClaimed: 1653963106,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6197,7 +6197,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/cumofficiabeatae.png?size=40x40&set=set1",
-    nftName: "Virtual",
+    nftName: "Orange Crab-face",
     description: "Removal of pyelostomy and nephrostomy tube",
     dateClaimed: 1660202121,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6206,7 +6206,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autquasiiste.png?size=40x40&set=set1",
-    nftName: "Team-oriented",
+    nftName: "Orange Crab-face",
     description: "Toe reattachment",
     dateClaimed: 1658474810,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6215,7 +6215,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etvellaudantium.png?size=40x40&set=set1",
-    nftName: "matrix",
+    nftName: "Orange Crab-face",
     description: "Radical glossectomy",
     dateClaimed: 1665327810,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6225,7 +6225,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/inventorequocumque.png?size=40x40&set=set1",
-    nftName: "core",
+    nftName: "Orange Crab-face",
     description: "Operations on fetus to facilitate delivery",
     dateClaimed: 1651930135,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6235,7 +6235,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/repellatdolorducimus.png?size=40x40&set=set1",
-    nftName: "grid-enabled",
+    nftName: "Orange Crab-face",
     description:
       "Intrathoracic esophageal anastomosis with interposition of colon",
     dateClaimed: 1636050923,
@@ -6245,7 +6245,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sitidest.png?size=40x40&set=set1",
-    nftName: "approach",
+    nftName: "Orange Crab-face",
     description: "Total osteoplasty [osteotomy] of maxilla",
     dateClaimed: 1661363440,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6255,7 +6255,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/expeditalaborumminus.png?size=40x40&set=set1",
-    nftName: "Ameliorated",
+    nftName: "Orange Crab-face",
     description: "Tonsillectomy with adenoidectomy",
     dateClaimed: 1663898410,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6265,7 +6265,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/consequaturcumquelibero.png?size=40x40&set=set1",
-    nftName: "database",
+    nftName: "Orange Crab-face",
     description: "Closed percutaneous biopsy of ureter",
     dateClaimed: 1642759938,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6274,7 +6274,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etquasipariatur.png?size=40x40&set=set1",
-    nftName: "project",
+    nftName: "Orange Crab-face",
     description:
       "Application of external fixator device, tarsals and metatarsals",
     dateClaimed: 1635148504,
@@ -6284,7 +6284,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/illumetea.png?size=40x40&set=set1",
-    nftName: "full-range",
+    nftName: "Orange Crab-face",
     description: "Total nasal reconstruction",
     dateClaimed: 1650857254,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6293,7 +6293,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/dolorsedquis.png?size=40x40&set=set1",
-    nftName: "archive",
+    nftName: "Orange Crab-face",
     description: "Other bronchoscopy",
     dateClaimed: 1642556776,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6303,7 +6303,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatesutdolores.png?size=40x40&set=set1",
-    nftName: "hybrid",
+    nftName: "Orange Crab-face",
     description: "Excision or destruction of lesion or tissue of mediastinum",
     dateClaimed: 1640548852,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6313,7 +6313,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/reprehenderitcupiditatecorrupti.png?size=40x40&set=set1",
-    nftName: "intermediate",
+    nftName: "Orange Crab-face",
     description: "Other excision of vessels, intracranial vessels",
     dateClaimed: 1654667144,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6322,7 +6322,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utestsit.png?size=40x40&set=set1",
-    nftName: "strategy",
+    nftName: "Orange Crab-face",
     description:
       "Laparoscopic bilateral repair of direct inguinal hernia with graft or prosthesis",
     dateClaimed: 1644010960,
@@ -6332,7 +6332,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sitaliascorporis.png?size=40x40&set=set1",
-    nftName: "conglomeration",
+    nftName: "Orange Crab-face",
     description: "Replacement of indwelling urinary catheter",
     dateClaimed: 1662225063,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6341,7 +6341,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/totamlaborumquia.png?size=40x40&set=set1",
-    nftName: "Sharable",
+    nftName: "Orange Crab-face",
     description: "Other lobectomy of lung",
     dateClaimed: 1657561995,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6350,7 +6350,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/porroeaquenisi.png?size=40x40&set=set1",
-    nftName: "Cross-group",
+    nftName: "Orange Crab-face",
     description: "Percutaneous cardiopulmonary bypass",
     dateClaimed: 1652677012,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6360,7 +6360,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/expeditaquidemmollitia.png?size=40x40&set=set1",
-    nftName: "Reverse-engineered",
+    nftName: "Orange Crab-face",
     description: "Angiocardiography of venae cavae",
     dateClaimed: 1641818217,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6370,7 +6370,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatumdolorumsint.png?size=40x40&set=set1",
-    nftName: "monitoring",
+    nftName: "Orange Crab-face",
     description: "Osteoclasis, patella",
     dateClaimed: 1646360305,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6380,7 +6380,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/optiovoluptatemlaudantium.png?size=40x40&set=set1",
-    nftName: "global",
+    nftName: "Orange Crab-face",
     description: "Closed [percutaneous] [needle] biopsy of cerebral meninges",
     dateClaimed: 1660731455,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6390,7 +6390,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatemetconsectetur.png?size=40x40&set=set1",
-    nftName: "Ameliorated",
+    nftName: "Orange Crab-face",
     description: "Excision of bone for graft, humerus",
     dateClaimed: 1663673683,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6400,7 +6400,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/accusamusidmollitia.png?size=40x40&set=set1",
-    nftName: "mobile",
+    nftName: "Orange Crab-face",
     description: "Transplant from cadaver",
     dateClaimed: 1651214836,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6409,7 +6409,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/rerumquiharum.png?size=40x40&set=set1",
-    nftName: "Expanded",
+    nftName: "Orange Crab-face",
     description: "Partial ostectomy of other facial bone",
     dateClaimed: 1636565219,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6419,7 +6419,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quosducimusvoluptatem.png?size=40x40&set=set1",
-    nftName: "Innovative",
+    nftName: "Orange Crab-face",
     description: "Chemical shock therapy",
     dateClaimed: 1644914437,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6428,7 +6428,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etrationeeaque.png?size=40x40&set=set1",
-    nftName: "solution",
+    nftName: "Orange Crab-face",
     description: "Administration of diphtheria toxoid",
     dateClaimed: 1637703380,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6438,7 +6438,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/etmollitiaconsequuntur.png?size=40x40&set=set1",
-    nftName: "Configurable",
+    nftName: "Orange Crab-face",
     description: "Other operations on cranial and peripheral nerves",
     dateClaimed: 1656123037,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6448,7 +6448,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/laudantiumvoluptatemsint.png?size=40x40&set=set1",
-    nftName: "static",
+    nftName: "Orange Crab-face",
     description: "Resection of vessel with replacement, aorta, abdominal",
     dateClaimed: 1644531350,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6458,7 +6458,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/eaqueconsequunturharum.png?size=40x40&set=set1",
-    nftName: "local",
+    nftName: "Orange Crab-face",
     description: "Other change in hand muscle or tendon length",
     dateClaimed: 1647284976,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6467,7 +6467,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/velnonfacilis.png?size=40x40&set=set1",
-    nftName: "intranet",
+    nftName: "Orange Crab-face",
     description: "Fitting of prosthesis of upper arm and shoulder",
     dateClaimed: 1659339281,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6477,7 +6477,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/sapientecommodiipsum.png?size=40x40&set=set1",
-    nftName: "empowering",
+    nftName: "Orange Crab-face",
     description: "Application of external fixator device, radius and ulna",
     dateClaimed: 1652444713,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6487,7 +6487,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/itaqueconsequaturratione.png?size=40x40&set=set1",
-    nftName: "multi-state",
+    nftName: "Orange Crab-face",
     description: "Other specified osteopathic manipulative treatment",
     dateClaimed: 1662303996,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6497,7 +6497,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/autvoluptascupiditate.png?size=40x40&set=set1",
-    nftName: "Persistent",
+    nftName: "Orange Crab-face",
     description:
       "Unilateral repair of inguinal hernia, not otherwise specified",
     dateClaimed: 1660536061,
@@ -6508,7 +6508,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/consequunturvoluptasnostrum.png?size=40x40&set=set1",
-    nftName: "fresh-thinking",
+    nftName: "Orange Crab-face",
     description: "Ventricular shunt to urinary system",
     dateClaimed: 1652338517,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6518,7 +6518,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quidemdoloresneque.png?size=40x40&set=set1",
-    nftName: "Cross-group",
+    nftName: "Orange Crab-face",
     description: "Pyelotomy",
     dateClaimed: 1656546141,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6527,7 +6527,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/idatquearchitecto.png?size=40x40&set=set1",
-    nftName: "context-sensitive",
+    nftName: "Orange Crab-face",
     description:
       "Psychologic mental status determination, not otherwise specified",
     dateClaimed: 1638208755,
@@ -6537,7 +6537,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/estveritatisomnis.png?size=40x40&set=set1",
-    nftName: "incremental",
+    nftName: "Orange Crab-face",
     description: "Skeletal series",
     dateClaimed: 1660493584,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6547,7 +6547,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/placeatexercitationemofficiis.png?size=40x40&set=set1",
-    nftName: "Expanded",
+    nftName: "Orange Crab-face",
     description: "Incision of vessel, lower limb arteries",
     dateClaimed: 1638437908,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6556,7 +6556,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/istedoloret.png?size=40x40&set=set1",
-    nftName: "stable",
+    nftName: "Orange Crab-face",
     description: "Family therapy",
     dateClaimed: 1645059046,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6566,7 +6566,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloremaximesimilique.png?size=40x40&set=set1",
-    nftName: "Realigned",
+    nftName: "Orange Crab-face",
     description: "Microscopic examination of blood, culture",
     dateClaimed: 1636894860,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6576,7 +6576,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/undevoluptatemdolorum.png?size=40x40&set=set1",
-    nftName: "Organized",
+    nftName: "Orange Crab-face",
     description: "Manual reduction of enterostomy prolapse",
     dateClaimed: 1662817095,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6585,7 +6585,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/estsuscipitdicta.png?size=40x40&set=set1",
-    nftName: "Stand-alone",
+    nftName: "Orange Crab-face",
     description: "Creation of peritoneovascular shunt",
     dateClaimed: 1663965501,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6594,7 +6594,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nonadest.png?size=40x40&set=set1",
-    nftName: "collaboration",
+    nftName: "Orange Crab-face",
     description:
       "Other transurethral excision or destruction of lesion or tissue of bladder",
     dateClaimed: 1644585046,
@@ -6604,7 +6604,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quodeoset.png?size=40x40&set=set1",
-    nftName: "adapter",
+    nftName: "Orange Crab-face",
     description: "Trephination of sclera with iridectomy",
     dateClaimed: 1640619899,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6614,7 +6614,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/impeditisteassumenda.png?size=40x40&set=set1",
-    nftName: "reciprocal",
+    nftName: "Orange Crab-face",
     description:
       "Arthrotomy for removal of prosthesis without replacement, ankle",
     dateClaimed: 1647159397,
@@ -6624,7 +6624,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/adoloressint.png?size=40x40&set=set1",
-    nftName: "toolset",
+    nftName: "Orange Crab-face",
     description:
       "Removal of intraocular foreign body from anterior segment of eye with use of magnet",
     dateClaimed: 1662016594,
@@ -6634,7 +6634,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nonminusdeleniti.png?size=40x40&set=set1",
-    nftName: "Multi-channelled",
+    nftName: "Orange Crab-face",
     description: "Bone thermography",
     dateClaimed: 1642090533,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6644,7 +6644,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/earumperferendisdebitis.png?size=40x40&set=set1",
-    nftName: "regional",
+    nftName: "Orange Crab-face",
     description: "Excision of deep cervical lymph node",
     dateClaimed: 1657919959,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6653,7 +6653,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sitassumendaomnis.png?size=40x40&set=set1",
-    nftName: "Sharable",
+    nftName: "Orange Crab-face",
     description: "Other operations on ovary",
     dateClaimed: 1634570334,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6662,7 +6662,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autquidolores.png?size=40x40&set=set1",
-    nftName: "exuding",
+    nftName: "Orange Crab-face",
     description:
       "Injection of locally acting therapeutic substance into other soft tissue",
     dateClaimed: 1665822141,
@@ -6672,7 +6672,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utadquia.png?size=40x40&set=set1",
-    nftName: "model",
+    nftName: "Orange Crab-face",
     description:
       "Arthrotomy for removal of prosthesis without replacement, wrist",
     dateClaimed: 1640886412,
@@ -6683,7 +6683,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/ducimusfacilisalias.png?size=40x40&set=set1",
-    nftName: "website",
+    nftName: "Orange Crab-face",
     description: "Rehabilitation, not elsewhere classified",
     dateClaimed: 1646300205,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6693,7 +6693,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatemdoloremnumquam.png?size=40x40&set=set1",
-    nftName: "Virtual",
+    nftName: "Orange Crab-face",
     description: "Excision of lesion of adrenal gland",
     dateClaimed: 1645661792,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6702,7 +6702,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eosiustoquas.png?size=40x40&set=set1",
-    nftName: "algorithm",
+    nftName: "Orange Crab-face",
     description: "Endoscopic dilation of ampulla and biliary duct",
     dateClaimed: 1649880693,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6711,7 +6711,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/mollitiaautfuga.png?size=40x40&set=set1",
-    nftName: "clear-thinking",
+    nftName: "Orange Crab-face",
     description: "Repair of scleral fistula",
     dateClaimed: 1661527995,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6721,7 +6721,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/utdoloremlaboriosam.png?size=40x40&set=set1",
-    nftName: "client-server",
+    nftName: "Orange Crab-face",
     description: "Replacement of gastrostomy tube",
     dateClaimed: 1643580903,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6730,7 +6730,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/remodioquos.png?size=40x40&set=set1",
-    nftName: "uniform",
+    nftName: "Orange Crab-face",
     description:
       "Intrathoracic esophageal anastomosis with other interposition",
     dateClaimed: 1664073798,
@@ -6741,7 +6741,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/nullaoptiomolestiae.png?size=40x40&set=set1",
-    nftName: "website",
+    nftName: "Orange Crab-face",
     description:
       "Removal of penetrating foreign body from eye, not otherwise specified",
     dateClaimed: 1641804132,
@@ -6752,7 +6752,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/omnisdoloremdolores.png?size=40x40&set=set1",
-    nftName: "national",
+    nftName: "Orange Crab-face",
     description: "Contrast myelogram",
     dateClaimed: 1642269281,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6761,7 +6761,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utdolorerror.png?size=40x40&set=set1",
-    nftName: "approach",
+    nftName: "Orange Crab-face",
     description: "Operations on eustachian tube",
     dateClaimed: 1634767541,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6770,7 +6770,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/voluptatibusestet.png?size=40x40&set=set1",
-    nftName: "Cross-platform",
+    nftName: "Orange Crab-face",
     description: "Speech defect training",
     dateClaimed: 1636551590,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6779,7 +6779,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eumtemporaautem.png?size=40x40&set=set1",
-    nftName: "protocol",
+    nftName: "Orange Crab-face",
     description: "Full-thickness graft to breast",
     dateClaimed: 1652656851,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6789,7 +6789,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/reprehenderitdeseruntut.png?size=40x40&set=set1",
-    nftName: "function",
+    nftName: "Orange Crab-face",
     description: "Ileostomy, not otherwise specified",
     dateClaimed: 1640973533,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6798,7 +6798,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/iureomnisdeleniti.png?size=40x40&set=set1",
-    nftName: "Monitored",
+    nftName: "Orange Crab-face",
     description:
       "Application of external fixator device, scapula, clavicle, and thorax [ribs and sternum]",
     dateClaimed: 1649290280,
@@ -6808,7 +6808,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/illumaipsam.png?size=40x40&set=set1",
-    nftName: "benchmark",
+    nftName: "Orange Crab-face",
     description: "Restoration of tooth by filling",
     dateClaimed: 1657717503,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6817,7 +6817,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/voluptatemnonvel.png?size=40x40&set=set1",
-    nftName: "Face to face",
+    nftName: "Orange Crab-face",
     description:
       "Insertion or replacement of pedicle-based dynamic stabilization device(s)",
     dateClaimed: 1656276025,
@@ -6828,7 +6828,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/ametmolestiaeatque.png?size=40x40&set=set1",
-    nftName: "Self-enabling",
+    nftName: "Orange Crab-face",
     description: "Aspiration of breast",
     dateClaimed: 1640313391,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6838,7 +6838,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/repellendusblanditiisconsequatur.png?size=40x40&set=set1",
-    nftName: "Optional",
+    nftName: "Orange Crab-face",
     description:
       "Insertion of intraocular lens prosthesis at time of cataract extraction, one-stage",
     dateClaimed: 1664412583,
@@ -6848,7 +6848,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sitamettenetur.png?size=40x40&set=set1",
-    nftName: "explicit",
+    nftName: "Orange Crab-face",
     description: "Limb shortening procedures, radius and ulna",
     dateClaimed: 1634551083,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6857,7 +6857,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/omnisminimaut.png?size=40x40&set=set1",
-    nftName: "motivating",
+    nftName: "Orange Crab-face",
     description: "Other operations on vagina",
     dateClaimed: 1638135084,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6866,7 +6866,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/cumnumquamsed.png?size=40x40&set=set1",
-    nftName: "actuating",
+    nftName: "Orange Crab-face",
     description: "Other oophorotomy",
     dateClaimed: 1657813753,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6875,7 +6875,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nonsedeveniet.png?size=40x40&set=set1",
-    nftName: "background",
+    nftName: "Orange Crab-face",
     description: "Other repair of vas deferens and epididymis",
     dateClaimed: 1656164354,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6884,7 +6884,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quasidoloresit.png?size=40x40&set=set1",
-    nftName: "flexibility",
+    nftName: "Orange Crab-face",
     description: "Repair of injury of extraocular muscle",
     dateClaimed: 1652984311,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6894,7 +6894,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/facilisutquibusdam.png?size=40x40&set=set1",
-    nftName: "definition",
+    nftName: "Orange Crab-face",
     description: "Thoracoscopic segmental resection of lung",
     dateClaimed: 1653535821,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6904,7 +6904,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/consequaturbeataesit.png?size=40x40&set=set1",
-    nftName: "collaboration",
+    nftName: "Orange Crab-face",
     description: "Removal of electronic ureteral stimulator",
     dateClaimed: 1641702176,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6913,7 +6913,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/harumhicvoluptas.png?size=40x40&set=set1",
-    nftName: "secondary",
+    nftName: "Orange Crab-face",
     description: "Biopsy of lacrimal gland",
     dateClaimed: 1659442437,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6922,7 +6922,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/vitaeutnulla.png?size=40x40&set=set1",
-    nftName: "discrete",
+    nftName: "Orange Crab-face",
     description: "Amputation above knee",
     dateClaimed: 1640401255,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6932,7 +6932,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/velitomnisconsequuntur.png?size=40x40&set=set1",
-    nftName: "Customer-focused",
+    nftName: "Orange Crab-face",
     description: "Total elbow replacement",
     dateClaimed: 1651299532,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6942,7 +6942,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/molestiasomnisillum.png?size=40x40&set=set1",
-    nftName: "toolset",
+    nftName: "Orange Crab-face",
     description: "Other operations on skin and subcutaneous tissue",
     dateClaimed: 1658341508,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6951,7 +6951,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/magniprovidentqui.png?size=40x40&set=set1",
-    nftName: "24 hour",
+    nftName: "Orange Crab-face",
     description: "Repair of entropion or ectropion by thermocauterization",
     dateClaimed: 1637038097,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6960,7 +6960,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/velitvoluptatemet.png?size=40x40&set=set1",
-    nftName: "Synchronised",
+    nftName: "Orange Crab-face",
     description: "X-ray of gravid uterus",
     dateClaimed: 1653917218,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6970,7 +6970,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quaeratquisquamodit.png?size=40x40&set=set1",
-    nftName: "heuristic",
+    nftName: "Orange Crab-face",
     description: "Intravascular imaging of extracranial cerebral vessels",
     dateClaimed: 1653741550,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6979,7 +6979,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/abvelithic.png?size=40x40&set=set1",
-    nftName: "Versatile",
+    nftName: "Orange Crab-face",
     description: "Other partial dacryoadenectomy",
     dateClaimed: 1655092794,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6988,7 +6988,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/uterrorpariatur.png?size=40x40&set=set1",
-    nftName: "homogeneous",
+    nftName: "Orange Crab-face",
     description: "Wedge osteotomy, femur",
     dateClaimed: 1664720131,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -6997,7 +6997,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/reiciendisoditvel.png?size=40x40&set=set1",
-    nftName: "Down-sized",
+    nftName: "Orange Crab-face",
     description: "Repair of vertebral fracture",
     dateClaimed: 1640272438,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7006,7 +7006,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/fugiteatotam.png?size=40x40&set=set1",
-    nftName: "foreground",
+    nftName: "Orange Crab-face",
     description: "Referral for psychotherapy",
     dateClaimed: 1658275374,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7016,7 +7016,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/laboriosamharumcommodi.png?size=40x40&set=set1",
-    nftName: "process improvement",
+    nftName: "Orange Crab-face",
     description: "Other plastic operations on hand",
     dateClaimed: 1634616886,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7026,7 +7026,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/dictaquivoluptatem.png?size=40x40&set=set1",
-    nftName: "radical",
+    nftName: "Orange Crab-face",
     description: "Revision of extraocular muscle surgery",
     dateClaimed: 1644432237,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7035,7 +7035,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quosexplicabovero.png?size=40x40&set=set1",
-    nftName: "Organized",
+    nftName: "Orange Crab-face",
     description: "Coreoplasty",
     dateClaimed: 1641267604,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7044,7 +7044,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nemoquoatque.png?size=40x40&set=set1",
-    nftName: "neural-net",
+    nftName: "Orange Crab-face",
     description: "Other and unspecified robotic assisted procedure",
     dateClaimed: 1660250305,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7054,7 +7054,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quaeratinaccusantium.png?size=40x40&set=set1",
-    nftName: "full-range",
+    nftName: "Orange Crab-face",
     description: "Other open umbilical herniorrhaphy",
     dateClaimed: 1655125340,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7063,7 +7063,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/hicquiomnis.png?size=40x40&set=set1",
-    nftName: "Expanded",
+    nftName: "Orange Crab-face",
     description: "Other diagnostic procedures on breast",
     dateClaimed: 1665596917,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7072,7 +7072,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/adoditrerum.png?size=40x40&set=set1",
-    nftName: "synergy",
+    nftName: "Orange Crab-face",
     description: "Formation of other cutaneous ureterostomy",
     dateClaimed: 1638304869,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7082,7 +7082,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/officiamagnamofficiis.png?size=40x40&set=set1",
-    nftName: "Multi-channelled",
+    nftName: "Orange Crab-face",
     description: "Radical neck dissection, unilateral",
     dateClaimed: 1635440229,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7092,7 +7092,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/explicaboaperiamipsa.png?size=40x40&set=set1",
-    nftName: "contingency",
+    nftName: "Orange Crab-face",
     description: "Other computer assisted surgery",
     dateClaimed: 1643802633,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7101,7 +7101,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/velitvelitipsa.png?size=40x40&set=set1",
-    nftName: "radical",
+    nftName: "Orange Crab-face",
     description:
       "Removal of lesion of anterior segment of eye, not otherwise specified",
     dateClaimed: 1634911441,
@@ -7112,7 +7112,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/autidreprehenderit.png?size=40x40&set=set1",
-    nftName: "4th generation",
+    nftName: "Orange Crab-face",
     description: "Allotransplantation of cells of Islets of Langerhans",
     dateClaimed: 1652145080,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7122,7 +7122,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/nequetemporibusasperiores.png?size=40x40&set=set1",
-    nftName: "parallelism",
+    nftName: "Orange Crab-face",
     description: "Other operations on larynx",
     dateClaimed: 1646253042,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7132,7 +7132,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatumnihildeleniti.png?size=40x40&set=set1",
-    nftName: "Assimilated",
+    nftName: "Orange Crab-face",
     description: "Repair of hip, not elsewhere classified",
     dateClaimed: 1649234112,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7141,7 +7141,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nonidratione.png?size=40x40&set=set1",
-    nftName: "Programmable",
+    nftName: "Orange Crab-face",
     description: "Repair of entropion or ectropion by suture technique",
     dateClaimed: 1652908821,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7150,7 +7150,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quimolestiaeet.png?size=40x40&set=set1",
-    nftName: "neural-net",
+    nftName: "Orange Crab-face",
     description: "Other surgical occlusion of vessels, upper limb vessels",
     dateClaimed: 1637590307,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7160,7 +7160,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/consequaturullamet.png?size=40x40&set=set1",
-    nftName: "website",
+    nftName: "Orange Crab-face",
     description: "Other excision or destruction of lesion or tissue of pharynx",
     dateClaimed: 1665301812,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7169,7 +7169,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/namtemporeomnis.png?size=40x40&set=set1",
-    nftName: "software",
+    nftName: "Orange Crab-face",
     description: "Range of motion testing",
     dateClaimed: 1655668162,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7179,7 +7179,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptasharumbeatae.png?size=40x40&set=set1",
-    nftName: "throughput",
+    nftName: "Orange Crab-face",
     description: "Other control of atmospheric pressure and composition",
     dateClaimed: 1638017355,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7188,7 +7188,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiiustonihil.png?size=40x40&set=set1",
-    nftName: "protocol",
+    nftName: "Orange Crab-face",
     description:
       "Unilateral repair of inguinal hernia, not otherwise specified",
     dateClaimed: 1642493148,
@@ -7198,7 +7198,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/solutasediste.png?size=40x40&set=set1",
-    nftName: "4th generation",
+    nftName: "Orange Crab-face",
     description: "Other partial ostectomy, femur",
     dateClaimed: 1637156574,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7208,7 +7208,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/corruptiexplicaboodio.png?size=40x40&set=set1",
-    nftName: "uniform",
+    nftName: "Orange Crab-face",
     description: "Replacement of prolapsed umbilical cord",
     dateClaimed: 1643083266,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7217,7 +7217,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nequecumeum.png?size=40x40&set=set1",
-    nftName: "Extended",
+    nftName: "Orange Crab-face",
     description:
       "Endovascular embolization or occlusion of vessel(s) of head or neck using bare coils",
     dateClaimed: 1660577445,
@@ -7228,7 +7228,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/officiisdelenitibeatae.png?size=40x40&set=set1",
-    nftName: "Optimized",
+    nftName: "Orange Crab-face",
     description: "Injection or infusion of nesiritide",
     dateClaimed: 1653476042,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7238,7 +7238,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/etdelenitipariatur.png?size=40x40&set=set1",
-    nftName: "moratorium",
+    nftName: "Orange Crab-face",
     description: "Vaccination against rubella",
     dateClaimed: 1657253317,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7247,7 +7247,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiaeumeum.png?size=40x40&set=set1",
-    nftName: "Multi-channelled",
+    nftName: "Orange Crab-face",
     description: "Other physical therapy",
     dateClaimed: 1663448622,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7257,7 +7257,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/consequaturadvitae.png?size=40x40&set=set1",
-    nftName: "Managed",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from nervous system and of spinal fluid, culture and sensitivity",
     dateClaimed: 1638948268,
@@ -7267,7 +7267,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/atculpaut.png?size=40x40&set=set1",
-    nftName: "Sharable",
+    nftName: "Orange Crab-face",
     description: "Resection of vessel with replacement, abdominal arteries",
     dateClaimed: 1663783214,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7276,7 +7276,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autvoluptasea.png?size=40x40&set=set1",
-    nftName: "Vision-oriented",
+    nftName: "Orange Crab-face",
     description: "Thermography of other sites",
     dateClaimed: 1652113059,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7286,7 +7286,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/consectetursaepedoloribus.png?size=40x40&set=set1",
-    nftName: "asymmetric",
+    nftName: "Orange Crab-face",
     description: "Lysis of other anterior synechiae",
     dateClaimed: 1646960093,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7296,7 +7296,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/autemeaquedoloribus.png?size=40x40&set=set1",
-    nftName: "protocol",
+    nftName: "Orange Crab-face",
     description: "Injection of vitreous substitute",
     dateClaimed: 1648075724,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7305,7 +7305,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quaecumquetotam.png?size=40x40&set=set1",
-    nftName: "data-warehouse",
+    nftName: "Orange Crab-face",
     description: "Ligation of adrenal vessels",
     dateClaimed: 1646041095,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7314,7 +7314,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etquaeitaque.png?size=40x40&set=set1",
-    nftName: "process improvement",
+    nftName: "Orange Crab-face",
     description: "Central venous catheter placement with guidance",
     dateClaimed: 1644696460,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7324,7 +7324,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/suscipitquasieveniet.png?size=40x40&set=set1",
-    nftName: "intangible",
+    nftName: "Orange Crab-face",
     description: "Other operations on skull, brain, and cerebral meninges",
     dateClaimed: 1657472838,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7334,7 +7334,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatemrepudiandaemolestias.png?size=40x40&set=set1",
-    nftName: "Ameliorated",
+    nftName: "Orange Crab-face",
     description: "Local excision of other lesion or tissue of esophagus",
     dateClaimed: 1662305058,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7344,7 +7344,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/facereofficiisnumquam.png?size=40x40&set=set1",
-    nftName: "empowering",
+    nftName: "Orange Crab-face",
     description: "Insertion of total spinal disc prosthesis, lumbosacral",
     dateClaimed: 1654637625,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7354,7 +7354,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/similiquesuscipitdeserunt.png?size=40x40&set=set1",
-    nftName: "Adaptive",
+    nftName: "Orange Crab-face",
     description: "Other obstetric operations",
     dateClaimed: 1644621988,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7364,7 +7364,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloremquequisquamperspiciatis.png?size=40x40&set=set1",
-    nftName: "approach",
+    nftName: "Orange Crab-face",
     description: "Other diagnostic procedures on tongue",
     dateClaimed: 1664054417,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7374,7 +7374,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/essequiaaccusantium.png?size=40x40&set=set1",
-    nftName: "paradigm",
+    nftName: "Orange Crab-face",
     description: "Total osteoplasty [osteotomy] of maxilla",
     dateClaimed: 1660562090,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7383,7 +7383,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/adipisciquiquae.png?size=40x40&set=set1",
-    nftName: "human-resource",
+    nftName: "Orange Crab-face",
     description: "Suture of laceration of palate",
     dateClaimed: 1659643989,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7393,7 +7393,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quiblanditiisconsectetur.png?size=40x40&set=set1",
-    nftName: "Proactive",
+    nftName: "Orange Crab-face",
     description: "Radical neck dissection, unilateral",
     dateClaimed: 1647291097,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7402,7 +7402,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/deseruntvelitqui.png?size=40x40&set=set1",
-    nftName: "exuding",
+    nftName: "Orange Crab-face",
     description: "Manual and mechanical traction",
     dateClaimed: 1637674733,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7411,7 +7411,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/fugitaperiamest.png?size=40x40&set=set1",
-    nftName: "disintermediate",
+    nftName: "Orange Crab-face",
     description: "Sequestrectomy, patella",
     dateClaimed: 1649613693,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7420,7 +7420,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/velullamet.png?size=40x40&set=set1",
-    nftName: "productivity",
+    nftName: "Orange Crab-face",
     description: "Other excision of soft tissue of hand",
     dateClaimed: 1648220028,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7429,7 +7429,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/dolorquisquia.png?size=40x40&set=set1",
-    nftName: "Reactive",
+    nftName: "Orange Crab-face",
     description: "Other removal or destruction of corneal lesion",
     dateClaimed: 1639049158,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7439,7 +7439,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/perspiciatisliberoipsa.png?size=40x40&set=set1",
-    nftName: "Future-proofed",
+    nftName: "Orange Crab-face",
     description: "Total wrist replacement",
     dateClaimed: 1664774059,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7449,7 +7449,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/etexercitationemoptio.png?size=40x40&set=set1",
-    nftName: "high-level",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from liver, biliary tract, and pancreas, bacterial smear",
     dateClaimed: 1662335473,
@@ -7459,7 +7459,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/estmagnamvel.png?size=40x40&set=set1",
-    nftName: "stable",
+    nftName: "Orange Crab-face",
     description: "Other x-ray of lumbosacral spine",
     dateClaimed: 1662488940,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7469,7 +7469,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/aspernaturvoluptatemin.png?size=40x40&set=set1",
-    nftName: "zero tolerance",
+    nftName: "Orange Crab-face",
     description: "Recreation therapy",
     dateClaimed: 1661868609,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7478,7 +7478,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nihilautipsa.png?size=40x40&set=set1",
-    nftName: "tertiary",
+    nftName: "Orange Crab-face",
     description: "Control of (postoperative) hemorrhage of bladder",
     dateClaimed: 1638332788,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7488,7 +7488,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptateipsumtenetur.png?size=40x40&set=set1",
-    nftName: "mission-critical",
+    nftName: "Orange Crab-face",
     description: "Other rhinoplasty",
     dateClaimed: 1654248133,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7497,7 +7497,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autemutquia.png?size=40x40&set=set1",
-    nftName: "alliance",
+    nftName: "Orange Crab-face",
     description: "Other tendon transposition",
     dateClaimed: 1648953499,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7506,7 +7506,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quinostrumsint.png?size=40x40&set=set1",
-    nftName: "collaboration",
+    nftName: "Orange Crab-face",
     description: "Manual reduction of rectal prolapse",
     dateClaimed: 1635651281,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7516,7 +7516,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatemaspernaturipsam.png?size=40x40&set=set1",
-    nftName: "algorithm",
+    nftName: "Orange Crab-face",
     description: "Wedge osteotomy, other bones",
     dateClaimed: 1648244766,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7526,7 +7526,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/nesciuntquaeofficiis.png?size=40x40&set=set1",
-    nftName: "help-desk",
+    nftName: "Orange Crab-face",
     description: "Mediastinal tracheostomy",
     dateClaimed: 1649966492,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7535,7 +7535,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/suntexplicaboquia.png?size=40x40&set=set1",
-    nftName: "Ameliorated",
+    nftName: "Orange Crab-face",
     description: "Biopsy of joint structure, other specified sites",
     dateClaimed: 1649420546,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7545,7 +7545,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/nihiltemporibusullam.png?size=40x40&set=set1",
-    nftName: "zero defect",
+    nftName: "Orange Crab-face",
     description:
       "Diagnostic procedures on bone, not elsewhere classified, tarsals and metatarsals",
     dateClaimed: 1657777638,
@@ -7555,7 +7555,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/rerumminusratione.png?size=40x40&set=set1",
-    nftName: "well-modulated",
+    nftName: "Orange Crab-face",
     description: "Repair of esophageal stricture",
     dateClaimed: 1652009185,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7565,7 +7565,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/nequerepellatconsequuntur.png?size=40x40&set=set1",
-    nftName: "Adaptive",
+    nftName: "Orange Crab-face",
     description: "Implantation of electromagnetic hearing device",
     dateClaimed: 1637482970,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7574,7 +7574,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiaitaqueveniam.png?size=40x40&set=set1",
-    nftName: "structure",
+    nftName: "Orange Crab-face",
     description: "Other operations on skin and subcutaneous tissue",
     dateClaimed: 1657142431,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7583,7 +7583,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/placeatquosomnis.png?size=40x40&set=set1",
-    nftName: "array",
+    nftName: "Orange Crab-face",
     description: "Single source photon radiosurgery",
     dateClaimed: 1642283668,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7593,7 +7593,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/autemvoluptatummagnam.png?size=40x40&set=set1",
-    nftName: "Digitized",
+    nftName: "Orange Crab-face",
     description: "Tonometry",
     dateClaimed: 1651082949,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7603,7 +7603,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/eosconsequaturerror.png?size=40x40&set=set1",
-    nftName: "system engine",
+    nftName: "Orange Crab-face",
     description: "Orchiopexy",
     dateClaimed: 1650812681,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7612,7 +7612,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sitquisofficiis.png?size=40x40&set=set1",
-    nftName: "Fundamental",
+    nftName: "Orange Crab-face",
     description: "Vaccination against pertussis",
     dateClaimed: 1659151749,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7622,7 +7622,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/fugitinciduntdistinctio.png?size=40x40&set=set1",
-    nftName: "standardization",
+    nftName: "Orange Crab-face",
     description: "Repair of wound of orbit",
     dateClaimed: 1662434481,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7631,7 +7631,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/hicnihilmolestiae.png?size=40x40&set=set1",
-    nftName: "help-desk",
+    nftName: "Orange Crab-face",
     description:
       "Initial insertion of transvenous lead [electrode] into ventricle",
     dateClaimed: 1649178230,
@@ -7642,7 +7642,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatibustenetureius.png?size=40x40&set=set1",
-    nftName: "systematic",
+    nftName: "Orange Crab-face",
     description:
       "Total correction of transposition of great vessels, not elsewhere classified",
     dateClaimed: 1644083057,
@@ -7652,7 +7652,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/mollitiaquamrerum.png?size=40x40&set=set1",
-    nftName: "groupware",
+    nftName: "Orange Crab-face",
     description: "Biopsy of diaphragm",
     dateClaimed: 1652100696,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7661,7 +7661,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/voluptatemquiaid.png?size=40x40&set=set1",
-    nftName: "Upgradable",
+    nftName: "Orange Crab-face",
     description: "Repair of colovaginal fistula",
     dateClaimed: 1647801632,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7670,7 +7670,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/estofficiaautem.png?size=40x40&set=set1",
-    nftName: "project",
+    nftName: "Orange Crab-face",
     description: "Full-thickness skin graft to other sites",
     dateClaimed: 1654331497,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7680,7 +7680,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/fugiatsapienteeligendi.png?size=40x40&set=set1",
-    nftName: "Persevering",
+    nftName: "Orange Crab-face",
     description: "Free skin graft, not otherwise specified",
     dateClaimed: 1656162087,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7690,7 +7690,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/itaqueoccaecatieius.png?size=40x40&set=set1",
-    nftName: "mission-critical",
+    nftName: "Orange Crab-face",
     description: "Breathing exercise",
     dateClaimed: 1641958693,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7699,7 +7699,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/natusvelitfugiat.png?size=40x40&set=set1",
-    nftName: "hybrid",
+    nftName: "Orange Crab-face",
     description: "Manual testing of muscle function",
     dateClaimed: 1658178515,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7708,7 +7708,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sintveniamet.png?size=40x40&set=set1",
-    nftName: "interactive",
+    nftName: "Orange Crab-face",
     description: "Division of sympathetic nerve or ganglion",
     dateClaimed: 1639348142,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7717,7 +7717,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quosillummollitia.png?size=40x40&set=set1",
-    nftName: "Inverse",
+    nftName: "Orange Crab-face",
     description: "Magnetic resonance imaging of brain and brain stem",
     dateClaimed: 1646616654,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7726,7 +7726,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/velidtenetur.png?size=40x40&set=set1",
-    nftName: "stable",
+    nftName: "Orange Crab-face",
     description: "Retrograde cystourethrogram",
     dateClaimed: 1647310644,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7736,7 +7736,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloresmolestiaemaxime.png?size=40x40&set=set1",
-    nftName: "5th generation",
+    nftName: "Orange Crab-face",
     description:
       "Removal of surgically implanted material from posterior segment of eye",
     dateClaimed: 1654976055,
@@ -7747,7 +7747,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/etdelenitireiciendis.png?size=40x40&set=set1",
-    nftName: "Graphic Interface",
+    nftName: "Orange Crab-face",
     description: "Transapical replacement of aortic valve",
     dateClaimed: 1634608115,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7756,7 +7756,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quisinut.png?size=40x40&set=set1",
-    nftName: "content-based",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from lymph node and of lymph, parasitology",
     dateClaimed: 1650755743,
@@ -7766,7 +7766,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/idimpeditsaepe.png?size=40x40&set=set1",
-    nftName: "collaboration",
+    nftName: "Orange Crab-face",
     description: "Other repair of vagina",
     dateClaimed: 1646824321,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7776,7 +7776,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/cupiditatemagnamearum.png?size=40x40&set=set1",
-    nftName: "tertiary",
+    nftName: "Orange Crab-face",
     description: "Endoscopic insertion of colonic stent(s)",
     dateClaimed: 1652203576,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7785,7 +7785,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/suntdoloremquesed.png?size=40x40&set=set1",
-    nftName: "Diverse",
+    nftName: "Orange Crab-face",
     description: "Local excision or destruction of lesion or tissue of trachea",
     dateClaimed: 1660020891,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7794,7 +7794,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiapraesentiumet.png?size=40x40&set=set1",
-    nftName: "orchestration",
+    nftName: "Orange Crab-face",
     description: "Open biopsy of esophagus",
     dateClaimed: 1638819836,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7803,7 +7803,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sintnoneveniet.png?size=40x40&set=set1",
-    nftName: "real-time",
+    nftName: "Orange Crab-face",
     description: "Suture of laceration of urethra",
     dateClaimed: 1635956200,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7812,7 +7812,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/estveniamearum.png?size=40x40&set=set1",
-    nftName: "dynamic",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from nervous system and of spinal fluid, culture and sensitivity",
     dateClaimed: 1660452671,
@@ -7822,7 +7822,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/doloresetdeserunt.png?size=40x40&set=set1",
-    nftName: "Right-sized",
+    nftName: "Orange Crab-face",
     description: "Vaginoscopy",
     dateClaimed: 1649351647,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7831,7 +7831,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/odiocumqueeveniet.png?size=40x40&set=set1",
-    nftName: "Intuitive",
+    nftName: "Orange Crab-face",
     description: "Laparoscopic reimplantation of ovary",
     dateClaimed: 1647725991,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7840,7 +7840,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/omnisullamquaerat.png?size=40x40&set=set1",
-    nftName: "fault-tolerant",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from female genital tract, bacterial smear",
     dateClaimed: 1644521847,
@@ -7850,7 +7850,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/uteumdolorum.png?size=40x40&set=set1",
-    nftName: "capacity",
+    nftName: "Orange Crab-face",
     description: "Orthoptic training",
     dateClaimed: 1635308086,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7860,7 +7860,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatemexcepturiest.png?size=40x40&set=set1",
-    nftName: "flexibility",
+    nftName: "Orange Crab-face",
     description: "Suture of laceration of diaphragm",
     dateClaimed: 1649914364,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7869,7 +7869,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/temporanihilquos.png?size=40x40&set=set1",
-    nftName: "Monitored",
+    nftName: "Orange Crab-face",
     description: "Other revision of enucleation socket",
     dateClaimed: 1635094523,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7879,7 +7879,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/cupiditatefugiatquam.png?size=40x40&set=set1",
-    nftName: "firmware",
+    nftName: "Orange Crab-face",
     description: "Reimplantation of pancreatic tissue",
     dateClaimed: 1646076950,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7888,7 +7888,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiaetest.png?size=40x40&set=set1",
-    nftName: "help-desk",
+    nftName: "Orange Crab-face",
     description: "Therapeutic ultrasound of vessels of head and neck",
     dateClaimed: 1661418721,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7898,7 +7898,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quaedistinctioconsequatur.png?size=40x40&set=set1",
-    nftName: "Ameliorated",
+    nftName: "Orange Crab-face",
     description: "Intravascular spectroscopy",
     dateClaimed: 1663038551,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7908,7 +7908,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/possimusconsecteturomnis.png?size=40x40&set=set1",
-    nftName: "zero tolerance",
+    nftName: "Orange Crab-face",
     description: "Insertion of interbody spinal fusion device",
     dateClaimed: 1634900224,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7917,7 +7917,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/numquamfugitet.png?size=40x40&set=set1",
-    nftName: "Horizontal",
+    nftName: "Orange Crab-face",
     description: "Open and other partial gastrectomy",
     dateClaimed: 1647961304,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7926,7 +7926,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiquasomnis.png?size=40x40&set=set1",
-    nftName: "Vision-oriented",
+    nftName: "Orange Crab-face",
     description:
       "Open reduction of fracture with internal fixation, tibia and fibula",
     dateClaimed: 1637239679,
@@ -7936,7 +7936,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utdoloroccaecati.png?size=40x40&set=set1",
-    nftName: "Cloned",
+    nftName: "Orange Crab-face",
     description: "Biopsy of thymus",
     dateClaimed: 1659002087,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7945,7 +7945,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utfacilisvoluptas.png?size=40x40&set=set1",
-    nftName: "Progressive",
+    nftName: "Orange Crab-face",
     description: "Division of glossopharyngeal nerve",
     dateClaimed: 1636157557,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7955,7 +7955,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/nemodebitisrecusandae.png?size=40x40&set=set1",
-    nftName: "Team-oriented",
+    nftName: "Orange Crab-face",
     description: "Insertion of bone growth stimulator, unspecified site",
     dateClaimed: 1646860567,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7965,7 +7965,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/rerumsuntprovident.png?size=40x40&set=set1",
-    nftName: "alliance",
+    nftName: "Orange Crab-face",
     description: "Injection of therapeutic substance into bursa",
     dateClaimed: 1659318475,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7975,7 +7975,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/architectoperferendisqui.png?size=40x40&set=set1",
-    nftName: "secondary",
+    nftName: "Orange Crab-face",
     description: "Resection of vessel with anastomosis, upper limb vessels",
     dateClaimed: 1656636265,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7984,7 +7984,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autsequiexplicabo.png?size=40x40&set=set1",
-    nftName: "disintermediate",
+    nftName: "Orange Crab-face",
     description: "Other repair of laceration of eyelid, partial-thickness",
     dateClaimed: 1647654066,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -7994,7 +7994,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptasreiciendisquia.png?size=40x40&set=set1",
-    nftName: "capability",
+    nftName: "Orange Crab-face",
     description: "Orthotic evaluation",
     dateClaimed: 1640028601,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8003,7 +8003,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/odiorationeenim.png?size=40x40&set=set1",
-    nftName: "reciprocal",
+    nftName: "Orange Crab-face",
     description: "Insufflation of therapeutic agent into fallopian tubes",
     dateClaimed: 1642387007,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8012,7 +8012,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autsaepeodio.png?size=40x40&set=set1",
-    nftName: "Ameliorated",
+    nftName: "Orange Crab-face",
     description: "Operation on lens, not elsewhere classified",
     dateClaimed: 1651969865,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8022,7 +8022,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/sitreprehenderitpraesentium.png?size=40x40&set=set1",
-    nftName: "attitude-oriented",
+    nftName: "Orange Crab-face",
     description: "Extracorporeal hepatic assistance",
     dateClaimed: 1645049912,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8032,7 +8032,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/suntconsequaturlaudantium.png?size=40x40&set=set1",
-    nftName: "Programmable",
+    nftName: "Orange Crab-face",
     description: "Other repair of shoulder",
     dateClaimed: 1665219312,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8041,7 +8041,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/suscipitautquia.png?size=40x40&set=set1",
-    nftName: "systemic",
+    nftName: "Orange Crab-face",
     description: "Delayed suture of flexor tendon of hand",
     dateClaimed: 1641822492,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8050,7 +8050,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nobisutvoluptas.png?size=40x40&set=set1",
-    nftName: "Decentralized",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from musculoskeletal system and of joint fluid, parasitology",
     dateClaimed: 1639837812,
@@ -8061,7 +8061,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/totamdolordelectus.png?size=40x40&set=set1",
-    nftName: "foreground",
+    nftName: "Orange Crab-face",
     description: "Tonsillectomy with adenoidectomy",
     dateClaimed: 1650325227,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8070,7 +8070,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/mollitiaquiaad.png?size=40x40&set=set1",
-    nftName: "zero defect",
+    nftName: "Orange Crab-face",
     description:
       "Insertion or replacement of epicardial lead [electrode] into epicardium",
     dateClaimed: 1653224764,
@@ -8080,7 +8080,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/liberoetmollitia.png?size=40x40&set=set1",
-    nftName: "next generation",
+    nftName: "Orange Crab-face",
     description: "Excision of deep cervical lymph node",
     dateClaimed: 1638523276,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8089,7 +8089,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quisillovoluptas.png?size=40x40&set=set1",
-    nftName: "info-mediaries",
+    nftName: "Orange Crab-face",
     description: "Biopsy of bone, carpals and metacarpals",
     dateClaimed: 1643496740,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8098,7 +8098,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/enimutvitae.png?size=40x40&set=set1",
-    nftName: "benchmark",
+    nftName: "Orange Crab-face",
     description: "Body measurement",
     dateClaimed: 1642853440,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8107,7 +8107,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiasitomnis.png?size=40x40&set=set1",
-    nftName: "motivating",
+    nftName: "Orange Crab-face",
     description: "Other partial excision of thymus",
     dateClaimed: 1639570568,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8117,7 +8117,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/expeditasuscipitet.png?size=40x40&set=set1",
-    nftName: "secured line",
+    nftName: "Orange Crab-face",
     description: "Other and unspecified hysterectomy",
     dateClaimed: 1635704609,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8127,7 +8127,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/istevoluptatemsunt.png?size=40x40&set=set1",
-    nftName: "zero tolerance",
+    nftName: "Orange Crab-face",
     description: "Ethmoidotomy",
     dateClaimed: 1655119325,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8137,7 +8137,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/liberoquasimollitia.png?size=40x40&set=set1",
-    nftName: "paradigm",
+    nftName: "Orange Crab-face",
     description: "Repair of cystocele and rectocele with graft or prosthesis",
     dateClaimed: 1652487663,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8147,7 +8147,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/corruptivitaesoluta.png?size=40x40&set=set1",
-    nftName: "bandwidth-monitored",
+    nftName: "Orange Crab-face",
     description:
       "Other diagnostic procedures on chest wall, pleura, and diaphragm",
     dateClaimed: 1646126103,
@@ -8157,7 +8157,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quamvitaenisi.png?size=40x40&set=set1",
-    nftName: "attitude-oriented",
+    nftName: "Orange Crab-face",
     description: "Total repair of tetralogy of fallot",
     dateClaimed: 1649765013,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8166,7 +8166,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/enimistealiquam.png?size=40x40&set=set1",
-    nftName: "encryption",
+    nftName: "Orange Crab-face",
     description: "Artificial pacemaker artifact wave form check",
     dateClaimed: 1642656909,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8175,7 +8175,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autindoloribus.png?size=40x40&set=set1",
-    nftName: "object-oriented",
+    nftName: "Orange Crab-face",
     description:
       "Implantation or replacement of transvenous lead [electrode] into left ventricular coronary venous system",
     dateClaimed: 1643400011,
@@ -8185,7 +8185,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autautemut.png?size=40x40&set=set1",
-    nftName: "contextually-based",
+    nftName: "Orange Crab-face",
     description: "Biopsy of periprostatic tissue",
     dateClaimed: 1660179460,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8195,7 +8195,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatibusvelsed.png?size=40x40&set=set1",
-    nftName: "bandwidth-monitored",
+    nftName: "Orange Crab-face",
     description: "Hysterotomy to terminate pregnancy",
     dateClaimed: 1657881116,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8204,7 +8204,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eumdeseruntet.png?size=40x40&set=set1",
-    nftName: "focus group",
+    nftName: "Orange Crab-face",
     description: "Replacement of electronic bladder stimulator",
     dateClaimed: 1662678289,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8214,7 +8214,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/numquamoptioducimus.png?size=40x40&set=set1",
-    nftName: "algorithm",
+    nftName: "Orange Crab-face",
     description: "Digital examination of rectum",
     dateClaimed: 1643969656,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8224,7 +8224,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/accusamusquiavoluptatem.png?size=40x40&set=set1",
-    nftName: "bifurcated",
+    nftName: "Orange Crab-face",
     description: "Wedge resection of ovary",
     dateClaimed: 1653623199,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8234,7 +8234,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/aliasvoluptateporro.png?size=40x40&set=set1",
-    nftName: "Ameliorated",
+    nftName: "Orange Crab-face",
     description: "Other psychiatric somatotherapy",
     dateClaimed: 1661950541,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8243,7 +8243,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiaeaet.png?size=40x40&set=set1",
-    nftName: "clear-thinking",
+    nftName: "Orange Crab-face",
     description: "Other total mandibulectomy",
     dateClaimed: 1641884858,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8252,7 +8252,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etofficiisquaerat.png?size=40x40&set=set1",
-    nftName: "dedicated",
+    nftName: "Orange Crab-face",
     description: "Exploration of common duct",
     dateClaimed: 1649008622,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8261,7 +8261,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/officiisrerumet.png?size=40x40&set=set1",
-    nftName: "human-resource",
+    nftName: "Orange Crab-face",
     description: "Hip bearing surface, metal-on-polyethylene",
     dateClaimed: 1636791014,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8271,7 +8271,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/aliquamdelectusneque.png?size=40x40&set=set1",
-    nftName: "Adaptive",
+    nftName: "Orange Crab-face",
     description: "Pedicle or flap graft, not otherwise specified",
     dateClaimed: 1643578622,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8281,7 +8281,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/erroroccaecatiaccusantium.png?size=40x40&set=set1",
-    nftName: "Innovative",
+    nftName: "Orange Crab-face",
     description: "Incision of lymphatic structures",
     dateClaimed: 1636039933,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8291,7 +8291,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/asperioresevenietvoluptas.png?size=40x40&set=set1",
-    nftName: "maximized",
+    nftName: "Orange Crab-face",
     description: "Advancement of tendon of hand",
     dateClaimed: 1638217609,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8301,7 +8301,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloribustemporeminima.png?size=40x40&set=set1",
-    nftName: "application",
+    nftName: "Orange Crab-face",
     description: "Exteriorization of small intestine",
     dateClaimed: 1650883497,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8311,7 +8311,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/verotemporibusadipisci.png?size=40x40&set=set1",
-    nftName: "Synergized",
+    nftName: "Orange Crab-face",
     description: "Temporomandibular contrast arthrogram",
     dateClaimed: 1647328328,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8321,7 +8321,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/mollitiaconsequunturperferendis.png?size=40x40&set=set1",
-    nftName: "Realigned",
+    nftName: "Orange Crab-face",
     description: "Other operations on uvula",
     dateClaimed: 1653868872,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8330,7 +8330,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/velitbeataeaut.png?size=40x40&set=set1",
-    nftName: "web-enabled",
+    nftName: "Orange Crab-face",
     description: "Excision of lesion or tissue of large intestine",
     dateClaimed: 1646343301,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8339,7 +8339,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/rerumliberoquae.png?size=40x40&set=set1",
-    nftName: "tangible",
+    nftName: "Orange Crab-face",
     description: "Other individual psychotherapy",
     dateClaimed: 1635499029,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8349,7 +8349,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/ipsamdoloribusvoluptate.png?size=40x40&set=set1",
-    nftName: "composite",
+    nftName: "Orange Crab-face",
     description:
       "Excision or destruction of other lesion or tissue of heart, endovascular approach",
     dateClaimed: 1640397418,
@@ -8360,7 +8360,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatesablaudantium.png?size=40x40&set=set1",
-    nftName: "Fundamental",
+    nftName: "Orange Crab-face",
     description: "Rehabilitation, not elsewhere classified",
     dateClaimed: 1641142489,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8369,7 +8369,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utrecusandaeodit.png?size=40x40&set=set1",
-    nftName: "system engine",
+    nftName: "Orange Crab-face",
     description: "Full-thickness skin graft to lip and mouth",
     dateClaimed: 1651023334,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8379,7 +8379,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/mollitiaaccusamusaut.png?size=40x40&set=set1",
-    nftName: "Progressive",
+    nftName: "Orange Crab-face",
     description: "Other operations on nervous system",
     dateClaimed: 1665006148,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8389,7 +8389,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/providenthicconsequuntur.png?size=40x40&set=set1",
-    nftName: "instruction set",
+    nftName: "Orange Crab-face",
     description: "Total ostectomy, tarsals and metatarsals",
     dateClaimed: 1652276044,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8399,7 +8399,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/dolorenesciunttempora.png?size=40x40&set=set1",
-    nftName: "core",
+    nftName: "Orange Crab-face",
     description: "Hymenotomy",
     dateClaimed: 1661852924,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8409,7 +8409,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quidignissimosvero.png?size=40x40&set=set1",
-    nftName: "Programmable",
+    nftName: "Orange Crab-face",
     description: "Achillotenotomy",
     dateClaimed: 1647501399,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8418,7 +8418,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/rerumnonqui.png?size=40x40&set=set1",
-    nftName: "Customer-focused",
+    nftName: "Orange Crab-face",
     description: "Administration of botulism antitoxin",
     dateClaimed: 1657738213,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8427,7 +8427,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/estquamlaboriosam.png?size=40x40&set=set1",
-    nftName: "Decentralized",
+    nftName: "Orange Crab-face",
     description: "Removal of internal fixation device from facial bone",
     dateClaimed: 1651146907,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8436,7 +8436,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/errorevenietvelit.png?size=40x40&set=set1",
-    nftName: "time-frame",
+    nftName: "Orange Crab-face",
     description: "Replacement of cast on lower limb",
     dateClaimed: 1635515733,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8446,7 +8446,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/estvoluptatibusofficia.png?size=40x40&set=set1",
-    nftName: "Secured",
+    nftName: "Orange Crab-face",
     description: "Closed reduction of separated epiphysis, humerus",
     dateClaimed: 1652876348,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8456,7 +8456,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/pariaturrerumreiciendis.png?size=40x40&set=set1",
-    nftName: "Down-sized",
+    nftName: "Orange Crab-face",
     description:
       "Non-coronary intra-operative fluorescence vascular angiography [IFVA]",
     dateClaimed: 1643574872,
@@ -8466,7 +8466,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nemoautut.png?size=40x40&set=set1",
-    nftName: "service-desk",
+    nftName: "Orange Crab-face",
     description: "Insertion of three vascular stents",
     dateClaimed: 1636231337,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8476,7 +8476,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/utperspiciatisdolor.png?size=40x40&set=set1",
-    nftName: "Re-contextualized",
+    nftName: "Orange Crab-face",
     description: "Total wrist replacement",
     dateClaimed: 1635259629,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8486,7 +8486,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/consequatursimiliqueassumenda.png?size=40x40&set=set1",
-    nftName: "product",
+    nftName: "Orange Crab-face",
     description: "Other soft tissue x-ray of upper limb",
     dateClaimed: 1664959074,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8496,7 +8496,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/sintearumnecessitatibus.png?size=40x40&set=set1",
-    nftName: "neural-net",
+    nftName: "Orange Crab-face",
     description: "Excision of lesion of ciliary body",
     dateClaimed: 1646695379,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8506,7 +8506,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/nobisaperiamvoluptates.png?size=40x40&set=set1",
-    nftName: "Down-sized",
+    nftName: "Orange Crab-face",
     description: "Other urethroscopy",
     dateClaimed: 1634544927,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8515,7 +8515,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiscommodiet.png?size=40x40&set=set1",
-    nftName: "Exclusive",
+    nftName: "Orange Crab-face",
     description: "Drainage of face and floor of mouth",
     dateClaimed: 1645520791,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8524,7 +8524,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/culpaeumpossimus.png?size=40x40&set=set1",
-    nftName: "solution-oriented",
+    nftName: "Orange Crab-face",
     description: "Injection of other anti-infective",
     dateClaimed: 1636227065,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8534,7 +8534,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/distinctioitaquemolestiae.png?size=40x40&set=set1",
-    nftName: "zero administration",
+    nftName: "Orange Crab-face",
     description:
       "Laparoscopic bilateral repair of indirect inguinal hernia with graft or prosthesis",
     dateClaimed: 1650628059,
@@ -8545,7 +8545,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/expeditacommodiqui.png?size=40x40&set=set1",
-    nftName: "knowledge base",
+    nftName: "Orange Crab-face",
     description: "Fitting and dispensing of spectacles",
     dateClaimed: 1635885793,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8555,7 +8555,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloremqueexpeditaalias.png?size=40x40&set=set1",
-    nftName: "zero administration",
+    nftName: "Orange Crab-face",
     description:
       "Refusion of dorsal and dorsolumbar spine, posterior column, posterior technique",
     dateClaimed: 1655660143,
@@ -8565,7 +8565,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/estdeseruntporro.png?size=40x40&set=set1",
-    nftName: "groupware",
+    nftName: "Orange Crab-face",
     description: "Biopsy of bone, femur",
     dateClaimed: 1658520106,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8574,7 +8574,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/voluptatibusutqui.png?size=40x40&set=set1",
-    nftName: "Multi-layered",
+    nftName: "Orange Crab-face",
     description: "Repair of sympathetic nerve or ganglion",
     dateClaimed: 1659983580,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8583,7 +8583,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quosquisquamsed.png?size=40x40&set=set1",
-    nftName: "homogeneous",
+    nftName: "Orange Crab-face",
     description: "Other repair of vulva and perineum",
     dateClaimed: 1664509987,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8593,7 +8593,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/consequaturenimpossimus.png?size=40x40&set=set1",
-    nftName: "real-time",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of peritoneal and retroperitoneal specimen, culture",
     dateClaimed: 1635933165,
@@ -8604,7 +8604,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/eacupiditatequisquam.png?size=40x40&set=set1",
-    nftName: "bandwidth-monitored",
+    nftName: "Orange Crab-face",
     description: "Other operations on orbit",
     dateClaimed: 1655932194,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8613,7 +8613,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eosculpaexcepturi.png?size=40x40&set=set1",
-    nftName: "moratorium",
+    nftName: "Orange Crab-face",
     description:
       "Arthroplasty of metacarpophalangeal and interphalangeal joint with implant",
     dateClaimed: 1638359087,
@@ -8624,7 +8624,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/similiquerationevoluptatibus.png?size=40x40&set=set1",
-    nftName: "De-engineered",
+    nftName: "Orange Crab-face",
     description: "Partial mandibulectomy",
     dateClaimed: 1658279239,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8633,7 +8633,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sedaperiamminus.png?size=40x40&set=set1",
-    nftName: "Balanced",
+    nftName: "Orange Crab-face",
     description:
       "Closed reduction of fracture without internal fixation, carpals and metacarpals",
     dateClaimed: 1644154348,
@@ -8644,7 +8644,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloremquecupiditatearchitecto.png?size=40x40&set=set1",
-    nftName: "monitoring",
+    nftName: "Orange Crab-face",
     description: "Other pleural biopsy",
     dateClaimed: 1656229627,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8653,7 +8653,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autquaeratquia.png?size=40x40&set=set1",
-    nftName: "support",
+    nftName: "Orange Crab-face",
     description: "Incision of uvula",
     dateClaimed: 1658331069,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8663,7 +8663,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/necessitatibusidfugit.png?size=40x40&set=set1",
-    nftName: "forecast",
+    nftName: "Orange Crab-face",
     description: "Removal of foreign body from lens without use of magnet",
     dateClaimed: 1653786213,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8672,7 +8672,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/beataenemoanimi.png?size=40x40&set=set1",
-    nftName: "directional",
+    nftName: "Orange Crab-face",
     description: "Computerized axial tomography of thorax",
     dateClaimed: 1660441538,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8681,7 +8681,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/saepenequesit.png?size=40x40&set=set1",
-    nftName: "pricing structure",
+    nftName: "Orange Crab-face",
     description: "Open heart valvuloplasty of aortic valve without replacement",
     dateClaimed: 1639878992,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8691,7 +8691,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/ullamquaeratimpedit.png?size=40x40&set=set1",
-    nftName: "capacity",
+    nftName: "Orange Crab-face",
     description: "Other arthrotomy, foot and toe",
     dateClaimed: 1650770611,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8700,7 +8700,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etnisidolore.png?size=40x40&set=set1",
-    nftName: "Multi-layered",
+    nftName: "Orange Crab-face",
     description: "Injection of tranquilizer",
     dateClaimed: 1650478649,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8709,7 +8709,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/veniamquiplaceat.png?size=40x40&set=set1",
-    nftName: "intranet",
+    nftName: "Orange Crab-face",
     description: "Injection of tranquilizer",
     dateClaimed: 1663099508,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8719,7 +8719,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/nequerecusandaeasperiores.png?size=40x40&set=set1",
-    nftName: "Multi-lateral",
+    nftName: "Orange Crab-face",
     description: "Other mammoplasty",
     dateClaimed: 1645824274,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8729,7 +8729,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatemquaerateum.png?size=40x40&set=set1",
-    nftName: "Optimized",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from trachea, bronchus, pleura, lung, and other thoracic specimen, and of sputum, culture and sensitivity",
     dateClaimed: 1649706570,
@@ -8740,7 +8740,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/illumdoloredebitis.png?size=40x40&set=set1",
-    nftName: "client-server",
+    nftName: "Orange Crab-face",
     description: "Open abdominoperineal resection of the rectum",
     dateClaimed: 1646411996,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8749,7 +8749,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/rerumiureerror.png?size=40x40&set=set1",
-    nftName: "Open-architected",
+    nftName: "Orange Crab-face",
     description: "Insertion of bone void filler",
     dateClaimed: 1641536217,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8759,7 +8759,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/doloribusexpeditaquam.png?size=40x40&set=set1",
-    nftName: "local area network",
+    nftName: "Orange Crab-face",
     description: "Percutaneous angioplasty of extracranial vessel(s)",
     dateClaimed: 1659856392,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8768,7 +8768,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quibusdamautquia.png?size=40x40&set=set1",
-    nftName: "process improvement",
+    nftName: "Orange Crab-face",
     description:
       "Other repair or plastic operations on bone, scapula, clavicle, and thorax [ribs and sternum]",
     dateClaimed: 1661031300,
@@ -8778,7 +8778,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/similiquequoaut.png?size=40x40&set=set1",
-    nftName: "Cloned",
+    nftName: "Orange Crab-face",
     description: "Arthroscopy, unspecified site",
     dateClaimed: 1664872140,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8788,7 +8788,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/hicatquevoluptatum.png?size=40x40&set=set1",
-    nftName: "Programmable",
+    nftName: "Orange Crab-face",
     description: "Nephrostomy",
     dateClaimed: 1650630238,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8798,7 +8798,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/officiapariaturrerum.png?size=40x40&set=set1",
-    nftName: "encoding",
+    nftName: "Orange Crab-face",
     description: "Partial excision of pituitary gland, transfrontal approach",
     dateClaimed: 1651842259,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8807,7 +8807,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/ipsamexplicabout.png?size=40x40&set=set1",
-    nftName: "time-frame",
+    nftName: "Orange Crab-face",
     description: "Injection of air into peritoneal cavity",
     dateClaimed: 1650797218,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8817,7 +8817,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/beataedelenitisunt.png?size=40x40&set=set1",
-    nftName: "client-server",
+    nftName: "Orange Crab-face",
     description: "Other incision of perirenal or periureteral tissue",
     dateClaimed: 1655671853,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8826,7 +8826,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/easitexpedita.png?size=40x40&set=set1",
-    nftName: "Reverse-engineered",
+    nftName: "Orange Crab-face",
     description: "Other aspiration curettage of uterus",
     dateClaimed: 1635837860,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8836,7 +8836,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/beataeenimveritatis.png?size=40x40&set=set1",
-    nftName: "bifurcated",
+    nftName: "Orange Crab-face",
     description: "Decortication of lung",
     dateClaimed: 1660552280,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8846,7 +8846,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quaeratexpeditadolor.png?size=40x40&set=set1",
-    nftName: "Programmable",
+    nftName: "Orange Crab-face",
     description: "Radical cystectomy",
     dateClaimed: 1634779895,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8855,7 +8855,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quieiustenetur.png?size=40x40&set=set1",
-    nftName: "transitional",
+    nftName: "Orange Crab-face",
     description: "Laparoscopic incidental appendectomy",
     dateClaimed: 1645472764,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8864,7 +8864,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/estremsapiente.png?size=40x40&set=set1",
-    nftName: "disintermediate",
+    nftName: "Orange Crab-face",
     description: "Manual exploration of uterine cavity, postpartum",
     dateClaimed: 1664246637,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8873,7 +8873,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/accusamusetquia.png?size=40x40&set=set1",
-    nftName: "Total",
+    nftName: "Orange Crab-face",
     description: "Five-in-one repair of knee",
     dateClaimed: 1640970155,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8882,7 +8882,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/istefugiatvitae.png?size=40x40&set=set1",
-    nftName: "analyzing",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from endocrine gland, not elsewhere classified, bacterial smear",
     dateClaimed: 1638641120,
@@ -8892,7 +8892,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eligendievenietet.png?size=40x40&set=set1",
-    nftName: "groupware",
+    nftName: "Orange Crab-face",
     description: "Repair of retinal tear by xenon arc photocoagulation",
     dateClaimed: 1650539954,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8901,7 +8901,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/voluptasnoniusto.png?size=40x40&set=set1",
-    nftName: "disintermediate",
+    nftName: "Orange Crab-face",
     description: "Open biopsy of soft tissue",
     dateClaimed: 1660645415,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8911,7 +8911,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/cupiditateestnihil.png?size=40x40&set=set1",
-    nftName: "Inverse",
+    nftName: "Orange Crab-face",
     description: "Vaginal suspension and fixation",
     dateClaimed: 1641576842,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8920,7 +8920,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/fugitaperiamquis.png?size=40x40&set=set1",
-    nftName: "leverage",
+    nftName: "Orange Crab-face",
     description:
       "Operations on two or more extraocular muscles involving temporary detachment from globe, one or both eyes",
     dateClaimed: 1641188139,
@@ -8931,7 +8931,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/necessitatibuscorporisquasi.png?size=40x40&set=set1",
-    nftName: "Persevering",
+    nftName: "Orange Crab-face",
     description: "Epididymotomy",
     dateClaimed: 1634540969,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8940,7 +8940,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/velsitquod.png?size=40x40&set=set1",
-    nftName: "framework",
+    nftName: "Orange Crab-face",
     description: "Unilateral injection into breast for augmentation",
     dateClaimed: 1639335051,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8949,7 +8949,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/idautemmollitia.png?size=40x40&set=set1",
-    nftName: "instruction set",
+    nftName: "Orange Crab-face",
     description: "Limited rhinoplasty",
     dateClaimed: 1651314836,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8958,7 +8958,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/inquoeum.png?size=40x40&set=set1",
-    nftName: "Multi-channelled",
+    nftName: "Orange Crab-face",
     description:
       "Open and other replacement of pulmonary valve with tissue graft",
     dateClaimed: 1646556179,
@@ -8968,7 +8968,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/teneturerrorvel.png?size=40x40&set=set1",
-    nftName: "approach",
+    nftName: "Orange Crab-face",
     description: "Other excision of perianal tissue",
     dateClaimed: 1640830125,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8977,7 +8977,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etipsumimpedit.png?size=40x40&set=set1",
-    nftName: "systematic",
+    nftName: "Orange Crab-face",
     description: "Injection into anterior chamber",
     dateClaimed: 1654021792,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8987,7 +8987,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptasperferendisvoluptas.png?size=40x40&set=set1",
-    nftName: "logistical",
+    nftName: "Orange Crab-face",
     description: "Extraction of milk from lactating breast",
     dateClaimed: 1654026635,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -8996,7 +8996,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/teneturquoest.png?size=40x40&set=set1",
-    nftName: "uniform",
+    nftName: "Orange Crab-face",
     description: "Biopsy of perirectal tissue",
     dateClaimed: 1650569780,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9006,7 +9006,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/culpaenimvoluptatibus.png?size=40x40&set=set1",
-    nftName: "explicit",
+    nftName: "Orange Crab-face",
     description: "Complete parathyroidectomy",
     dateClaimed: 1642726449,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9016,7 +9016,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/idexercitationemcommodi.png?size=40x40&set=set1",
-    nftName: "paradigm",
+    nftName: "Orange Crab-face",
     description: "Repair of ventricular septal defect with tissue graft",
     dateClaimed: 1649088008,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9026,7 +9026,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quivoluptatibusaliquid.png?size=40x40&set=set1",
-    nftName: "open architecture",
+    nftName: "Orange Crab-face",
     description: "Injection of other hormone",
     dateClaimed: 1645835692,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9036,7 +9036,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/aperiamnonvoluptatem.png?size=40x40&set=set1",
-    nftName: "artificial intelligence",
+    nftName: "Orange Crab-face",
     description: "Biopsy of uvula and soft palate",
     dateClaimed: 1657197883,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9045,7 +9045,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/odioautminima.png?size=40x40&set=set1",
-    nftName: "Synergistic",
+    nftName: "Orange Crab-face",
     description: "Sinogram of abdominal wall",
     dateClaimed: 1655184095,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9054,7 +9054,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eumminimaeos.png?size=40x40&set=set1",
-    nftName: "Down-sized",
+    nftName: "Orange Crab-face",
     description: "Postoperative revision of scleral fistulization procedure",
     dateClaimed: 1638195655,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9063,7 +9063,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/utfugiatid.png?size=40x40&set=set1",
-    nftName: "De-engineered",
+    nftName: "Orange Crab-face",
     description: "Insufflation of therapeutic agent into fallopian tubes",
     dateClaimed: 1653767024,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9073,7 +9073,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/ducimuscumqueexplicabo.png?size=40x40&set=set1",
-    nftName: "algorithm",
+    nftName: "Orange Crab-face",
     description: "Closed reduction of separated epiphysis, humerus",
     dateClaimed: 1635757020,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9082,7 +9082,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/enimrecusandaeut.png?size=40x40&set=set1",
-    nftName: "Multi-lateral",
+    nftName: "Orange Crab-face",
     description: "Dacryocystorhinostomy [DCR]",
     dateClaimed: 1657632367,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9092,7 +9092,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/exercitationemquoreiciendis.png?size=40x40&set=set1",
-    nftName: "Expanded",
+    nftName: "Orange Crab-face",
     description: "Other unilateral oophorectomy",
     dateClaimed: 1655046426,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9101,7 +9101,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/ducimusearumquia.png?size=40x40&set=set1",
-    nftName: "Devolved",
+    nftName: "Orange Crab-face",
     description: "Insertion of breast tissue expander",
     dateClaimed: 1654229805,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9110,7 +9110,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/adipiscisedquia.png?size=40x40&set=set1",
-    nftName: "non-volatile",
+    nftName: "Orange Crab-face",
     description: "Recreation therapy",
     dateClaimed: 1662556060,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9119,7 +9119,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/estquamcorporis.png?size=40x40&set=set1",
-    nftName: "Upgradable",
+    nftName: "Orange Crab-face",
     description:
       "Prophylactic vaccination against arthropod-borne viral encephalitis",
     dateClaimed: 1645187873,
@@ -9130,7 +9130,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/magniconsecteturet.png?size=40x40&set=set1",
-    nftName: "needs-based",
+    nftName: "Orange Crab-face",
     description: "Excision of anus",
     dateClaimed: 1654279266,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9140,7 +9140,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/beataedelectusdistinctio.png?size=40x40&set=set1",
-    nftName: "Extended",
+    nftName: "Orange Crab-face",
     description: "Combined right and left heart angiocardiography",
     dateClaimed: 1661061255,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9149,7 +9149,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/undequodebitis.png?size=40x40&set=set1",
-    nftName: "Polarised",
+    nftName: "Orange Crab-face",
     description: "Repair of retinal tear by laser photocoagulation",
     dateClaimed: 1634522588,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9158,7 +9158,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/temporeeumquo.png?size=40x40&set=set1",
-    nftName: "heuristic",
+    nftName: "Orange Crab-face",
     description: "Microscopic examination of specimen from other site, culture",
     dateClaimed: 1649367694,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9168,7 +9168,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/sedveritatistenetur.png?size=40x40&set=set1",
-    nftName: "Re-engineered",
+    nftName: "Orange Crab-face",
     description: "Resection of vessel with anastomosis, aorta",
     dateClaimed: 1663985072,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9178,7 +9178,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatemlaborenumquam.png?size=40x40&set=set1",
-    nftName: "analyzing",
+    nftName: "Orange Crab-face",
     description: "Pancreatic transplant, not otherwise specified",
     dateClaimed: 1660808007,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9187,7 +9187,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/adoloresid.png?size=40x40&set=set1",
-    nftName: "Monitored",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from endocrine gland, not elsewhere classified, culture",
     dateClaimed: 1637971376,
@@ -9198,7 +9198,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/aspernaturquasilibero.png?size=40x40&set=set1",
-    nftName: "database",
+    nftName: "Orange Crab-face",
     description: "Bilateral lung transplantation",
     dateClaimed: 1658539186,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9207,7 +9207,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/invelitest.png?size=40x40&set=set1",
-    nftName: "4th generation",
+    nftName: "Orange Crab-face",
     description: "Mastopexy",
     dateClaimed: 1657486559,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9217,7 +9217,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/odioomnisvoluptatem.png?size=40x40&set=set1",
-    nftName: "flexibility",
+    nftName: "Orange Crab-face",
     description: "Incision of intestine, not otherwise specified",
     dateClaimed: 1636143451,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9227,7 +9227,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/aperiamdebitisautem.png?size=40x40&set=set1",
-    nftName: "website",
+    nftName: "Orange Crab-face",
     description:
       "Repair of atrial septal defect with prosthesis, open technique",
     dateClaimed: 1645753075,
@@ -9237,7 +9237,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/culpaeosprovident.png?size=40x40&set=set1",
-    nftName: "encryption",
+    nftName: "Orange Crab-face",
     description: "Percutaneous angioplasty of intracranial vessel(s)",
     dateClaimed: 1659994533,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9246,7 +9246,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/illoipsaquidem.png?size=40x40&set=set1",
-    nftName: "global",
+    nftName: "Orange Crab-face",
     description: "Open and other replacement of aortic valve with tissue graft",
     dateClaimed: 1660490131,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9255,7 +9255,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/verobeataequis.png?size=40x40&set=set1",
-    nftName: "intermediate",
+    nftName: "Orange Crab-face",
     description: "Repair of sympathetic nerve or ganglion",
     dateClaimed: 1653833689,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9264,7 +9264,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sunteosnisi.png?size=40x40&set=set1",
-    nftName: "Polarised",
+    nftName: "Orange Crab-face",
     description: "Removal of other device from trunk",
     dateClaimed: 1651575757,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9273,7 +9273,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autemautcommodi.png?size=40x40&set=set1",
-    nftName: "web-enabled",
+    nftName: "Orange Crab-face",
     description: "Trephination of sclera with iridectomy",
     dateClaimed: 1640779675,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9282,7 +9282,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/eumquiaenim.png?size=40x40&set=set1",
-    nftName: "Phased",
+    nftName: "Orange Crab-face",
     description: "Antesternal esophagoesophagostomy",
     dateClaimed: 1656429037,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9291,7 +9291,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/namautaut.png?size=40x40&set=set1",
-    nftName: "Synergized",
+    nftName: "Orange Crab-face",
     description: "Magnetic resonance imaging of pelvis, prostate, and bladder",
     dateClaimed: 1635697549,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9300,7 +9300,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiafugitab.png?size=40x40&set=set1",
-    nftName: "demand-driven",
+    nftName: "Orange Crab-face",
     description: "Conjunctivocystorhinostomy",
     dateClaimed: 1660323875,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9310,7 +9310,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/quibusdamassumendanatus.png?size=40x40&set=set1",
-    nftName: "Upgradable",
+    nftName: "Orange Crab-face",
     description:
       "Lumbar and lumbosacral fusion of the anterior column, posterior technique",
     dateClaimed: 1649611938,
@@ -9321,7 +9321,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/placeatnequefacilis.png?size=40x40&set=set1",
-    nftName: "Self-enabling",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from eye, bacterial smear",
     dateClaimed: 1637296438,
@@ -9331,7 +9331,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quianisialias.png?size=40x40&set=set1",
-    nftName: "moderator",
+    nftName: "Orange Crab-face",
     description: "Other open umbilical herniorrhaphy",
     dateClaimed: 1642758466,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9340,7 +9340,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/aliasvoluptatesad.png?size=40x40&set=set1",
-    nftName: "composite",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from lower gastrointestinal tract and of stool, toxicology",
     dateClaimed: 1653968328,
@@ -9350,7 +9350,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/illooptioesse.png?size=40x40&set=set1",
-    nftName: "disintermediate",
+    nftName: "Orange Crab-face",
     description:
       "Microscopic examination of specimen from trachea, bronchus, pleura, lung, and other thoracic specimen, and of sputum, parasitology",
     dateClaimed: 1636132484,
@@ -9361,7 +9361,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/voluptatibusquiaquis.png?size=40x40&set=set1",
-    nftName: "internet solution",
+    nftName: "Orange Crab-face",
     description:
       "Total ostectomy, scapula, clavicle, and thorax [ribs and sternum]",
     dateClaimed: 1640386390,
@@ -9371,7 +9371,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/rationeducimussed.png?size=40x40&set=set1",
-    nftName: "instruction set",
+    nftName: "Orange Crab-face",
     description: "Insertion of aqueous drainage device",
     dateClaimed: 1651602860,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9381,7 +9381,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/asperioresminusvitae.png?size=40x40&set=set1",
-    nftName: "orchestration",
+    nftName: "Orange Crab-face",
     description: "Endocervical biopsy",
     dateClaimed: 1665793585,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9390,7 +9390,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nemovoluptaset.png?size=40x40&set=set1",
-    nftName: "Realigned",
+    nftName: "Orange Crab-face",
     description: "Irrigation of vascular catheter",
     dateClaimed: 1661687268,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9399,7 +9399,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/nequequiquo.png?size=40x40&set=set1",
-    nftName: "initiative",
+    nftName: "Orange Crab-face",
     description: "Debridement of open fracture, unspecified site",
     dateClaimed: 1658893058,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9408,7 +9408,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/sedquoin.png?size=40x40&set=set1",
-    nftName: "Open-architected",
+    nftName: "Orange Crab-face",
     description: "Intra-abdominal manipulation of small intestine",
     dateClaimed: 1644097388,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9418,7 +9418,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/estnobispraesentium.png?size=40x40&set=set1",
-    nftName: "internet solution",
+    nftName: "Orange Crab-face",
     description: "Insertion of sternal fixation device with rigid plates",
     dateClaimed: 1643805962,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9427,7 +9427,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/autestaliquid.png?size=40x40&set=set1",
-    nftName: "responsive",
+    nftName: "Orange Crab-face",
     description: "Radical dissection of thoracic structures",
     dateClaimed: 1635347897,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9437,7 +9437,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/repellendusmaximetempore.png?size=40x40&set=set1",
-    nftName: "Visionary",
+    nftName: "Orange Crab-face",
     description: "Incision of mouth, unspecified structure",
     dateClaimed: 1642114372,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9447,7 +9447,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/sediustoperspiciatis.png?size=40x40&set=set1",
-    nftName: "local",
+    nftName: "Orange Crab-face",
     description: "Other and unspecified segmental resection of lung",
     dateClaimed: 1648920561,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9456,7 +9456,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/undesequidolorum.png?size=40x40&set=set1",
-    nftName: "multimedia",
+    nftName: "Orange Crab-face",
     description: "Creation of conduit between atrium and pulmonary artery",
     dateClaimed: 1659271361,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9465,7 +9465,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/etutsuscipit.png?size=40x40&set=set1",
-    nftName: "web-enabled",
+    nftName: "Orange Crab-face",
     description: "Insertion of rectal tube",
     dateClaimed: 1645256977,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9475,7 +9475,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/inventoretemporadolor.png?size=40x40&set=set1",
-    nftName: "Diverse",
+    nftName: "Orange Crab-face",
     description: "Vaginal suspension and fixation with graft or prosthesis",
     dateClaimed: 1644973476,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9484,7 +9484,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quiutnihil.png?size=40x40&set=set1",
-    nftName: "attitude",
+    nftName: "Orange Crab-face",
     description: "Other repair of retinal detachment",
     dateClaimed: 1664552621,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9494,7 +9494,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/facereofficiiserror.png?size=40x40&set=set1",
-    nftName: "mobile",
+    nftName: "Orange Crab-face",
     description: "Other operations on extraocular muscles and tendons",
     dateClaimed: 1648971583,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9503,7 +9503,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/ducimusametqui.png?size=40x40&set=set1",
-    nftName: "discrete",
+    nftName: "Orange Crab-face",
     description: "Open reduction of separated epiphysis, other specified bone",
     dateClaimed: 1658968504,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9512,7 +9512,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quisquidolor.png?size=40x40&set=set1",
-    nftName: "Optional",
+    nftName: "Orange Crab-face",
     description: "Other repair or plastic operations on bone, humerus",
     dateClaimed: 1664958220,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9521,7 +9521,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/delenitirerumet.png?size=40x40&set=set1",
-    nftName: "Vision-oriented",
+    nftName: "Orange Crab-face",
     description: "Ligation of meningeal vessel",
     dateClaimed: 1655017763,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9530,7 +9530,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/estveldebitis.png?size=40x40&set=set1",
-    nftName: "didactic",
+    nftName: "Orange Crab-face",
     description:
       "Prophylactic administration of vaccine against other diseases",
     dateClaimed: 1658133994,
@@ -9541,7 +9541,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/liberodeseruntsunt.png?size=40x40&set=set1",
-    nftName: "motivating",
+    nftName: "Orange Crab-face",
     description:
       "Repair of ventricular septal defect with prosthesis, open technique",
     dateClaimed: 1659082981,
@@ -9551,7 +9551,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/cumlaborumaut.png?size=40x40&set=set1",
-    nftName: "interface",
+    nftName: "Orange Crab-face",
     description: "Other skeletal traction",
     dateClaimed: 1650938472,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9560,7 +9560,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quoquidematque.png?size=40x40&set=set1",
-    nftName: "context-sensitive",
+    nftName: "Orange Crab-face",
     description:
       "Endovascular implantation of branching or fenestrated graft(s) in aorta",
     dateClaimed: 1649914207,
@@ -9570,7 +9570,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/quisquamestillum.png?size=40x40&set=set1",
-    nftName: "archive",
+    nftName: "Orange Crab-face",
     description: "Insertion of oropharyngeal airway",
     dateClaimed: 1635250989,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9579,7 +9579,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/istequidemet.png?size=40x40&set=set1",
-    nftName: "hub",
+    nftName: "Orange Crab-face",
     description: "Transcatheter embolization for gastric or duodenal bleeding",
     dateClaimed: 1649701246,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9589,7 +9589,7 @@ export const MOCKDATA: Mockdata[] = [
   {
     nftAvatar:
       "https://robohash.org/ettemporaassumenda.png?size=40x40&set=set1",
-    nftName: "neutral",
+    nftName: "Orange Crab-face",
     description: "Procedure on two vessels",
     dateClaimed: 1657438271,
     attributes: ["Silver", "Medal", "Bronze"],
@@ -9598,7 +9598,7 @@ export const MOCKDATA: Mockdata[] = [
   },
   {
     nftAvatar: "https://robohash.org/absitsoluta.png?size=40x40&set=set1",
-    nftName: "toolset",
+    nftName: "Orange Crab-face",
     description: "Other x-ray of male genital organs",
     dateClaimed: 1651691318,
     attributes: ["Silver", "Medal", "Bronze"],

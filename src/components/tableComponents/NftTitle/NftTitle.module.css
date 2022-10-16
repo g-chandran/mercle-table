@@ -1,0 +1,34 @@
+.avatar > img {
+  background-color: lightskyblue;
+  border-radius: 6px;
+}
+
+.avatar > .frenchRaspberry {
+  background-color: #c33149;
+}
+
+.avatar > .middleGreenYellow {
+  background-color: #a8c256;
+}
+
+.avatar > .wheat {
+  background-color: #f3d9b1;
+}
+
+.avatar > .antiqueBrass {
+  background-color: #c29979;
+}
+
+.avatar > .auburn {
+  background-color: #a22522;
+}
+
+.nftTitle {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.nftTitle p {
+  white-space: nowrap;
+}
