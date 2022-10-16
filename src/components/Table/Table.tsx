@@ -24,14 +24,14 @@ export function Table({ data }: { data: Mockdata[] }) {
         </tr>
       </thead>
       <tbody>
-        {data.map((row) => (
-          <tr>
+        {data.map((row, index) => (
+          <tr key={`${row.id}_${index}`}>
             <td>{row.id}</td>
             <td>{row.nftName}</td>
             <td>{row.description}</td>
             <td>
               {row.attributes.map((attribute) => (
-                <SoloText text={attribute} style="" />
+                <SoloText key={attribute} text={attribute} />
               ))}
             </td>
             <td>
@@ -43,14 +43,6 @@ export function Table({ data }: { data: Mockdata[] }) {
             <td>{new Date(row.dateClaimed).toLocaleString()}</td>
           </tr>
         ))}
-        <tr>
-          <td>hey</td>
-          <td>hey</td>
-          <td>hey</td>
-          <td>hey</td>
-          <td>hey</td>
-          <td>hey</td>
-        </tr>
       </tbody>
     </table>
   );
