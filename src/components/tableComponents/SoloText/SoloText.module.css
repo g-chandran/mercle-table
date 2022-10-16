@@ -1,11 +1,13 @@
-.text {
-  background-color: var(--secondary-color);
+.textWrapper {
   padding: 0.30rem 0.75rem;
-  font-weight: 200;
   font-size: 12px;
   border-radius: 4px;
+  background-color: var(--secondary-color);
+  width: max-content;
   white-space: nowrap;
+  float: left;
   margin-right: 6px;
+  position: relative;
 }
 
 .blue {
@@ -21,4 +23,12 @@
 .green {
   background-color: var(--status-green);
   color: white;
+}
+
+.tooltipWrapper {
+  display: none;
+}
+
+.textWrapper:hover > .tooltipWrapper {
+  display: block;
 }

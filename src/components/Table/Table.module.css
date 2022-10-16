@@ -15,7 +15,7 @@
 }
 
 .nftName {
-  width: 20%;
+  width: 10%;
 }
 
 .description {
@@ -23,15 +23,15 @@
 }
 
 .attributes {
-  width: 10%;
+  width: 20%;
 }
 
 .status {
-  width: 10%;
+  width: 15%;
 }
 
 .dateClaimed {
-  width: 15%;
+  width: 10%;
 }
 
 tbody tr > td {

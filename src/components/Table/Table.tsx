@@ -7,6 +7,7 @@ import {
 import { SoloText } from "../tableComponents/SoloText/SoloText";
 import { NftTitle } from "../tableComponents/NftTitle/NftTitle";
 import { textTruncate } from "../../lib/utils";
+import { Tooltip } from "../tableComponents/Tooltip/Tooltip";
 
 export function Table({ data }: { data: Mockdata[] }) {
   const getFormattedClaimedDate = (date: EpochTimeStamp) =>
@@ -59,9 +60,13 @@ export function Table({ data }: { data: Mockdata[] }) {
               <td title={description.isModified ? row.description : ""}>
                 {description.text}
               </td>
-              <td>
+              <td className={styles.attributesRow}>
                 {splitAttributes(row.attributes).map((attribute) => (
-                  <SoloText key={attribute} text={attribute} />
+                  <SoloText
+                    key={attribute}
+                    text={attribute}
+                    Tooltip={<Tooltip accessory={attribute} />}
+                  />
                 ))}
               </td>
               <td>
