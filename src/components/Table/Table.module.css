@@ -34,8 +34,10 @@
   width: 10%;
 }
 
-tbody tr>td {
-  color: var(--text-primary);
+tbody tr > td {
+  color: var(--text-secondary);
+  font-size: calc(1rem - 3px);
+  font-weight: 500;
 }
 
 .theadTitle {

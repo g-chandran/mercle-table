@@ -1,11 +1,12 @@
 import "./App.css";
 import { Table } from "./components/Table/Table";
+import { MOCKDATA } from "./assets/mockData";
 
 function App() {
   return (
     <div className="App">
       <h1>Mercle Table</h1>
-      <Table />
+      <Table data={MOCKDATA} />
     </div>
   );
 }

@@ -1,6 +1,7 @@
 import styles from "./Table.module.css";
+import type { Mockdata } from "../../assets/mockData";
 
-export function Table() {
+export function Table({ data }: { data: Mockdata[] }) {
   return (
     <table className={styles.table}>
       <thead>
@@ -22,6 +23,16 @@ export function Table() {
         </tr>
       </thead>
       <tbody>
+        {data.map((row) => (
+          <tr>
+            <td>{row.id}</td>
+            <td>{row.nftName}</td>
+            <td>{row.description}</td>
+            <td>{row.attributes}</td>
+            <td>{row.status}</td>
+            <td>{row.dateClaimed.toDateString()}</td>
+          </tr>
+        ))}
         <tr>
           <td>hey</td>
           <td>hey</td>
