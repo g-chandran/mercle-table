@@ -4,6 +4,13 @@ import { SoloText } from "../tableComponents/SoloText/SoloText";
 import { NftTitle } from "../tableComponents/NftTitle/NftTitle";
 
 export function Table({ data }: { data: Mockdata[] }) {
+  const getFormattedClaimedDate = (date: EpochTimeStamp) =>
+    new Date(date).toLocaleDateString("en-US", {
+      month: "short",
+      day: "numeric",
+      year: "numeric",
+    });
+
   return (
     <table className={styles.table}>
       <thead>
@@ -43,7 +50,7 @@ export function Table({ data }: { data: Mockdata[] }) {
                 style={STATUS_BACKGROUND_MAPPING[row.status]}
               />
             </td>
-            <td>{new Date(row.dateClaimed).toLocaleString()}</td>
+            <td>{getFormattedClaimedDate(row.dateClaimed)}</td>
           </tr>
         ))}
       </tbody>
