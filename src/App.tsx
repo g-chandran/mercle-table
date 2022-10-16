@@ -1,6 +1,6 @@
 import "./App.css";
 import { Table } from "./components/Table/Table";
-import { MOCKDATA } from "./assets/mockData";
+import { MOCKDATA } from "./lib/mockData";
 
 function App() {
   return (

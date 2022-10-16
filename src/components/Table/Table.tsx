@@ -3,9 +3,10 @@ import {
   Attributes,
   Mockdata,
   STATUS_BACKGROUND_MAPPING,
-} from "../../assets/mockData";
+} from "../../lib/mockData";
 import { SoloText } from "../tableComponents/SoloText/SoloText";
 import { NftTitle } from "../tableComponents/NftTitle/NftTitle";
+import { textTruncate } from "../../lib/utils";
 
 export function Table({ data }: { data: Mockdata[] }) {
   const getFormattedClaimedDate = (date: EpochTimeStamp) =>
@@ -45,29 +46,36 @@ export function Table({ data }: { data: Mockdata[] }) {
         </tr>
       </thead>
       <tbody>
-        {data.map((row, index) => (
-          <tr key={`${row.id}_${index}`}>
-            <td>{row.id}</td>
-            <td>
-              <NftTitle title={row.nftName} imgUrl={row.nftAvatar} />
-            </td>
-            <td>{row.description}</td>
-            <td>
-              {splitAttributes(row.attributes).map((attribute) => (
-                <SoloText key={attribute} text={attribute} />
-              ))}
-            </td>
-            <td>
-              <SoloText
-                text={row.status}
-                style={STATUS_BACKGROUND_MAPPING[row.status]}
-              />
-            </td>
-            <td className={styles.dateClaimedRow}>
-              {getFormattedClaimedDate(row.dateClaimed)}
-            </td>
-          </tr>
-        ))}
+        {data.map((row, index) => {
+          const id = textTruncate(row.id, 30);
+          const name = textTruncate(row.nftName, 20);
+          const description = textTruncate(row.description, 100);
+          return (
+            <tr key={`${row.id}_${index}`}>
+              <td title={id.isModified ? row.id : ""}>{id.text}</td>
+              <td title={name.isModified ? row.nftName : ""}>
+                <NftTitle title={name.text} imgUrl={row.nftAvatar} />
+              </td>
+              <td title={description.isModified ? row.description : ""}>
+                {description.text}
+              </td>
+              <td>
+                {splitAttributes(row.attributes).map((attribute) => (
+                  <SoloText key={attribute} text={attribute} />
+                ))}
+              </td>
+              <td>
+                <SoloText
+                  text={row.status}
+                  style={STATUS_BACKGROUND_MAPPING[row.status]}
+                />
+              </td>
+              <td className={styles.dateClaimedRow}>
+                {getFormattedClaimedDate(row.dateClaimed)}
+              </td>
+            </tr>
+          );
+        })}
       </tbody>
     </table>
   );

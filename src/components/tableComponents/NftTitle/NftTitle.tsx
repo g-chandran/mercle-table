@@ -1,4 +1,4 @@
-import { TITLE_BG_COLORS } from "../../../assets/constants";
+import { TITLE_BG_COLORS } from "../../../lib/constants";
 import styles from "./NftTitle.module.css";
 
 export function NftTitle({ imgUrl, title }: { imgUrl: string; title: string }) {
