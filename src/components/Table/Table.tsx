@@ -8,6 +8,7 @@ import { SoloText } from "../tableComponents/SoloText/SoloText";
 import { NftTitle } from "../tableComponents/NftTitle/NftTitle";
 import { textTruncate } from "../../lib/utils";
 import { Tooltip } from "../tableComponents/Tooltip/Tooltip";
+import { FaSort } from "react-icons/fa";
 
 export function Table({ data }: { data: Mockdata[] }) {
   const getFormattedClaimedDate = (date: EpochTimeStamp) =>
@@ -29,9 +30,21 @@ export function Table({ data }: { data: Mockdata[] }) {
       <thead>
         <tr>
           <th className={`${styles.theadTitle} ${styles.id}`}>
-            Discord / Wallet / Email ID
+            <div>
+              <p>Discord / Wallet / Email ID</p>
+              <div>
+                <FaSort />{" "}
+              </div>
+            </div>
           </th>
-          <th className={`${styles.theadTitle} ${styles.nftName}`}>NFT</th>
+          <th className={`${styles.theadTitle} ${styles.nftName}`}>
+            <div>
+              <p>NFT</p>
+              <div>
+                <FaSort />
+              </div>
+            </div>
+          </th>
           <th className={`${styles.theadTitle} ${styles.description}`}>
             NFT Description
           </th>

@@ -1,7 +1,7 @@
 .table {
   width: max(calc(100% - 2rem), 80rem);
   margin: 0 1rem;
-  background-color: var(--primary-color);
+  background-color: var(--tertiary-color);
   border-radius: 0.5rem 0.5rem 0 0;
 }
 
@@ -49,4 +49,17 @@ tbody tr > td {
 
 .dateClaimedRow {
   text-align: right;
+}
+
+.id > div, .nftName > div {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+.id > div > div,
+.nftName > div > div {
+  background-color: var(--primary-color);
+  padding: 6px 4px 4px 4px;
+  border-radius: 4px;
 }

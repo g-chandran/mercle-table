@@ -2,7 +2,7 @@
   display: flex;
   gap: 0.5rem;
   align-items: center;
-  background-color: var(--primary-color);
+  background-color: var(--tertiary-color);
   margin: 0 1rem 6rem 1rem;
   width: max(calc(100% - 2rem), 80rem);
   padding: 1rem;
@@ -15,9 +15,9 @@
 }
 
 .paginationWrapper select {
-  background-color: var(--primary-color);
+  background-color: var(--tertiary-color);
   padding: 0.5rem;
-  border: 1px solid var(--text-primary);
+  border: 1px solid #282737;
   border-radius: 6px;
   color: var(--text-primary);
   width: min(100%, 8rem);
