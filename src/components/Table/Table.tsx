@@ -61,11 +61,19 @@ export function Table({ data }: { data: Mockdata[] }) {
                 {description.text}
               </td>
               <td className={styles.attributesRow}>
-                {splitAttributes(row.attributes).map((attribute) => (
+                {splitAttributes(row.attributes).map((attribute, index) => (
                   <SoloText
                     key={attribute}
                     text={attribute}
-                    Tooltip={<Tooltip accessory={attribute} />}
+                    Tooltip={
+                      <Tooltip
+                        accessory={
+                          index < 2
+                            ? attribute
+                            : row.attributes.slice(2).join(", ")
+                        }
+                      />
+                    }
                   />
                 ))}
               </td>
