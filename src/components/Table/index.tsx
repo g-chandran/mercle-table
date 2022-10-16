@@ -4,10 +4,10 @@ import {
   Mockdata,
   STATUS_BACKGROUND_MAPPING,
 } from "../../lib/mockData";
-import { SoloText } from "../tableComponents/SoloText/SoloText";
-import { NftTitle } from "../tableComponents/NftTitle/NftTitle";
+import { SoloText } from "../tableComponents/SoloText";
+import { NftTitle } from "../tableComponents/NftTitle";
 import { textTruncate } from "../../lib/utils";
-import { Tooltip } from "../tableComponents/Tooltip/Tooltip";
+import { Tooltip } from "../tableComponents/Tooltip";
 import { FaSort } from "react-icons/fa";
 
 export function Table({ data }: { data: Mockdata[] }) {

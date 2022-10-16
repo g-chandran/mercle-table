@@ -1,8 +1,8 @@
 import { useState } from "react";
 import "./App.css";
-import { Pagination } from "./components/Pagination/Pagination";
-import { SearchBox } from "./components/SearchBox/SearchBox";
-import { Table } from "./components/Table/Table";
+import { Pagination } from "./components/Pagination";
+import { SearchBox } from "./components/SearchBox";
+import { Table } from "./components/Table";
 import { MOCKDATA } from "./lib/mockData";
 
 function App() {
