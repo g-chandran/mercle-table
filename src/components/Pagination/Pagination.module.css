@@ -1,0 +1,43 @@
+.paginationWrapper {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  background-color: var(--primary-color);
+  margin: 0 1rem 6rem 1rem;
+  width: max(calc(100% - 2rem), 80rem);
+  padding: 1rem;
+  border-radius: 0 0 0.5rem 0.5rem;
+}
+
+.paginationWrapper p {
+  font-size: calc(1rem - 2px);
+  color: var(--text-secondary);
+}
+
+.paginationWrapper select {
+  background-color: var(--primary-color);
+  padding: 0.5rem;
+  border: 1px solid var(--text-primary);
+  border-radius: 6px;
+  color: var(--text-primary);
+  width: min(100%, 8rem);
+}
+
+.navigationWrapper {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.navigationWrapper button {
+  color: var(--text-secondary);
+  background-color: transparent;
+  font-size: 1rem;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.navigationWrapper button:disabled {
+  color: var(--text-primary);
+  cursor: not-allowed;
+}

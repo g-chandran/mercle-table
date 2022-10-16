@@ -15,7 +15,6 @@ function App() {
   };
 
   const updateRange = (range: [number, number]) => {
-    console.log(range);
     setRange(range);
   };
 

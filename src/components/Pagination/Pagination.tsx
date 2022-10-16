@@ -1,4 +1,6 @@
 import { useEffect, useState } from "react";
+import { MdNavigateNext, MdNavigateBefore } from "react-icons/md";
+import styles from "./Pagination.module.css";
 
 export function Pagination({
   totalLength,
@@ -15,6 +17,10 @@ export function Pagination({
     updateRange(0);
   }, [perPageLength, totalLength]);
 
+  const canGoBack = () => !(currentPage <= 0);
+  const canGoForward = () =>
+    !(Math.ceil(totalLength / perPageLength) <= currentPage + 1);
+
   const updateRange = (currentPage: number) => {
     const range: [number, number] = [
       currentPage * perPageLength,
@@ -25,15 +31,17 @@ export function Pagination({
   };
 
   const incrementPage = () => {
-    if (Math.ceil(totalLength / perPageLength) <= currentPage + 1) return;
-    updateRange(currentPage + 1);
-    setCurrentPage((currentPage) => currentPage + 1);
+    if (canGoForward()) {
+      updateRange(currentPage + 1);
+      setCurrentPage((currentPage) => currentPage + 1);
+    }
   };
 
   const decrementPage = () => {
-    if (currentPage <= 0) return;
-    updateRange(currentPage - 1);
-    setCurrentPage((currentPage) => currentPage - 1);
+    if (canGoBack()) {
+      updateRange(currentPage - 1);
+      setCurrentPage((currentPage) => currentPage - 1);
+    }
   };
 
   const updatePageRange = (value: number) => {
@@ -42,14 +50,14 @@ export function Pagination({
   };
 
   return (
-    <div>
+    <div className={styles.paginationWrapper}>
       <p>{`${range[0] + 1} - ${range[1]} of ${totalLength}`}</p>
-      <div>
-        <button type="button" onClick={decrementPage}>
-          Prev
+      <div className={styles.navigationWrapper}>
+        <button title="previous-page" disabled={!canGoBack()}>
+          <MdNavigateBefore onClick={decrementPage} />
         </button>
-        <button type="button" onClick={incrementPage}>
-          Next
+        <button title="next-page" disabled={!canGoForward()}>
+          <MdNavigateNext onClick={incrementPage} />
         </button>
       </div>
       <select
